@@ -1,0 +1,125 @@
+{
+  "objectifs": [
+    "Maîtriser l'expression de la durée en heures avec ～じかん",
+    "Utiliser correctement les jours de la semaine en japonais",
+    "Décrire des activités professionnelles quotidiennes"
+  ],
+  "intro": "Dans le monde du travail japonais, la gestion du temps est primordiale. Cette leçon vous permettra d'exprimer des durées précises et de parler de votre emploi du temps professionnel, compétences essentielles pour évoluer dans un environnement japonais.",
+  "sections": [
+    {
+      "titre": "Les jours de la semaine - 曜日（ようび）",
+      "type": "explication",
+      "contenu": "Les jours de la semaine en japonais sont basés sur les **cinq éléments chinois** plus le soleil et la lune :\n\n- **月曜日（げつようび）** - Lundi (月 = lune)\n- **火曜日（かようび）** - Mardi (火 = feu)\n- **水曜日（すいようび）** - Mercredi (水 = eau)\n- **木曜日（もくようび）** - Jeudi (木 = bois/arbre)\n- **金曜日（きんようび）** - Vendredi (金 = métal/or)\n- **土曜日（どようび）** - Samedi (土 = terre)\n- **日曜日（にちようび）** - Dimanche (日 = soleil)\n\n**Astuce mnémotechnique :** Remarquez que le week-end utilise les éléments terre (土) et soleil (日), symbolisant le repos et la nature."
+    },
+    {
+      "titre": "Exprimer la durée avec ～じかん",
+      "type": "explication",
+      "contenu": "Pour indiquer **combien de temps** dure une action, on utilise le compteur **～じかん** après le nombre d'heures :\n\n**Structure de base :**\n- いちじかん (1 heure)\n- にじかん (2 heures)\n- さんじかん (3 heures)\n- よじかん (4 heures)\n- ごじかん (5 heures)\n\n**Attention :** Ne confondez pas avec l'heure de la journée !\n- さんじ = 3 heures (l'heure)\n- さんじかん = 3 heures (la durée)\n\n**Exemples pratiques :**\n- まいにち はちじかん ねます。(Je dors 8 heures chaque jour.)\n- きのう ごじかん べんきょうしました。(J'ai étudié 5 heures hier.)"
+    },
+    {
+      "titre": "Le vocabulaire du travail au bureau",
+      "type": "explication",
+      "contenu": "Voici les actions essentielles du quotidien professionnel :\n\n**Communication :**\n- メールを書きます - écrire un e-mail\n- 電話をします - passer un coup de téléphone\n- 同僚と話します - parler avec un(e) collègue\n\n**Tâches administratives :**\n- レポートを書きます - écrire un rapport\n- 会議に行きます - aller à une réunion\n- 残業をします - faire des heures supplémentaires\n\n**Fréquence temporelle :**\n- 毎日（まいにち）- tous les jours\n- 時々（ときどき）- parfois\n- 来週（らいしゅう）- la semaine prochaine"
+    },
+    {
+      "titre": "Culture : La semaine de travail au Japon",
+      "type": "culture",
+      "contenu": "Au Japon, la semaine de travail standard va du **lundi au vendredi** (月曜日から金曜日まで), mais les heures supplémentaires (残業) sont très courantes. Le concept de **karoshi** (過労死, mort par surmenage) a conduit à des réformes récentes limitant les heures supplémentaires.\n\n**Expressions utiles :**\n- おつかれさまでした - Expression utilisée en fin de journée de travail\n- がんばって！- Courage ! (encouragement au travail)\n- しつれいします - Excusez-moi (en entrant/sortant du bureau)"
+    },
+    {
+      "titre": "Combiner durées et activités",
+      "type": "explication",
+      "contenu": "Pour créer des phrases complètes sur votre emploi du temps :\n\n**Durée + activité :**\n- にじかん かいぎを しました。(J'ai eu une réunion de 2 heures.)\n- いちじかんはん メールを かきました。(J'ai écrit des e-mails pendant 1h30.)\n\n**Durée approximative avec ぐらい :**\n- さんじかんぐらい ざんぎょうを しました。(J'ai fait environ 3 heures supplémentaires.)\n\n**Plages horaires avec から...まで :**\n- くじから ろくじまで しごとを します。(Je travaille de 9h à 18h.)\n- げつようびから きんようびまで かいしゃに いきます。(Je vais au bureau du lundi au vendredi.)"
+    },
+    {
+      "titre": "Questions sur la durée",
+      "type": "explication",
+      "contenu": "Pour demander la durée d'une activité, utilisez **なんじかん** :\n\n**Questions courantes :**\n- まいにち なんじかん はたらきますか。(Combien d'heures travaillez-vous par jour ?)\n- きのう なんじかん ねましたか。(Combien d'heures avez-vous dormi hier ?)\n- しゅうまつ なんじかん うんどうしますか。(Combien d'heures faites-vous du sport le week-end ?)\n\n**Réponses types :**\n- はちじかん はたらきます。(Je travaille 8 heures.)\n- ななじかんぐらい ねました。(J'ai dormi environ 7 heures.)"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Une journée de travail chargée",
+    "contexte": "Deux collègues discutent de leur emploi du temps de la semaine",
+    "lignes": [
+      {
+        "locuteur": "A",
+        "jp": "きのう なんじかん ざんぎょうしましたか。",
+        "fr": "Combien d'heures supplémentaires as-tu fait hier ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "さんじかんぐらい しました。レポートを かきました。",
+        "fr": "J'en ai fait environ 3 heures. J'ai écrit un rapport."
+      },
+      {
+        "locuteur": "A",
+        "jp": "たいへんですね。きょうは？",
+        "fr": "C'est dur ! Et aujourd'hui ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "きょうは くじから ろくじまで かいぎが あります。",
+        "fr": "Aujourd'hui, j'ai une réunion de 9h à 18h."
+      },
+      {
+        "locuteur": "A",
+        "jp": "えー！いちにちじゅう かいぎですか。",
+        "fr": "Quoi ! Une réunion toute la journée ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "はい。でも、きんようびは やすみです。",
+        "fr": "Oui. Mais vendredi, c'est repos."
+      }
+    ]
+  },
+  "points_cles": [
+    "～じかん exprime la durée, pas l'heure de la journée",
+    "Les jours de la semaine sont liés aux éléments naturels",
+    "から...まで permet d'exprimer une plage temporelle",
+    "ぐらい indique une approximation après la durée"
+  ],
+  "erreurs_courantes": [
+    "Confondre さんじ (3 heures - l'heure) avec さんじかん (3 heures - la durée)",
+    "Oublier la particule に après le jour de la semaine pour indiquer 'le' jour",
+    "Utiliser la mauvaise particule avec les activités (を pour les actions directes, に pour les destinations)"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez ces phrases en japonais",
+      "type": "traduction",
+      "items": [
+        "Je travaille 8 heures par jour.",
+        "Mercredi, j'ai une réunion de 2 heures.",
+        "Je fais du sport le samedi et le dimanche."
+      ]
+    },
+    {
+      "consigne": "Complétez avec le jour de la semaine approprié",
+      "type": "trou",
+      "items": [
+        "___ようび は かいしゃ が やすみです。(Le samedi)",
+        "らいしゅうの ___ようび に かいぎが あります。(lundi)",
+        "___ようび から ___ようび まで しごとです。(Du lundi au vendredi)"
+      ]
+    },
+    {
+      "consigne": "Répondez aux questions sur votre emploi du temps",
+      "type": "production",
+      "items": [
+        "まいにち なんじかん しごとを しますか。",
+        "なんようび に うんどうを しますか。",
+        "しゅうまつ なにを しますか。"
+      ]
+    },
+    {
+      "consigne": "Choisissez la bonne expression de durée",
+      "type": "qcm",
+      "items": [
+        "J'ai dormi 7 heures : a) しちじ ねました b) しちじかん ねました c) しちじに ねました",
+        "Une réunion d'environ 1 heure : a) いちじかん かいぎ b) いちじぐらい かいぎ c) いちじかんぐらい かいぎ"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser les jours de la semaine, créez des associations visuelles avec les éléments : imaginez le feu (火) du mardi comme la motivation du début de semaine, l'eau (水) du mercredi au milieu qui rafraîchit, et l'or (金) du vendredi qui brille comme la fin de semaine approche. Pratiquez en notant votre emploi du temps réel en japonais !"
+}

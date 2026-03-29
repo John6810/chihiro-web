@@ -1,0 +1,132 @@
+{
+  "objectifs": [
+    "Maîtriser l'expression de l'heure en japonais avec les kanji 時, 分 et 半",
+    "Utiliser correctement les particules temporelles に, から, まで et ごろ",
+    "Décrire sa routine quotidienne et ses activités avec précision temporelle"
+  ],
+  "intro": "Au Japon, la ponctualité est une valeur fondamentale de la société. Savoir exprimer l'heure avec précision et décrire ses activités quotidiennes est essentiel pour s'intégrer dans la vie japonaise. Cette leçon vous permettra de parler de votre emploi du temps comme un vrai Japonais !",
+  "sections": [
+    {
+      "titre": "Les kanji du temps : 時, 分 et 半",
+      "type": "explication",
+      "contenu": "### Lecture de l'heure en japonais\n\n**時 (じ)** = heure\n- いちじ (1時) = 1 heure\n- にじ (2時) = 2 heures\n- さんじ (3時) = 3 heures\n\n**分 (ふん/ぷん)** = minute\n- いっぷん (1分) = 1 minute\n- にふん (2分) = 2 minutes\n- さんぷん (3分) = 3 minutes\n- よんぷん (4分) = 4 minutes\n- ごふん (5分) = 5 minutes\n\n**半 (はん)** = et demie\n- さんじはん (3時半) = 3h30\n- くじはん (9時半) = 9h30\n\n⚠️ Notez les changements de prononciation pour ふん/ぷん selon le chiffre qui précède !"
+    },
+    {
+      "titre": "La particule に : le moment précis",
+      "type": "explication",
+      "contenu": "La particule **に** marque un **moment précis et défini**. Elle répond à la question \"À quelle heure ?\".\n\n**Structure :** [heure] に [action]\n\n**Exemples :**\n- ろくじ**に** おきます。= Je me lève à 6h.\n- じゅうにじはん**に** ひるごはんを たべます。= Je déjeune à 12h30.\n- なんじ**に** ねますか。= À quelle heure dormez-vous ?\n\n💡 **に** s'utilise uniquement pour des heures précises, pas pour des durées ou des approximations."
+    },
+    {
+      "titre": "から et まで : début et fin",
+      "type": "explication",
+      "contenu": "### から = à partir de, depuis\n\n**Structure :** [heure] から [action]\n- くじ**から** べんきょうします。= J'étudie à partir de 9h.\n- げつようび**から** しごとです。= Je travaille à partir de lundi.\n\n### まで = jusqu'à\n\n**Structure :** [heure] まで [action]\n- ごじ**まで** はたらきます。= Je travaille jusqu'à 5h.\n- どようび**まで** がっこうに いきます。= Je vais à l'école jusqu'à samedi.\n\n### から～まで = de... à...\n\n**Structure :** [début] から [fin] まで [action]\n- はちじ**から** ごじ**まで** しごとを します。= Je travaille de 8h à 17h.\n- げつようび**から** きんようび**まで** べんきょうします。= J'étudie du lundi au vendredi."
+    },
+    {
+      "titre": "ごろ : l'approximation",
+      "type": "explication",
+      "contenu": "**ごろ** indique une heure **approximative** (= vers, environ).\n\n**Structure :** [heure] ごろ [action]\n\n**Exemples :**\n- しちじ**ごろ** ばんごはんを たべます。= Je dîne vers 19h.\n- なんじ**ごろ** かえりますか。= Vers quelle heure rentrez-vous ?\n- じゅうじ**ごろ** ねます。= Je me couche vers 22h.\n\n⚠️ **Attention :** ごろ ne s'utilise **JAMAIS** avec に !\n- ✅ ろくじごろ きます。\n- ❌ ろくじごろに きます。"
+    },
+    {
+      "titre": "Une journée typique au Japon",
+      "type": "culture",
+      "contenu": "### Les horaires japonais\n\nAu Japon, la journée commence tôt :\n- **6h-7h** : Réveil et petit-déjeuner\n- **8h-9h** : Début du travail/école\n- **12h-13h** : Pause déjeuner (souvent un bentō)\n- **17h-19h** : Fin officielle du travail (mais souvent plus tard...)\n- **19h-20h** : Dîner\n- **23h-0h** : Coucher\n\n### La ponctualité japonaise\n\n- Arriver 5-10 minutes **en avance** est la norme\n- Les trains sont précis à la **seconde** près\n- Être en retard est considéré comme un manque de respect\n- On s'excuse profondément même pour 1 minute de retard"
+    },
+    {
+      "titre": "Récapitulatif : Choisir la bonne particule",
+      "type": "recap",
+      "contenu": "### Guide de choix rapide\n\n| Situation | Particule | Exemple |\n|-----------|-----------|----------|\n| Heure précise | に | 8じ**に** おきます |\n| Point de départ | から | 9じ**から** べんきょうします |\n| Point d'arrivée | まで | 5じ**まで** はたらきます |\n| Période complète | から...まで | 9じ**から** 5じ**まで** |\n| Approximation | ごろ | 7じ**ごろ** ねます |\n\n### Questions utiles\n\n- なんじに...? = À quelle heure... ?\n- なんじから...? = À partir de quelle heure... ?\n- なんじまで...? = Jusqu'à quelle heure... ?\n- なんじごろ...? = Vers quelle heure... ?"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Interview sur la routine quotidienne",
+    "contexte": "Un journaliste interviewe Tanaka-san sur sa journée type pour un article sur le mode de vie japonais.",
+    "lignes": [
+      {
+        "locuteur": "記者",
+        "jp": "たなかさん、まいにち なんじに おきますか。",
+        "fr": "Tanaka-san, à quelle heure vous levez-vous chaque jour ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "ろくじはんに おきます。",
+        "fr": "Je me lève à 6h30."
+      },
+      {
+        "locuteur": "記者",
+        "jp": "はやいですね！あさごはんは？",
+        "fr": "C'est tôt ! Et le petit-déjeuner ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "しちじごろ あさごはんを たべます。",
+        "fr": "Je prends le petit-déjeuner vers 7h."
+      },
+      {
+        "locuteur": "記者",
+        "jp": "おしごとは なんじから なんじまでですか。",
+        "fr": "Vous travaillez de quelle heure à quelle heure ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "くじから ろくじまで はたらきます。でも、ときどき はちじまで...。",
+        "fr": "Je travaille de 9h à 18h. Mais parfois jusqu'à 20h..."
+      },
+      {
+        "locuteur": "記者",
+        "jp": "たいへんですね。なんじごろ かえりますか。",
+        "fr": "C'est dur. Vers quelle heure rentrez-vous ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "しちじごろ かえります。そして、じゅういちじに ねます。",
+        "fr": "Je rentre vers 19h. Et je me couche à 23h."
+      }
+    ]
+  },
+  "points_cles": [
+    "に = heure précise exacte (6じに = à 6h pile)",
+    "から = point de départ (9じから = à partir de 9h)",
+    "まで = point d'arrivée (5じまで = jusqu'à 5h)",
+    "ごろ = approximation sans に (7じごろ = vers 7h)",
+    "半 (はん) = et demie (3じはん = 3h30)"
+  ],
+  "erreurs_courantes": [
+    "Utiliser に avec ごろ : ❌ 6じごろに → ✅ 6じごろ",
+    "Oublier に pour l'heure précise : ❌ 7じ おきます → ✅ 7じに おきます",
+    "Confondre ふん et ぷん : いっぷん (1分), にふん (2分), さんぷん (3分)",
+    "Utiliser から ou まで seuls sans verbe d'action",
+    "Oublier que から...まで forme une paire inséparable pour une période"
+  ],
+  "exercices": [
+    {
+      "consigne": "Complétez avec la particule appropriée (に, から, まで, ごろ)",
+      "type": "trou",
+      "items": [
+        "まいあさ 6じ＿＿＿ おきます。",
+        "9じ＿＿＿ 5じ＿＿＿ はたらきます。",
+        "ともだちは 7じ＿＿＿ きます。",
+        "なんじ＿＿＿ ねますか。"
+      ]
+    },
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "Je me lève à 7h30.",
+        "Je travaille de 8h à 17h.",
+        "Mon ami vient vers 18h.",
+        "J'étudie jusqu'à 22h."
+      ]
+    },
+    {
+      "consigne": "Décrivez votre journée type en utilisant les 4 marqueurs temporels",
+      "type": "production",
+      "items": [
+        "Utilisez に pour votre heure de lever",
+        "Utilisez から...まで pour vos heures de travail/cours",
+        "Utilisez ごろ pour votre heure de dîner approximative"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser ces particules, créez un emploi du temps visuel de votre journée en japonais. Affichez-le et consultez-le chaque matin en lisant les heures à voix haute. Les Japonais apprécieront votre précision temporelle - c'est un signe de respect et de professionnalisme dans leur culture !"
+}

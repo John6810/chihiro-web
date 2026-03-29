@@ -1,0 +1,121 @@
+{
+  "objectifs": [
+    "Savoir parler de ses activités de loisirs et de ses jours de congé",
+    "Maîtriser l'utilisation de la particule で pour indiquer le lieu d'une action",
+    "Exprimer la fréquence de ses activités avec les adverbes appropriés"
+  ],
+  "intro": "Au Japon, les loisirs occupent une place importante malgré une culture du travail très présente. Les Japonais profitent de leurs jours de congé (やすみのひ) pour pratiquer diverses activités, du sport aux loisirs créatifs. Aujourd'hui, nous allons apprendre à parler de nos activités préférées et de leur fréquence.",
+  "sections": [
+    {
+      "titre": "Les activités de loisirs au Japon",
+      "type": "culture",
+      "contenu": "Les Japonais ont des loisirs très variés :\n\n**À la maison (うち で)**\n- ゲーム を します (jouer aux jeux vidéo) - très populaire au Japon\n- テレビ を みます (regarder la télévision)\n- ほん を よみます (lire des livres)\n- おんがく を ききます (écouter de la musique)\n\n**À l'extérieur (そと で)**\n- こうえん で さんぽ します (se promener dans le parc)\n- ジム で きんトレ を します (faire de la musculation à la salle)\n- しゃしん を とります (prendre des photos)\n\n**Note culturelle** : Le お風呂 (ofuro, bain) n'est pas qu'une question d'hygiène au Japon, c'est un véritable moment de détente quotidien !"
+    },
+    {
+      "titre": "La particule で : indiquer le lieu de l'action",
+      "type": "explication",
+      "contenu": "La particule で indique **où** se déroule une action. Elle répond à la question どこで～ますか (Où est-ce que...?).\n\n**Structure** : [Lieu] で [Action] ます\n\n**Exemples** :\n- うち で ほん を よみます。(Je lis un livre à la maison.)\n- こうえん で ジョギング を します。(Je fais du jogging dans le parc.)\n- ジム で うんどう します。(Je fais du sport à la salle.)\n\n**Attention** : Ne confondez pas で (lieu de l'action) avec に (destination/lieu d'existence) !\n- がっこう **で** べんきょうします。(J'étudie à l'école.) → action\n- がっこう **に** いきます。(Je vais à l'école.) → destination"
+    },
+    {
+      "titre": "Exprimer la fréquence de ses activités",
+      "type": "explication",
+      "contenu": "Pour parler de la fréquence, placez l'adverbe **avant le verbe** :\n\n**Échelle de fréquence** :\n- いつも (toujours) → 100%\n- よく (souvent) → 70-80%\n- ときどき (parfois) → 30-40%\n- あまり...ません (pas tellement) → 10-20%\n- ぜんぜん...ません (jamais/pas du tout) → 0%\n\n**Exemples positifs** :\n- いつも あさ ジョギング を します。(Je fais toujours du jogging le matin.)\n- よく アニメ を みます。(Je regarde souvent des animes.)\n\n**Exemples négatifs** (avec あまり et ぜんぜん) :\n- あまり テレビ を **みません**。(Je ne regarde pas tellement la télé.)\n- ぜんぜん うんどう **しません**。(Je ne fais jamais de sport.)\n\n⚠️ **Important** : あまり et ぜんぜん s'utilisent TOUJOURS avec la forme négative du verbe !"
+    },
+    {
+      "titre": "Les verbes d'action courants",
+      "type": "explication",
+      "contenu": "Voici les verbes essentiels pour parler de ses loisirs :\n\n**Verbes de perception** :\n- みます (見ます) : regarder/voir\n- ききます (聞きます) : écouter/entendre\n- よみます (読みます) : lire\n\n**Verbes de production** :\n- かきます (書きます) : écrire\n- とります (撮ります) : prendre (une photo)\n- はなします (話します) : parler\n- いいます (言います) : dire\n\n**Le verbe universel** :\n- します : faire (s'utilise avec de nombreux noms)\n  - かじ を します (faire le ménage)\n  - さんぽ します (se promener)\n  - ゲーム を します (jouer aux jeux)\n\n**Astuce** : Beaucoup d'activités sportives utilisent します : サッカー を します、スキー を します、etc."
+    },
+    {
+      "titre": "Parler de ses goûts en détail",
+      "type": "explication",
+      "contenu": "Combinez les goûts et la fréquence pour des phrases plus naturelles :\n\n**Structure complète** :\n[Chose] が すき です から、[fréquence] [action] ます。\n\n**Exemples** :\n- ロック が すき です から、よく ロック を ききます。\n  (J'aime le rock, donc j'écoute souvent du rock.)\n\n- ホラー は すき じゃない です から、ぜんぜん みません。\n  (Je n'aime pas l'horreur, donc je n'en regarde jamais.)\n\n**Genres populaires au Japon** :\n- Films : アクションえいが、コメディ、ホラー、エスエフ、アニメ\n- Musique : ポップス、ロック、ジェーポップ (J-pop)\n- Sports : サッカー、たっきゅう、スキー"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Une conversation sur les loisirs du week-end",
+    "contexte": "Deux collègues, Tanaka-san et Marie, discutent de leurs activités du week-end pendant la pause déjeuner.",
+    "lignes": [
+      {
+        "locuteur": "田中",
+        "jp": "マリーさん、やすみ の ひ は なに を しますか。",
+        "fr": "Marie, qu'est-ce que tu fais les jours de congé ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "そうですね... よく こうえん で さんぽ します。",
+        "fr": "Eh bien... Je me promène souvent dans le parc."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "いいですね。どこ で さんぽ しますか。",
+        "fr": "C'est bien. Où est-ce que tu te promènes ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "ルクセンブルクこうえん で さんぽ します。はな が きれい です。",
+        "fr": "Je me promène au parc de Luxembourg. Les fleurs sont jolies."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "わたし は あまり そと に いきません。うち で ゲーム を します。",
+        "fr": "Moi, je ne sors pas tellement. Je joue aux jeux vidéo à la maison."
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "そうですか。スポーツ は しませんか。",
+        "fr": "Ah bon ? Tu ne fais pas de sport ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "ときどき ジム で きんトレ を します。でも、スポーツ は あまり すき じゃない です。",
+        "fr": "Parfois je fais de la musculation à la salle. Mais je n'aime pas tellement le sport."
+      }
+    ]
+  },
+  "points_cles": [
+    "La particule で indique le lieu où se déroule l'action (≠ に qui indique la destination)",
+    "Les adverbes de fréquence se placent toujours avant le verbe",
+    "あまり et ぜんぜん s'utilisent obligatoirement avec la forme négative du verbe",
+    "Le verbe します s'utilise avec de nombreuses activités (sports, loisirs, etc.)"
+  ],
+  "erreurs_courantes": [
+    "Utiliser に au lieu de で pour le lieu de l'action : ✗ こうえん に さんぽ します → ✓ こうえん で さんぽ します",
+    "Oublier la forme négative avec あまり/ぜんぜん : ✗ あまり みます → ✓ あまり みません",
+    "Confondre l'ordre des mots : ✗ みます よく テレビ を → ✓ よく テレビ を みます",
+    "Oublier を avec les verbes transitifs : ✗ ほん よみます → ✓ ほん を よみます"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez les phrases suivantes en japonais",
+      "type": "traduction",
+      "items": [
+        "Je regarde souvent des films d'action à la maison.",
+        "Je ne fais jamais de jogging.",
+        "Où est-ce que tu écoutes de la musique ?",
+        "Je prends parfois des photos dans le parc."
+      ]
+    },
+    {
+      "consigne": "Complétez avec la particule appropriée (で, を, が, は)",
+      "type": "trou",
+      "items": [
+        "うち __ テレビ __ みます。",
+        "スポーツ __ すき です。",
+        "どこ __ しゃしん __ とりますか。",
+        "ジム __ うんどう します。"
+      ]
+    },
+    {
+      "consigne": "Répondez aux questions sur vos loisirs",
+      "type": "production",
+      "items": [
+        "やすみ の ひ は なに を しますか。",
+        "どこ で ほん を よみますか。",
+        "スポーツ を よく しますか。",
+        "どんな おんがく が すき ですか。"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser les adverbes de fréquence, créez votre propre échelle personnelle : notez vos activités quotidiennes et leur fréquence réelle. Les Japonais apprécient beaucoup quand on s'intéresse à leurs loisirs - c'est un excellent sujet de conversation pour briser la glace !"
+}

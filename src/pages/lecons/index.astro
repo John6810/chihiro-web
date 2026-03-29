@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getLessons, getVocab, getGrammar } from '../../lib/supabase';
+
+const lessons = await getLessons();
+const vocab = await getVocab();
+const grammar = await getGrammar();
+
+// Count per lesson
+const vocabCount = new Map<string, number>();
+const grammarCount = new Map<string, number>();
+for (const v of vocab) vocabCount.set(v.lesson_id, (vocabCount.get(v.lesson_id) || 0) + 1);
+for (const g of grammar) grammarCount.set(g.lesson_id, (grammarCount.get(g.lesson_id) || 0) + 1);
+---
+
+<Layout title="Lecons" active="lecons">
+  <h2>Programme de cours — JLPT N5 ({lessons.length} lecons)</h2>
+
+  <div class="programme">
+    {lessons.map((l, i) => (
+      <a href={`/lecons/${l.id}`} class="programme-row">
+        <div class="programme-num">{l.id.replace('lecon-', '')}</div>
+        <div class="programme-content">
+          <div class="programme-title jp">{l.title}</div>
+          <div class="programme-meta">
+            {l.lesson_date && <span>{l.lesson_date}</span>}
+            {(l.tags || []).slice(0, 3).map(t => <span class="tag">{t}</span>)}
+          </div>
+        </div>
+        <div class="programme-stats">
+          {vocabCount.get(l.id) && <span class="programme-stat">{vocabCount.get(l.id)} mots</span>}
+          {grammarCount.get(l.id) && <span class="programme-stat purple">{grammarCount.get(l.id)} gramm.</span>}
+        </div>
+      </a>
+    ))}
+  </div>
+</Layout>

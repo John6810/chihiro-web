@@ -1,0 +1,135 @@
+{
+  "objectifs": [
+    "Savoir proposer et organiser une fête ou un événement",
+    "Maîtriser les expressions pour demander et proposer des dates",
+    "Apprendre à accepter ou refuser poliment une invitation"
+  ],
+  "intro": "Au Japon, les fêtes et célébrations sont des moments importants de socialisation, que ce soit les fêtes d'anniversaire occidentalisées ou les événements traditionnels comme le hanami. Savoir organiser ces moments avec politesse est essentiel pour maintenir de bonnes relations sociales et professionnelles.",
+  "sections": [
+    {
+      "titre": "Les différents types de fêtes au Japon",
+      "type": "explication",
+      "contenu": "Au Japon, on trouve un mélange de fêtes traditionnelles et occidentales :\n\n**Fêtes occidentalisées :**\n- 誕生日パーティー (fête d'anniversaire) - très populaire surtout chez les jeunes\n- クリスマスパーティー (fête de Noël) - célébrée entre amis ou en couple\n- ウェルカムパーティー (fête de bienvenue) - courante en entreprise ou à l'école\n- ホームパーティー (fête à domicile) - de plus en plus populaire\n\n**Événements traditionnels :**\n- お花見パーティー (pique-nique sous les cerisiers) - incontournable au printemps\n\nLors de ces fêtes, on mange (食べます), on boit (飲みます), on discute (話します), et parfois on fait du karaoké (カラオケをします)."
+    },
+    {
+      "titre": "Demander la disponibilité : いつが良いですか",
+      "type": "explication",
+      "contenu": "Pour organiser une fête, il faut d'abord trouver une date qui convient à tous. La formule la plus polie est **いつが良いですか** (Quel jour vous convient ?).\n\n**Variations utiles :**\n- いつが良いですか。(Quand cela vous convient-il ?)\n- 何曜日が良いですか。(Quel jour de la semaine vous convient ?)\n- 土曜日は良いですか。(Est-ce que samedi vous convient ?)\n\n**Rappel des jours de la semaine :**\n- 月曜日 (げつようび) - lundi\n- 火曜日 (かようび) - mardi\n- 水曜日 (すいようび) - mercredi\n- 木曜日 (もくようび) - jeudi\n- 金曜日 (きんようび) - vendredi\n- 土曜日 (どようび) - samedi\n- 日曜日 (にちようび) - dimanche"
+    },
+    {
+      "titre": "Répondre à une proposition de date",
+      "type": "dialogue",
+      "contenu": "Voici comment répondre poliment à une proposition :\n\n**Pour accepter :**\n- いいです。(C'est bien.)\n- 大丈夫です。(C'est d'accord.)\n- いつでも良いです。(N'importe quand me convient.)\n\n**Pour refuser poliment :**\n- ちょっと... (C'est un peu...)\n- 火曜日はちょっと... (Mardi, c'est un peu...)\n- 金曜日は駄目です。(Vendredi ne va pas.)\n\n**Proposer une alternative :**\n- では、土曜日はどうですか。(Alors, que diriez-vous de samedi ?)\n- じゃ、来週の日曜日は？(Et dimanche prochain ?)"
+    },
+    {
+      "titre": "La politesse dans les refus",
+      "type": "culture",
+      "contenu": "Au Japon, refuser directement est considéré comme impoli. Voici la gradation de politesse :\n\n1. **Le plus poli** : ちょっと... (sans finir la phrase)\n2. **Poli** : すみません、その日はちょっと... (Désolé, ce jour-là c'est un peu...)\n3. **Direct mais acceptable** : 駄目です (Ce n'est pas possible)\n4. **Trop direct** : いやです (Je ne veux pas) - À éviter !\n\nQuand vous refusez, proposez toujours une alternative pour montrer votre bonne volonté."
+    },
+    {
+      "titre": "Les activités lors des fêtes",
+      "type": "explication",
+      "contenu": "Voici le vocabulaire des activités typiques lors des fêtes japonaises :\n\n**Manger et boire :**\n- ケーキを食べます (manger un gâteau)\n- ワインを飲みます (boire du vin)\n- お酒を飲みます (boire de l'alcool)\n\n**S'amuser :**\n- 音楽を聞きます (écouter de la musique)\n- カラオケをします (faire du karaoké)\n- 踊ります (danser)\n- 写真を撮ります (prendre des photos)\n- 友達と話します (parler avec des amis)\n\n**Échanger :**\n- プレゼントをあげます (offrir un cadeau)\n- プレゼントをもらいます (recevoir un cadeau)"
+    },
+    {
+      "titre": "Le hanami : une fête typiquement japonaise",
+      "type": "culture",
+      "contenu": "Le お花見 (hanami) est l'observation des fleurs de cerisier, un événement incontournable du printemps japonais.\n\n**Activités typiques du hanami :**\n- 桜の花を見ます (regarder les fleurs de cerisier)\n- 散歩します (se promener)\n- 歩きます (marcher)\n- お弁当を食べます (manger un bento)\n\nLes Japonais réservent leur place sous les cerisiers très tôt le matin avec une bâche bleue. C'est l'occasion de faire la fête en plein air avec collègues, amis ou famille."
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Organiser une fête d'anniversaire",
+    "contexte": "Yuki veut organiser une fête d'anniversaire et demande à ses amis quand ils sont disponibles.",
+    "lignes": [
+      {
+        "locuteur": "Yuki",
+        "jp": "来週、誕生日パーティーをしたいです。",
+        "fr": "Je voudrais faire une fête d'anniversaire la semaine prochaine."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "いつが良いですか。",
+        "fr": "Quel jour vous convient ?"
+      },
+      {
+        "locuteur": "Kenji",
+        "jp": "金曜日はちょっと...",
+        "fr": "Vendredi, c'est un peu..."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "じゃ、土曜日はどうですか。",
+        "fr": "Alors, que diriez-vous de samedi ?"
+      },
+      {
+        "locuteur": "Kenji",
+        "jp": "土曜日は大丈夫です！",
+        "fr": "Samedi, c'est d'accord !"
+      },
+      {
+        "locuteur": "Mari",
+        "jp": "私もいいです。何時からですか。",
+        "fr": "Pour moi aussi c'est bon. À partir de quelle heure ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "６時からです。カラオケをしましょう！",
+        "fr": "À partir de 18h. Faisons du karaoké !"
+      }
+    ]
+  },
+  "points_cles": [
+    "いつが良いですか est la façon la plus polie de demander une disponibilité",
+    "ちょっと... est un refus poli sans avoir besoin de donner de raison",
+    "Toujours proposer une alternative après un refus pour maintenir la politesse",
+    "Les fêtes japonaises mélangent traditions locales et influences occidentales"
+  ],
+  "erreurs_courantes": [
+    "Utiliser いやです pour refuser - trop direct et impoli",
+    "Oublier de proposer une alternative après avoir refusé une date",
+    "Confondre 大丈夫です (c'est d'accord) et 駄目です (ce n'est pas possible)",
+    "Ne pas utiliser les compteurs de jours correctement (日曜日 et non 日曜)"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez les phrases suivantes en japonais",
+      "type": "traduction",
+      "items": [
+        "Quel jour vous convient pour la fête de Noël ?",
+        "Désolé, lundi ne me convient pas.",
+        "N'importe quel jour me convient.",
+        "Que diriez-vous de dimanche prochain ?"
+      ]
+    },
+    {
+      "consigne": "Choisissez la réponse la plus polie",
+      "type": "qcm",
+      "items": [
+        "Pour refuser poliment : a) いやです b) ちょっと... c) 駄目！",
+        "Pour demander une date : a) いつ？ b) いつが良いですか c) 何曜日？",
+        "Pour accepter : a) はい b) いいです c) オッケー"
+      ]
+    },
+    {
+      "consigne": "Complétez le dialogue avec les expressions appropriées",
+      "type": "trou",
+      "items": [
+        "A: ホームパーティーをしましょう。_____ が良いですか。",
+        "B: 水曜日は _____。木曜日はどうですか。",
+        "A: 木曜日は _____ です。じゃ、金曜日は？",
+        "B: _____ 良いです！"
+      ]
+    },
+    {
+      "consigne": "Créez un court dialogue pour organiser un hanami avec un ami",
+      "type": "production",
+      "items": [
+        "Proposez d'organiser un hanami",
+        "Demandez quand votre ami est disponible",
+        "Votre ami refuse la première date",
+        "Trouvez une date qui convient à tous les deux"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour rendre vos invitations plus naturelles, ajoutez des expressions comme 楽しみです (j'ai hâte) ou 皆で (tous ensemble). N'oubliez pas qu'au Japon, on confirme souvent plusieurs fois la date et l'heure pour éviter tout malentendu. La ponctualité est également très importante lors des événements sociaux."
+}

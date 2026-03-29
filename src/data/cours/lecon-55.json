@@ -1,0 +1,138 @@
+{
+  "objectifs": [
+    "Savoir parler de ses loisirs et hobbies en japonais",
+    "Maîtriser l'utilisation de すき pour exprimer ses préférences",
+    "Savoir utiliser できます pour parler de ses capacités",
+    "Pouvoir poser des questions sur les loisirs avec どんな"
+  ],
+  "intro": "Les loisirs occupent une place importante dans la société japonaise, où l'équilibre entre travail et vie privée est recherché. Les Japonais sont très curieux des hobbies des autres et c'est un excellent sujet de conversation pour créer des liens. Dans ce cours, vous apprendrez à partager vos passions et à découvrir celles de vos interlocuteurs japonais.",
+  "sections": [
+    {
+      "titre": "Le vocabulaire des loisirs",
+      "type": "explication",
+      "contenu": "Le mot **しゅみ (趣味)** signifie hobby ou loisir. C'est un terme très utilisé au Japon car les Japonais attachent beaucoup d'importance aux activités personnelles.\n\n**Catégories principales de loisirs :**\n- **Sports** : スポーツ, サッカー, すいえい, テニス, やきゅう\n- **Culture** : えいが, おんがく, どくしょ, マンガ, アニメ\n- **Activités créatives** : おりがみ, え, しゃしん, あみもの\n- **Autres** : カラオケ, ゲーム, がいこくご\n\n**Note culturelle** : Au Japon, avoir un hobby est considéré comme important pour l'épanouissement personnel. Ne soyez pas surpris si on vous demande しゅみは なんですか lors d'une première rencontre !"
+    },
+    {
+      "titre": "Exprimer ce qu'on aime avec すき",
+      "type": "explication",
+      "contenu": "La structure **[chose] が すき です** permet d'exprimer ce qu'on aime. Attention à bien utiliser la particule **が** et non を !\n\n**Formes principales :**\n- Affirmative : えいが が すき です。(J'aime les films.)\n- Négative : ホラー は すき じゃない です。(Je n'aime pas l'horreur.)\n- Question : どんな おんがく が すき ですか。(Quel genre de musique aimez-vous ?)\n\n**Nuancer avec des adverbes :**\n- だいすき です : j'adore (très fort)\n- すき です : j'aime bien (normal)\n- あまり すき じゃない です : je n'aime pas tellement\n- きらい です : je déteste (à utiliser avec précaution !)"
+    },
+    {
+      "titre": "Parler de ses capacités avec できます",
+      "type": "explication",
+      "contenu": "La structure **[activité] が できます** exprime la capacité de faire quelque chose. Comme pour すき, on utilise la particule **が**.\n\n**Exemples concrets :**\n- テニス が できます。(Je sais jouer au tennis.)\n- おりがみ が できません。(Je ne sais pas faire d'origami.)\n- にほんご が すこし できます。(Je parle un peu japonais.)\n\n**Nuancer ses capacités :**\n- よく できます : je sais bien faire\n- すこし できます : je sais un peu faire\n- あまり できません : je ne sais pas très bien faire\n- ぜんぜん できません : je ne sais pas du tout faire"
+    },
+    {
+      "titre": "Poser des questions avec どんな",
+      "type": "explication",
+      "contenu": "**どんな** signifie \"quel genre de / quel type de\". C'est très utile pour demander des précisions sur les goûts.\n\n**Structure :** どんな + [nom] + が + すき/できます + か\n\n**Exemples pratiques :**\n- どんな スポーツ が すき ですか。(Quel genre de sport aimez-vous ?)\n- どんな えいが が すき ですか。(Quel genre de films aimez-vous ?)\n- どんな ほん が すき ですか。(Quel genre de livres aimez-vous ?)\n\n**Réponses types :**\n- アクション が すき です。(J'aime l'action.)\n- ミステリー と ファンタジー が すき です。(J'aime les policiers et la fantasy.)"
+    },
+    {
+      "titre": "Les genres de films et de livres",
+      "type": "culture",
+      "contenu": "**Genres populaires au Japon :**\n\n**Films (えいが) :**\n- アニメ : très populaire, pas seulement pour les enfants\n- アクション : films d'arts martiaux, samouraïs\n- ホラー : le J-horror est mondialement reconnu\n- れんあい : dramas romantiques très appréciés\n\n**Livres (ほん) :**\n- マンガ : lu par toutes les générations\n- ミステリー : très populaire (Higashino Keigo, etc.)\n- ぶんがく : littérature classique et moderne\n- ライトノベル : romans légers, base de nombreux anime\n\n**Conseil** : Partager ses goûts en matière de culture populaire japonaise (anime, manga) peut être un excellent moyen de créer des liens avec des Japonais !"
+    },
+    {
+      "titre": "Les sports au Japon",
+      "type": "culture",
+      "contenu": "**Sports traditionnels japonais :**\n- じゅうどう (柔道) : art martial olympique\n- けんどう : escrime japonaise\n- きゅうどう : tir à l'arc japonais\n\n**Sports populaires importés :**\n- やきゅう (野球) : extrêmement populaire, avec le lycée Koshien\n- サッカー : de plus en plus populaire depuis la J-League\n- ゴルフ : sport d'affaires par excellence\n\n**Culture du sport :**\n- Les clubs sportifs scolaires (ぶかつ) sont très importants\n- La pratique régulière d'un sport est valorisée\n- Les sports d'équipe développent l'esprit de groupe"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Première rencontre au club de conversation",
+    "contexte": "Yuki rencontre Marie pour la première fois dans un club d'échange linguistique à Tokyo",
+    "lignes": [
+      {
+        "locuteur": "Yuki",
+        "jp": "はじめまして。ゆき です。",
+        "fr": "Enchantée. Je suis Yuki."
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "マリー です。よろしく おねがいします。",
+        "fr": "Je suis Marie. Ravie de vous rencontrer."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "マリーさん の しゅみ は なんですか。",
+        "fr": "Quels sont vos loisirs, Marie ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "どくしょ と えいが が すき です。",
+        "fr": "J'aime la lecture et le cinéma."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "いいですね！どんな えいが が すき ですか。",
+        "fr": "C'est bien ! Quel genre de films aimez-vous ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "アニメ が だいすき です。ゆきさん は？",
+        "fr": "J'adore les anime. Et vous, Yuki ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "わたし も アニメ が すき です。スポーツ も すき です。",
+        "fr": "J'aime aussi les anime. J'aime aussi le sport."
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "どんな スポーツ が できますか。",
+        "fr": "Quels sports savez-vous pratiquer ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "テニス と すいえい が できます。",
+        "fr": "Je sais jouer au tennis et nager."
+      }
+    ]
+  },
+  "points_cles": [
+    "Utilisez toujours が (et non を) avec すき et できます",
+    "どんな se place directement avant le nom, sans particule",
+    "Nuancez vos réponses avec des adverbes (だいすき, あまり, etc.)",
+    "Les Japonais apprécient qu'on s'intéresse à leurs hobbies"
+  ],
+  "erreurs_courantes": [
+    "Utiliser を au lieu de が avec すき/できます",
+    "Oublier です après すき (c'est un adjectif-na !)",
+    "Confondre どんな (quel genre) et なに (quoi)",
+    "Être trop direct avec きらい (je déteste) - préférez すきじゃない"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "J'aime le football.",
+        "Quel genre de musique aimez-vous ?",
+        "Je n'aime pas tellement les films d'horreur.",
+        "Je sais faire de l'origami.",
+        "J'adore les manga !"
+      ]
+    },
+    {
+      "consigne": "Complétez avec la particule correcte (が, は, の, を)",
+      "type": "trou",
+      "items": [
+        "サッカー ___ すき です。",
+        "どんな スポーツ ___ できますか。",
+        "ホラー ___ すき じゃない です。",
+        "わたし ___ しゅみ は どくしょ です。"
+      ]
+    },
+    {
+      "consigne": "Répondez aux questions en japonais",
+      "type": "production",
+      "items": [
+        "しゅみ は なんですか。",
+        "どんな えいが が すき ですか。",
+        "スポーツ が できますか。",
+        "にほんご が できますか。"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour pratiquer, créez votre 'profil de loisirs' en japonais : listez 5 choses que vous aimez et 5 choses que vous savez faire. C'est un excellent exercice de mémorisation et vous serez prêt pour toute conversation ! N'hésitez pas à poser la question しゅみは なんですか à vos partenaires japonais - c'est un excellent brise-glace culturellement approprié."
+}

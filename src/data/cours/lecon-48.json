@@ -1,0 +1,123 @@
+{
+  "objectifs": [
+    "Rédiger un court texte décrivant sa journée en japonais",
+    "Utiliser correctement les connecteurs logiques そして, それから et でも",
+    "Structurer un récit chronologique simple au niveau N5"
+  ],
+  "intro": "La production écrite (さくぶん) est une compétence essentielle pour communiquer en japonais. Aujourd'hui, nous allons apprendre à raconter notre journée en utilisant des connecteurs qui rendront votre récit plus fluide et naturel. Cette compétence vous sera très utile pour écrire des emails, des journaux intimes ou simplement partager votre quotidien avec des amis japonais.",
+  "sections": [
+    {
+      "titre": "Les connecteurs essentiels",
+      "type": "explication",
+      "contenu": "Pour relier vos phrases et créer un récit cohérent, vous avez besoin de connecteurs :\n\n**そして (soshite)** : \"et\" - pour ajouter simplement une information\n- Utilisé pour lier deux actions ou états sans notion temporelle forte\n- Exemple : あさごはんを たべます。そして、がっこうに いきます。(Je prends mon petit-déjeuner. Et je vais à l'école.)\n\n**それから (sorekara)** : \"ensuite, après ça\" - pour marquer une séquence temporelle\n- Indique clairement que l'action suivante se passe après la première\n- Exemple : しゅくだいを します。それから、テレビを みます。(Je fais mes devoirs. Ensuite, je regarde la télé.)\n\n**でも (demo)** : \"mais\" - pour introduire un contraste\n- Marque une opposition ou une nuance\n- Exemple : にほんごは むずかしいです。でも、たのしいです。(Le japonais est difficile. Mais c'est amusant.)"
+    },
+    {
+      "titre": "Structure d'une journée type",
+      "type": "explication",
+      "contenu": "Pour décrire votre journée, suivez cette structure chronologique :\n\n1. **Le matin (あさ)** : réveil, petit-déjeuner, préparation\n2. **La journée (ひる)** : travail, école, déjeuner\n3. **Le soir (よる)** : retour, dîner, loisirs\n4. **La nuit (よる/ばん)** : coucher\n\nUtilisez les heures pour préciser : ～じに (à ~ heures)\nExemple : しちじに おきます。(Je me lève à 7h)"
+    },
+    {
+      "titre": "Vocabulaire utile pour la routine",
+      "type": "explication",
+      "contenu": "**Actions du quotidien :**\n- おきます (se lever)\n- シャワーを あびます (prendre une douche)\n- あさごはんを たべます (prendre le petit-déjeuner)\n- しごとに いきます (aller au travail)\n- べんきょうします (étudier)\n- かいものを します (faire les courses)\n- ばんごはんを つくります (préparer le dîner)\n- ねます (se coucher)\n\n**Expressions de temps :**\n- まいにち (tous les jours)\n- ときどき (parfois)\n- いつも (toujours)\n- ～じかん (~ heures de durée)"
+    },
+    {
+      "titre": "Exemple de production écrite",
+      "type": "exercice",
+      "contenu": "**わたしの いちにち**\n\nわたしは まいにち ろくじはんに おきます。そして、シャワーを あびます。\nしちじに あさごはんを たべます。パンと コーヒーを のみます。\nそれから、はちじに しごとに いきます。\n\nじゅうにじはんに ひるごはんを たべます。どうりょうと レストランに いきます。\nごご いちじに また しごとを します。\nろくじに しごとが おわります。\n\nうちに かえります。それから、ばんごはんを つくります。\nはちじに ともだちと でんわで はなします。\nじゅうじに ほんを よみます。でも、ときどき テレビも みます。\nじゅういちじに ねます。"
+    },
+    {
+      "titre": "Points culturels",
+      "type": "culture",
+      "contenu": "**La ponctualité au Japon**\n\nLes Japonais accordent une grande importance à la ponctualité. Dans vos écrits, mentionner des heures précises montre votre sérieux et votre organisation.\n\n**Le style simple**\n\nEn japonais, la simplicité est valorisée. Évitez les phrases trop longues ou compliquées. Un style direct et clair est préférable, surtout au niveau débutant.\n\n**L'utilisation de まいにち**\n\nCommencer par まいにち (tous les jours) établit immédiatement qu'il s'agit de votre routine quotidienne."
+    },
+    {
+      "titre": "Stratégies de rédaction",
+      "type": "explication",
+      "contenu": "**1. Planifiez avant d'écrire**\n- Listez d'abord vos activités en français\n- Traduisez le vocabulaire nécessaire\n- Organisez chronologiquement\n\n**2. Utilisez des phrases courtes**\n- Une action par phrase\n- Sujet + heure + verbe\n- Ajoutez les connecteurs pour lier\n\n**3. Vérifiez la cohérence temporelle**\n- Les heures doivent être logiques\n- Utilisez それから pour les séquences\n- でも seulement pour les contrastes\n\n**4. Relisez-vous**\n- Vérifiez les particules (に pour l'heure, を pour l'objet)\n- Assurez-vous que chaque phrase a un verbe"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Parler de sa journée avec un ami",
+    "contexte": "Deux amis discutent de leur routine quotidienne",
+    "lignes": [
+      {
+        "locuteur": "A",
+        "jp": "きょうは なにを しましたか。",
+        "fr": "Qu'est-ce que tu as fait aujourd'hui ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "あさ はやく おきました。そして、ジョギングを しました。",
+        "fr": "Je me suis levé tôt le matin. Et j'ai fait du jogging."
+      },
+      {
+        "locuteur": "A",
+        "jp": "いいですね！それから？",
+        "fr": "C'est bien ! Et ensuite ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "それから、あさごはんを たべて、しごとに いきました。",
+        "fr": "Ensuite, j'ai pris mon petit-déjeuner et je suis allé au travail."
+      },
+      {
+        "locuteur": "A",
+        "jp": "いそがしいですね。",
+        "fr": "Tu es occupé !"
+      },
+      {
+        "locuteur": "B",
+        "jp": "はい、でも よるは ゆっくり します。",
+        "fr": "Oui, mais le soir je me détends."
+      }
+    ]
+  },
+  "points_cles": [
+    "そして est neutre, それから indique une séquence temporelle, でも marque un contraste",
+    "Structurez votre journée chronologiquement avec des heures précises",
+    "Utilisez des phrases courtes et simples adaptées au niveau N5",
+    "N'oubliez pas les particules : に pour l'heure, を pour l'objet direct"
+  ],
+  "erreurs_courantes": [
+    "Confondre そして et それから - rappelez-vous que それから implique une succession temporelle",
+    "Oublier la particule に après l'heure (ろくじに et non ろくじ)",
+    "Utiliser でも en début de texte - il faut d'abord établir quelque chose avant de le contraster",
+    "Faire des phrases trop longues - restez simple avec une action par phrase"
+  ],
+  "exercices": [
+    {
+      "consigne": "Complétez avec le connecteur approprié (そして、それから、でも)",
+      "type": "trou",
+      "items": [
+        "ごはんを たべます。___、がっこうに いきます。",
+        "しゅくだいを します。___、ねます。",
+        "にほんごは たのしいです。___、むずかしいです。",
+        "ほんを よみます。___、おんがくも ききます。"
+      ]
+    },
+    {
+      "consigne": "Remettez ces activités dans l'ordre chronologique et reliez-les avec des connecteurs",
+      "type": "production",
+      "items": [
+        "ねます (23h)",
+        "あさごはんを たべます (7h)",
+        "おきます (6h30)",
+        "しごとに いきます (8h)",
+        "ばんごはんを たべます (19h)"
+      ]
+    },
+    {
+      "consigne": "Écrivez 5 phrases sur votre journée en utilisant au moins une fois chaque connecteur",
+      "type": "production",
+      "items": [
+        "Commencez par votre heure de réveil",
+        "Utilisez そして pour ajouter une activité",
+        "Utilisez それから pour la suite chronologique",
+        "Utilisez でも pour introduire une exception ou un contraste",
+        "Terminez par votre heure de coucher"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour progresser en production écrite, tenez un journal en japonais ! Commencez par 3-4 phrases par jour sur votre routine. Utilisez un cahier dédié et relisez régulièrement vos anciennes entrées pour voir vos progrès. N'hésitez pas à varier les connecteurs et à introduire progressivement de nouveaux verbes d'action."
+}

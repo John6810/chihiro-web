@@ -1,0 +1,345 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getLessons, getLesson, getVocab, getGrammar } from '../../lib/supabase';
+import { readFileSync, existsSync } from 'fs';
+import { resolve } from 'path';
+
+export async function getStaticPaths() {
+  const lessons = await getLessons();
+  return lessons.map(l => ({ params: { id: l.id } }));
+}
+
+const { id } = Astro.params;
+const lesson = await getLesson(id!);
+const vocab = await getVocab(id!);
+const grammar = await getGrammar(id!);
+
+// Navigation prev/next
+const allLessons = await getLessons();
+const idx = allLessons.findIndex(l => l.id === id);
+const prev = idx > 0 ? allLessons[idx - 1] : null;
+const next = idx < allLessons.length - 1 ? allLessons[idx + 1] : null;
+
+// Load generated course content if it exists
+let cours: any = null;
+try {
+  const coursPath = resolve(`src/data/cours/${id}.json`);
+  if (existsSync(coursPath)) {
+    cours = JSON.parse(readFileSync(coursPath, 'utf-8'));
+  }
+} catch {}
+
+const sectionIcons: Record<string, string> = {
+  explication: '📖',
+  dialogue: '💬',
+  exercice: '✏️',
+  culture: '🏯',
+  recap: '📋',
+};
+---
+
+<Layout title={lesson?.title || id!} active="lecons">
+  <a href="/lecons" class="back">&larr; Retour aux lecons</a>
+
+  {lesson && (
+    <div class="cours">
+      <!-- En-tete du cours -->
+      <div class="cours-header">
+        <div class="cours-header-top">
+          <div class="cours-number">{lesson.id.replace('lecon-', 'L')}</div>
+          <div class="cours-meta">
+            <h2 class="jp cours-title">{lesson.title}</h2>
+            <div class="cours-info">
+              {lesson.lesson_date && <span>Date : {lesson.lesson_date}</span>}
+              <span>Niveau : JLPT N5</span>
+            </div>
+          </div>
+        </div>
+        <div class="cours-tags">
+          {(lesson.tags || []).map(t => <span class="tag">{t}</span>)}
+        </div>
+      </div>
+
+      {cours ? (
+        <>
+          <!-- Objectifs -->
+          <div class="cours-objectifs">
+            <div class="objectifs-title">Objectifs de la lecon</div>
+            <div class="objectifs-list">
+              {cours.objectifs.map((obj: string) => (
+                <div class="objectif-item">
+                  <span class="objectif-check">✓</span>
+                  <span>{obj}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <!-- Intro -->
+          <div class="cours-intro">
+            <p>{cours.intro}</p>
+          </div>
+
+          <!-- Sommaire -->
+          <div class="cours-sommaire">
+            <div class="sommaire-title">Sommaire</div>
+            <div class="sommaire-items">
+              {cours.sections.map((s: any, i: number) => (
+                <a href={`#section-${i}`} class="sommaire-item">
+                  <span class="sommaire-icon">{i + 1}</span>
+                  <span>{s.titre}</span>
+                  <span class="sommaire-type">{sectionIcons[s.type] || '📄'}</span>
+                </a>
+              ))}
+              {cours.dialogue_exemple && (
+                <a href="#dialogue" class="sommaire-item">
+                  <span class="sommaire-icon">💬</span>
+                  <span>{cours.dialogue_exemple.titre}</span>
+                </a>
+              )}
+              <a href="#vocabulaire" class="sommaire-item">
+                <span class="sommaire-icon">📝</span>
+                <span>Vocabulaire</span>
+                <span class="sommaire-count">{vocab.length} mots</span>
+              </a>
+              {grammar.length > 0 && (
+                <a href="#grammaire" class="sommaire-item">
+                  <span class="sommaire-icon">🧠</span>
+                  <span>Grammaire</span>
+                  <span class="sommaire-count">{grammar.length} points</span>
+                </a>
+              )}
+              <a href="#exercices" class="sommaire-item">
+                <span class="sommaire-icon">✏️</span>
+                <span>Exercices</span>
+              </a>
+            </div>
+          </div>
+
+          <!-- Sections du cours -->
+          {cours.sections.map((section: any, i: number) => (
+            <div class="cours-section" id={`section-${i}`}>
+              <div class="cours-section-header">
+                <span class="cours-section-num">{i + 1}</span>
+                <h3>{section.titre}</h3>
+                <span class="cours-section-type">{sectionIcons[section.type] || '📄'} {section.type}</span>
+              </div>
+              <div class="cours-section-body" set:html={section.contenu.replace(/\n\n/g, '</p><p>').replace(/\n- /g, '<br/>• ').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').replace(/\*(.*?)\*/g, '<em>$1</em>')} />
+            </div>
+          ))}
+
+          <!-- Dialogue -->
+          {cours.dialogue_exemple && (
+            <div class="cours-section dialogue-section" id="dialogue">
+              <div class="cours-section-header">
+                <span class="cours-section-num">💬</span>
+                <h3>{cours.dialogue_exemple.titre}</h3>
+              </div>
+              <div class="dialogue-contexte">{cours.dialogue_exemple.contexte}</div>
+              <div class="dialogue-lines">
+                {cours.dialogue_exemple.lignes.map((l: any) => (
+                  <div class={`dialogue-line ${l.locuteur === 'A' ? 'left' : 'right'}`}>
+                    <div class="dialogue-speaker">{l.locuteur}</div>
+                    <div class="dialogue-bubble">
+                      <div class="dialogue-jp jp">{l.jp}</div>
+                      <div class="dialogue-fr">{l.fr}</div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Vocabulaire -->
+          {vocab.length > 0 && (
+            <div class="cours-section" id="vocabulaire">
+              <div class="cours-section-header">
+                <span class="cours-section-num">📝</span>
+                <h3>Vocabulaire</h3>
+                <span class="badge">{vocab.length} mots</span>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th style="width: 50px">#</th>
+                      <th>Kanji</th>
+                      <th>Hiragana</th>
+                      <th>Romaji</th>
+                      <th>Francais</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {vocab.map((v, i) => (
+                      <tr>
+                        <td class="row-num">{i + 1}</td>
+                        <td class="jp kanji-big">{v.kanji || '—'}</td>
+                        <td class="jp">{v.hiragana}</td>
+                        <td class="romaji-cell">{v.romaji || '—'}</td>
+                        <td class="fr-cell">{v.french}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+
+          <!-- Grammaire -->
+          {grammar.length > 0 && (
+            <div class="cours-section" id="grammaire">
+              <div class="cours-section-header">
+                <span class="cours-section-num">🧠</span>
+                <h3>Grammaire</h3>
+                <span class="badge">{grammar.length} points</span>
+              </div>
+              {grammar.map((g, i) => (
+                <div class="grammar-point">
+                  <div class="gp-num">{i + 1}</div>
+                  <div class="gp-content">
+                    <div class="gp-pattern jp">{g.pattern}</div>
+                    {g.explanation && <div class="gp-explanation">{g.explanation}</div>}
+                    {g.example_jp && (
+                      <div class="gp-example">
+                        <span class="gp-jp jp">{g.example_jp}</span>
+                        <span class="gp-arrow">&rarr;</span>
+                        <span class="gp-fr">{g.example_fr}</span>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <!-- Points cles -->
+          {cours.points_cles && (
+            <div class="cours-pointscles">
+              <div class="pointscles-title">A retenir</div>
+              {cours.points_cles.map((p: string) => (
+                <div class="pointscles-item">
+                  <span class="pointscles-icon">💡</span>
+                  <span>{p}</span>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <!-- Erreurs courantes -->
+          {cours.erreurs_courantes && (
+            <div class="cours-erreurs">
+              <div class="erreurs-title">Erreurs courantes a eviter</div>
+              {cours.erreurs_courantes.map((e: string) => (
+                <div class="erreurs-item">
+                  <span class="erreurs-icon">⚠️</span>
+                  <span>{e}</span>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <!-- Exercices -->
+          {cours.exercices && (
+            <div class="cours-section" id="exercices">
+              <div class="cours-section-header">
+                <span class="cours-section-num">✏️</span>
+                <h3>Exercices</h3>
+              </div>
+              {cours.exercices.map((ex: any, i: number) => (
+                <div class="exercice-block">
+                  <div class="exercice-header">
+                    <span class="exercice-num">Ex. {i + 1}</span>
+                    <span class="exercice-type">{ex.type}</span>
+                  </div>
+                  <div class="exercice-consigne">{ex.consigne}</div>
+                  <div class="exercice-items">
+                    {ex.items.map((item: string, j: number) => (
+                      <div class="exercice-item">
+                        <span class="exercice-item-num">{j + 1}.</span>
+                        <span>{item}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <!-- Conseil du prof -->
+          {cours.conseil_prof && (
+            <div class="cours-conseil">
+              <div class="conseil-icon">👨‍🏫</div>
+              <div class="conseil-content">
+                <div class="conseil-title">Le conseil du prof</div>
+                <p>{cours.conseil_prof}</p>
+              </div>
+            </div>
+          )}
+        </>
+      ) : (
+        <>
+          <!-- Fallback: affichage simple si pas de cours genere -->
+          {vocab.length > 0 && (
+            <div class="fiche">
+              <div class="fiche-header">
+                <h3>Vocabulaire</h3>
+                <span class="badge">{vocab.length} mots</span>
+              </div>
+              <div class="fiche-body">
+                {vocab.map(v => (
+                  <div class="vocab-row">
+                    <span class="vocab-jp jp">{v.kanji || v.hiragana}</span>
+                    {v.kanji && <span class="vocab-reading jp">{v.hiragana}</span>}
+                    {!v.kanji && <span class="vocab-reading"></span>}
+                    <span class="vocab-romaji">{v.romaji || ''}</span>
+                    <span class="vocab-fr">{v.french}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {grammar.length > 0 && (
+            <div class="fiche">
+              <div class="fiche-header">
+                <h3>Grammaire</h3>
+                <span class="badge">{grammar.length} points</span>
+              </div>
+              <div class="fiche-body">
+                {grammar.map(g => (
+                  <div class="grammar-point">
+                    <div class="gp-pattern jp">{g.pattern}</div>
+                    {g.explanation && <div class="gp-explanation">{g.explanation}</div>}
+                    {g.example_jp && (
+                      <div class="gp-example">
+                        <span class="gp-jp jp">{g.example_jp}</span>
+                        <span class="gp-arrow">&rarr;</span>
+                        <span class="gp-fr">{g.example_fr}</span>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </>
+      )}
+
+      <!-- Navigation prev/next -->
+      <div class="cours-nav">
+        {prev ? (
+          <a href={`/lecons/${prev.id}`} class="cours-nav-link prev">
+            <span class="cours-nav-dir">&larr; Lecon precedente</span>
+            <span class="cours-nav-title jp">{prev.title}</span>
+          </a>
+        ) : <div />}
+        {next ? (
+          <a href={`/lecons/${next.id}`} class="cours-nav-link next">
+            <span class="cours-nav-dir">Lecon suivante &rarr;</span>
+            <span class="cours-nav-title jp">{next.title}</span>
+          </a>
+        ) : <div />}
+      </div>
+    </div>
+  )}
+</Layout>

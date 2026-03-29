@@ -1,0 +1,49 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getKanji } from '../lib/supabase';
+
+const kanji = await getKanji();
+const tagColors = ['', 'purple', 'blue', 'green'];
+---
+
+<Layout title="Kanji" active="kanji">
+  <h2>Fiche de revision — Kanji JLPT N5 ({kanji.length})</h2>
+
+  <input type="text" class="search-box" placeholder="Chercher un kanji, une lecture ou un sens..." id="search" />
+
+  <div class="kanji-fiche-grid" id="kanji-grid">
+    {kanji.map(k => (
+      <div class="kanji-fiche" data-search={`${k.character} ${k.meaning_fr} ${k.onyomi} ${k.kunyomi} ${k.example_word} ${(k.tags || []).join(' ')}`.toLowerCase()}>
+        <div class="kanji-fiche-top">
+          <div class="kanji-fiche-char jp">{k.character}</div>
+          <div class="kanji-fiche-info">
+            <div class="kanji-fiche-meaning">{k.meaning_fr}</div>
+            <div class="kanji-fiche-readings jp">
+              <strong>on:</strong> {k.onyomi || '—'}<br />
+              <strong>kun:</strong> {k.kunyomi || '—'}
+            </div>
+          </div>
+        </div>
+        <div class="kanji-fiche-bottom">
+          <span class="kf-example jp">{k.example_word} ({k.example_reading})</span>
+          <span class="kf-tags">
+            {(k.tags || []).map((t, i) => <span class={`tag ${tagColors[i % tagColors.length]}`}>{t}</span>)}
+          </span>
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<script>
+  const search = document.getElementById('search') as HTMLInputElement;
+  const cards = document.querySelectorAll('#kanji-grid .kanji-fiche') as NodeListOf<HTMLElement>;
+
+  search?.addEventListener('input', () => {
+    const q = search.value.toLowerCase();
+    cards.forEach(card => {
+      const data = card.getAttribute('data-search') || '';
+      card.style.display = data.includes(q) ? '' : 'none';
+    });
+  });
+</script>

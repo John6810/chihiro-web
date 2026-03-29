@@ -1,0 +1,141 @@
+{
+  "objectifs": [
+    "Réviser et consolider les structures grammaticales des Topics 1 à 5",
+    "Maîtriser l'utilisation des particules は, が, を, の, に, で, と, も",
+    "Pratiquer les expressions de présentation, de goûts et de description"
+  ],
+  "intro": "Cette leçon de révision vous permet de consolider vos acquis des cinq premiers topics. Nous allons revoir systématiquement les structures essentielles pour vous présenter, parler de vos goûts, décrire des personnes et votre quotidien - des compétences fondamentales pour communiquer en japonais au niveau débutant.",
+  "sections": [
+    {
+      "titre": "1. Les présentations et informations personnelles",
+      "type": "recap",
+      "contenu": "## Structures de base pour se présenter\n\n**わたしは [nom] です。** (Je suis [nom])\n**[pays] から きました。** (Je viens de [pays])\n**[profession] です。** (Je suis [profession])\n\n### Rappel des particules clés :\n- **は** : particule de thème (ce dont on parle)\n- **から** : provenance (d'où)\n- **の** : possession ou appartenance\n\n### Exemples pratiques :\n- わたしは マリー です。(Je suis Marie)\n- フランス から きました。(Je viens de France)\n- だいがくの がくせい です。(Je suis étudiante à l'université)\n- せんせいの なまえは たなかさん です。(Le nom du professeur est M./Mme Tanaka)"
+    },
+    {
+      "titre": "2. Exprimer ses goûts et préférences",
+      "type": "explication",
+      "contenu": "## Les adjectifs な pour les goûts\n\n### Structure : [sujet] は [objet] が すき/きらい/とくい/にがて です。\n\n**すきです** : aimer\n**きらいです** : ne pas aimer\n**とくいです** : être doué pour\n**にがてです** : avoir du mal avec\n\n### Points importants :\n- La particule **が** marque l'objet du sentiment\n- La particule **は** marque le sujet qui ressent\n- On peut omettre le sujet si le contexte est clair\n\n### Exemples variés :\n- わたしは にく が すきです。(J'aime la viande)\n- やさい が きらいです。(Je n'aime pas les légumes)\n- にほんご が とくいです。(Je suis doué en japonais)\n- すうがく が にがてです。(J'ai du mal avec les maths)"
+    },
+    {
+      "titre": "3. Décrire les personnes et les objets",
+      "type": "explication",
+      "contenu": "## Les adjectifs い et les descriptions physiques\n\n### Adjectifs い courants :\n- **たかい** : grand, haut\n- **ひくい** : petit, bas\n- **ながい** : long\n- **みじかい** : court\n\n### Formes verbales pour décrire l'apparence :\n- **ふとっている** : être gros/grosse\n- **やせている** : être maigre\n\n### Structure : [sujet] は [caractéristique] です。\n\nExemples :\n- ともだちは せ が たかいです。(Mon ami est grand)\n- いもうとは かみ が ながいです。(Ma petite sœur a les cheveux longs)\n- ちちは ふとっています。(Mon père est gros)"
+    },
+    {
+      "titre": "4. Les particules essentielles en contexte",
+      "type": "recap",
+      "contenu": "## Révision des particules principales\n\n### を : objet direct d'action\n- パン を たべます。(Manger du pain)\n\n### に : direction, temps, lieu d'existence\n- がっこう に いきます。(Aller à l'école)\n- 7じ に おきます。(Se lever à 7h)\n\n### で : lieu d'action, moyen\n- だいどころ で りょうり を します。(Cuisiner dans la cuisine)\n- バス で いきます。(Y aller en bus)\n\n### と : avec, et (connexion)\n- ともだち と あいます。(Rencontrer des amis)\n- パン と コーヒー (Pain et café)\n\n### も : aussi\n- わたし も がくせいです。(Je suis aussi étudiant)"
+    },
+    {
+      "titre": "5. La famille et les relations",
+      "type": "culture",
+      "contenu": "## Vocabulaire familial et nuances culturelles\n\n### Ma famille vs la famille des autres\n\nAu Japon, on utilise des mots différents selon qu'on parle de sa propre famille ou de celle des autres :\n\n**Ma famille** :\n- ちち (père) / はは (mère)\n- あに (frère aîné) / あね (sœur aînée)\n- おとうと (frère cadet) / いもうと (sœur cadette)\n\n**La famille des autres** (plus poli) :\n- おとうさん / おかあさん\n- おにいさん / おねえさん\n- おとうとさん / いもうとさん\n\n### Exemple d'utilisation :\n- わたしの かぞくは 4にん です。(Ma famille compte 4 personnes)\n- おとうさんは せんせいですか。(Votre père est-il professeur ?)"
+    },
+    {
+      "titre": "6. Le quotidien et les activités",
+      "type": "exercice",
+      "contenu": "## Pratique : Décrire sa journée\n\n### Structures temporelles de base :\n- [heure] じ に [action] (Faire [action] à [heure])\n- [jour] ようび に [action] (Faire [action] le [jour])\n\n### Exemples de routine :\n- まいにち 7じ に おきます。(Je me lève à 7h tous les jours)\n- げつようび に にほんご を べんきょうします。(J'étudie le japonais le lundi)\n- どようび に ともだち と パーティー を します。(Je fais une fête avec des amis samedi)\n\n### Vocabulaire utile :\n- せいかつ (vie quotidienne)\n- じかん (temps/heure)\n- かつどう (activité)\n- いべんと (événement)\n- たんじょうび (anniversaire)"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "À une fête d'anniversaire",
+    "contexte": "Marie rencontre Yuki à la fête d'anniversaire d'un ami commun. Elles font connaissance.",
+    "lignes": [
+      {
+        "locuteur": "Marie",
+        "jp": "はじめまして。マリーです。",
+        "fr": "Enchantée. Je suis Marie."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "ゆきです。どうぞ よろしく。",
+        "fr": "Je suis Yuki. Ravie de vous connaître."
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "ゆきさんは がくせいですか。",
+        "fr": "Yuki, êtes-vous étudiante ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "はい、だいがくの がくせいです。マリーさんは？",
+        "fr": "Oui, je suis étudiante à l'université. Et vous Marie ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "わたしも がくせいです。にほんご が すきです。",
+        "fr": "Je suis aussi étudiante. J'aime le japonais."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "そうですか。にほんご が とくいですか。",
+        "fr": "Ah bon ? Êtes-vous douée en japonais ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "いいえ、まだ にがてです。でも、べんきょう が すきです。",
+        "fr": "Non, j'ai encore du mal. Mais j'aime étudier."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "たんじょうびパーティー は たのしいですね。",
+        "fr": "La fête d'anniversaire est amusante, n'est-ce pas ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "はい、とても たのしいです！",
+        "fr": "Oui, c'est très amusant !"
+      }
+    ]
+  },
+  "points_cles": [
+    "La particule は marque le thème principal de la phrase",
+    "La particule が marque l'objet des sentiments et préférences",
+    "Les adjectifs い se conjuguent, les adjectifs な utilisent です",
+    "Le vocabulaire familial change selon qu'on parle de sa famille ou celle des autres",
+    "L'ordre des mots en japonais est généralement : Sujet-Objet-Verbe"
+  ],
+  "erreurs_courantes": [
+    "Confondre は et が : は = thème général, が = sujet spécifique ou objet de sentiment",
+    "Utiliser ちち/はは pour parler du père/mère de quelqu'un d'autre (utilisez おとうさん/おかあさん)",
+    "Oublier la particule を avec les verbes transitifs",
+    "Confondre に (destination/temps) et で (lieu d'action)",
+    "Utiliser です directement après un verbe (incorrect : たべますです)"
+  ],
+  "exercices": [
+    {
+      "consigne": "Complétez avec la particule appropriée (は, が, を, の, に, で, と, も)",
+      "type": "trou",
+      "items": [
+        "わたし___ フランスじん です。",
+        "にほんご___ すきです。",
+        "ともだち___ なまえ___ マリーです。",
+        "7じ___ あさごはん___ たべます。",
+        "がっこう___ べんきょうします。"
+      ]
+    },
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "Je suis étudiant. J'aime les fruits.",
+        "Mon frère aîné est médecin.",
+        "Ma mère cuisine dans la cuisine.",
+        "Je me lève à 6 heures tous les jours.",
+        "Mon ami est grand et mince."
+      ]
+    },
+    {
+      "consigne": "Présentez-vous en 5 phrases en utilisant les structures apprises",
+      "type": "production",
+      "items": [
+        "Votre nom et nationalité",
+        "Votre profession ou statut",
+        "Ce que vous aimez (nourriture, activité)",
+        "Ce pour quoi vous êtes doué ou avez du mal",
+        "Une activité de votre quotidien avec l'heure"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour bien mémoriser les particules, créez des cartes mentales visuelles : associez chaque particule à une image ou un mouvement. Par exemple, imaginez は comme un projecteur qui éclaire le thème principal, et が comme une flèche qui pointe vers l'objet spécifique. La pratique régulière avec des phrases du quotidien est la clé pour automatiser leur utilisation."
+}

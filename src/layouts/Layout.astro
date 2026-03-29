@@ -1,0 +1,44 @@
+---
+interface Props {
+  title: string;
+  active?: string;
+}
+const { title, active } = Astro.props;
+---
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>{title} | Chihiro</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1><a href="/">&#x1F338; Chihiro</a></h1>
+      <nav>
+        <a href="/" class:list={[{ active: active === 'home' }]}>Accueil</a>
+        <a href="/lecons" class:list={[{ active: active === 'lecons' }]}>Lecons</a>
+        <a href="/vocabulaire" class:list={[{ active: active === 'vocab' }]}>Vocabulaire</a>
+        <a href="/grammaire" class:list={[{ active: active === 'grammar' }]}>Grammaire</a>
+        <a href="/kanji" class:list={[{ active: active === 'kanji' }]}>Kanji</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+      <slot />
+    </div>
+  </main>
+  <footer>
+    <div class="container">
+      &#x5343;&#x5C0B; &middot; Chihiro &mdash; JLPT N5 &middot; INL Luxembourg
+    </div>
+  </footer>
+</body>
+</html>
+
+<style is:global>
+  @import '../styles/global.css';
+</style>

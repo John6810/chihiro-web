@@ -1,0 +1,127 @@
+{
+  "objectifs": [
+    "Apprendre à se présenter en japonais de manière polie",
+    "Maîtriser les 15 premiers hiragana (あ à そ)",
+    "Comprendre et utiliser la structure de base わたしは + nom + です"
+  ],
+  "intro": "Se présenter est la première étape essentielle dans toute interaction sociale au Japon. Dans cette leçon, nous allons apprendre les expressions de base pour faire une bonne première impression tout en découvrant les premiers caractères hiragana.",
+  "sections": [
+    {
+      "titre": "Les salutations selon le moment de la journée",
+      "type": "explication",
+      "contenu": "Au Japon, les salutations changent selon le moment de la journée :\n\n- **おはようございます** (ohayou gozaimasu) : Bonjour (matin)\n- **こんにちは** (konnichiwa) : Bonjour (après-midi)\n- **こんばんは** (konbanwa) : Bonsoir\n\nNotez que こんばんは s'utilise à partir de la fin d'après-midi (vers 17h-18h). Ces salutations sont essentielles et montrent votre politesse."
+    },
+    {
+      "titre": "Les premiers hiragana : la ligne des voyelles",
+      "type": "explication",
+      "contenu": "Les hiragana sont l'un des trois systèmes d'écriture japonais. Commençons par les 5 voyelles de base :\n\n- **あ** (a) - comme dans *papa*\n- **い** (i) - comme dans *lit*\n- **う** (u) - comme *ou* dans *cou*\n- **え** (e) - comme *é* dans *été*\n- **お** (o) - comme dans *mot*\n\nCes 5 sons sont la base de toute la prononciation japonaise !"
+    },
+    {
+      "titre": "La structure de base : わたしは + nom + です",
+      "type": "explication",
+      "contenu": "Pour vous présenter en japonais, utilisez cette structure simple :\n\n**わたしは** + [votre nom] + **です**\n\n- **わたし** = je, moi\n- **は** = particule de thème (se prononce *wa*)\n- **です** = être (forme polie)\n\nExemple : わたしは Marie です。(Watashi wa Marie desu.) = Je suis Marie.\n\nCette structure est fondamentale et vous servira dans de nombreuses situations."
+    },
+    {
+      "titre": "Les hiragana : lignes K et S",
+      "type": "explication",
+      "contenu": "Continuons avec deux nouvelles lignes d'hiragana :\n\n**Ligne K :**\n- か (ka), き (ki), く (ku), け (ke), こ (ko)\n\n**Ligne S :**\n- さ (sa), し (shi), す (su), せ (se), そ (so)\n\nAttention : し se prononce *shi* et non *si* !"
+    },
+    {
+      "titre": "La formule de politesse : よろしくおねがいします",
+      "type": "culture",
+      "contenu": "Après vous être présenté, il est d'usage de dire **よろしくおねがいします** (yoroshiku onegaishimasu).\n\nCette expression n'a pas d'équivalent direct en français. Elle exprime :\n- \"Ravi de vous connaître\"\n- \"Prenez soin de moi\"\n- \"J'espère une bonne relation\"\n\nC'est une formule de politesse ESSENTIELLE qui montre votre humilité et votre respect. Les Japonais l'utilisent très fréquemment lors des premières rencontres."
+    },
+    {
+      "titre": "Demander le nom de quelqu'un",
+      "type": "explication",
+      "contenu": "Pour demander poliment le nom de quelqu'un :\n\n**おなまえは？** (o-namae wa?) = Comment vous appelez-vous ?\n\n- **お** = préfixe de politesse\n- **なまえ** = nom\n- **は** = particule de thème\n\nLe préfixe お- rend la question plus polie et respectueuse."
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Première rencontre en soirée",
+    "contexte": "Deux personnes se rencontrent pour la première fois lors d'un cours de japonais",
+    "lignes": [
+      {
+        "locuteur": "A",
+        "jp": "こんばんは。",
+        "fr": "Bonsoir."
+      },
+      {
+        "locuteur": "B",
+        "jp": "こんばんは。",
+        "fr": "Bonsoir."
+      },
+      {
+        "locuteur": "A",
+        "jp": "わたしは Sophie です。",
+        "fr": "Je suis Sophie."
+      },
+      {
+        "locuteur": "B",
+        "jp": "わたしは Kenji です。",
+        "fr": "Je suis Kenji."
+      },
+      {
+        "locuteur": "A",
+        "jp": "よろしくおねがいします。",
+        "fr": "Ravie de vous connaître."
+      },
+      {
+        "locuteur": "B",
+        "jp": "よろしくおねがいします。",
+        "fr": "Ravi de vous connaître."
+      }
+    ]
+  },
+  "points_cles": [
+    "La structure わたしは + nom + です est la base pour se présenter",
+    "よろしくおねがいします est indispensable après une présentation",
+    "Les salutations changent selon le moment de la journée",
+    "Les hiragana sont phonétiques : chaque caractère = un son"
+  ],
+  "erreurs_courantes": [
+    "Oublier よろしくおねがいします après s'être présenté",
+    "Confondre la prononciation de し (shi) avec si",
+    "Utiliser こんばんは trop tôt dans la journée (avant 17h)",
+    "Prononcer la particule は comme 'ha' au lieu de 'wa'"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez ces présentations en japonais",
+      "type": "traduction",
+      "items": [
+        "Je suis Paul.",
+        "Bonsoir. Je suis Marie.",
+        "Je suis Thomas. Ravi de vous connaître."
+      ]
+    },
+    {
+      "consigne": "Complétez avec le bon hiragana",
+      "type": "trou",
+      "items": [
+        "わた___ (shi)",
+        "___んばんは (ko)",
+        "よろ___く (shi)"
+      ]
+    },
+    {
+      "consigne": "Quelle salutation utiliser ?",
+      "type": "qcm",
+      "items": [
+        "À 19h : a) おはようございます b) こんにちは c) こんばんは",
+        "À 14h : a) おはようございます b) こんにちは c) こんばんは",
+        "À 8h : a) おはようございます b) こんにちは c) こんばんは"
+      ]
+    },
+    {
+      "consigne": "Écrivez votre propre présentation en japonais (3 phrases minimum)",
+      "type": "production",
+      "items": [
+        "Incluez : une salutation appropriée",
+        "Votre nom avec la structure correcte",
+        "La formule de politesse finale"
+      ]
+    }
+  ],
+  "conseil_prof": "Au Japon, la première impression est cruciale. Entraînez-vous à dire よろしくおねがいします avec une légère inclinaison de la tête (environ 15 degrés). Ce geste, appelé ojigi, renforce la politesse de vos paroles et sera très apprécié par vos interlocuteurs japonais."
+}

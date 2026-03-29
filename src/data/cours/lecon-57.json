@@ -1,0 +1,135 @@
+{
+  "objectifs": [
+    "Apprendre à parler de ses loisirs et passe-temps en japonais",
+    "Maîtriser l'expression des capacités avec できます",
+    "Mémoriser les noms des mois en japonais"
+  ],
+  "intro": "Les loisirs occupent une place importante dans la vie quotidienne japonaise. Savoir parler de ses hobbies est essentiel pour créer des liens avec des Japonais, car c'est souvent un sujet de conversation privilégié lors des premières rencontres, notamment dans le cadre du じこしょうかい (présentation de soi).",
+  "sections": [
+    {
+      "titre": "Vocabulaire des loisirs populaires",
+      "type": "explication",
+      "contenu": "Les Japonais ont emprunté de nombreux mots étrangers pour désigner les loisirs modernes :\n\n**Genres de films :**\n- アクション (akushon) - film d'action\n- コメディ (komedī) - comédie\n- ホラー (horā) - film d'horreur\n- アニメ (anime) - dessin animé japonais\n- エスエフ (esuefu) - science-fiction\n\n**Styles musicaux :**\n- ロック (rokku) - rock\n- ポップス (poppusu) - pop\n- クラシック (kurashikku) - musique classique\n- ジャズ (jazu) - jazz\n\n**Sports et activités :**\n- テニス (tenisu) - tennis\n- やきゅう (野球) - baseball (sport national japonais)\n- じゅうどう (柔道) - judo\n- ピアノ (piano) - piano\n- ギター (gitā) - guitare\n- ダンス (dansu) - danse"
+    },
+    {
+      "titre": "Exprimer ses capacités avec できます",
+      "type": "explication",
+      "contenu": "La structure **[Activité] が できます** permet d'exprimer ce que l'on sait faire :\n\n**Forme affirmative :**\n- ピアノ が できます。(Piano ga dekimasu.) - Je sais jouer du piano.\n- テニス が できます。(Tenisu ga dekimasu.) - Je sais jouer au tennis.\n- スペインご が できます。(Supein-go ga dekimasu.) - Je parle espagnol.\n\n**Forme négative :**\n- ギター が できません。(Gitā ga dekimasen.) - Je ne sais pas jouer de la guitare.\n- じゅうどう が できません。(Jūdō ga dekimasen.) - Je ne sais pas faire du judo.\n\n**Note importante :** La particule が est utilisée avec できます pour marquer l'objet de la capacité."
+    },
+    {
+      "titre": "Les mois de l'année en japonais",
+      "type": "explication",
+      "contenu": "Le système japonais des mois est très logique : chaque mois est simplement numéroté de 1 à 12 avec le suffixe がつ (gatsu) :\n\n- いちがつ (一月) - janvier (mois 1)\n- にがつ (二月) - février (mois 2)\n- さんがつ (三月) - mars (mois 3)\n- しがつ (四月) - avril (mois 4)\n- ごがつ (五月) - mai (mois 5)\n- ろくがつ (六月) - juin (mois 6)\n- しちがつ (七月) - juillet (mois 7)\n- はちがつ (八月) - août (mois 8)\n- くがつ (九月) - septembre (mois 9)\n- じゅうがつ (十月) - octobre (mois 10)\n- じゅういちがつ (十一月) - novembre (mois 11)\n- じゅうにがつ (十二月) - décembre (mois 12)\n\n**Attention :** Notez que avril se dit しがつ (shi-gatsu) et non よんがつ, et juillet se dit しちがつ (shichi-gatsu)."
+    },
+    {
+      "titre": "Parler de ses loisirs",
+      "type": "dialogue",
+      "contenu": "Pour présenter ses loisirs, on utilise la structure :\n**わたし の しゅみ は [loisir] です。**\n\nExemples :\n- わたし の しゅみ は えいが です。- Mon loisir, c'est le cinéma.\n- わたし の しゅみ は おんがく です。- Mon loisir, c'est la musique.\n- わたし の しゅみ は スポーツ です。- Mon loisir, c'est le sport.\n\nPour être plus précis sur la fréquence :\n- よく ホラーえいが を みます。- Je regarde souvent des films d'horreur.\n- ときどき ジャズ を ききます。- J'écoute parfois du jazz.\n- あまり クラシック を ききません。- Je n'écoute pas tellement de musique classique.\n- ぜんぜん やきゅう を しません。- Je ne joue jamais au baseball."
+    },
+    {
+      "titre": "Culture : Les loisirs au Japon",
+      "type": "culture",
+      "contenu": "**Le baseball (やきゅう)** est extrêmement populaire au Japon, au même titre que le football en Europe. Les matchs de lycée (高校野球 kōkō yakyū) sont suivis par tout le pays.\n\n**Les arts martiaux** comme le judo sont pratiqués dès l'école primaire et font partie de l'éducation physique obligatoire.\n\n**Le カラオケ (karaoke)** est l'un des loisirs favoris des Japonais de tous âges. C'est une activité sociale importante entre collègues ou amis.\n\n**L'anime et le manga** ne sont pas considérés comme des loisirs uniquement pour enfants. Beaucoup d'adultes en sont passionnés."
+    },
+    {
+      "titre": "Récapitulatif des structures",
+      "type": "recap",
+      "contenu": "**1. Exprimer une capacité :**\n- [Activité] が できます。→ Je sais faire [activité]\n- [Activité] が できません。→ Je ne sais pas faire [activité]\n\n**2. Parler de ses loisirs :**\n- わたし の しゅみ は [loisir] です。→ Mon loisir est [loisir]\n- [Chose] が すき です。→ J'aime [chose]\n\n**3. Exprimer la fréquence :**\n- よく + verbe-ます → souvent\n- ときどき + verbe-ます → parfois\n- あまり + verbe-ません → pas tellement\n- ぜんぜん + verbe-ません → jamais\n\n**4. Les mois :**\n- [nombre] + がつ → mois de [nombre]"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Première rencontre au club de langue",
+    "contexte": "Tanaka et Marie se rencontrent pour la première fois dans un club d'échange linguistique.",
+    "lignes": [
+      {
+        "locuteur": "田中",
+        "jp": "はじめまして。たなか です。",
+        "fr": "Enchanté. Je suis Tanaka."
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "マリー です。よろしく おねがいします。",
+        "fr": "Je suis Marie. Ravie de vous rencontrer."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "しゅみ は なんですか。",
+        "fr": "Quels sont vos loisirs ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "わたし の しゅみ は おんがく です。ピアノ が できます。",
+        "fr": "Mon loisir, c'est la musique. Je sais jouer du piano."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "いいですね！わたし も おんがく が すき です。",
+        "fr": "C'est bien ! Moi aussi j'aime la musique."
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "たなかさん は ギター が できますか。",
+        "fr": "Tanaka-san, savez-vous jouer de la guitare ?"
+      },
+      {
+        "locuteur": "田中",
+        "jp": "はい、できます。よく ロック を ひきます。",
+        "fr": "Oui, je sais. Je joue souvent du rock."
+      }
+    ]
+  },
+  "points_cles": [
+    "La particule が est obligatoire avec できます pour marquer l'objet de la capacité",
+    "Les mois japonais suivent une logique simple : numéro + がつ",
+    "Beaucoup de loisirs modernes utilisent des mots empruntés à l'anglais (katakana)",
+    "La structure しゅみ は [X] です est très utile pour se présenter"
+  ],
+  "erreurs_courantes": [
+    "Oublier la particule が avec できます (incorrect : ピアノできます)",
+    "Confondre しがつ (avril) avec よんがつ qui n'existe pas",
+    "Utiliser を au lieu de が avec できます",
+    "Oublier que あまり et ぜんぜん nécessitent la forme négative du verbe"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "Je sais jouer au tennis.",
+        "Mon loisir, c'est regarder des films.",
+        "Je ne sais pas parler espagnol.",
+        "J'écoute souvent du jazz."
+      ]
+    },
+    {
+      "consigne": "Complétez avec la bonne particule (が, は, を)",
+      "type": "trou",
+      "items": [
+        "ピアノ ___ できます。",
+        "わたし の しゅみ ___ ダンス です。",
+        "よく アニメ ___ みます。",
+        "ギター ___ できません。"
+      ]
+    },
+    {
+      "consigne": "Écrivez en hiragana les mois suivants",
+      "type": "production",
+      "items": [
+        "Avril",
+        "Juillet",
+        "Septembre",
+        "Décembre"
+      ]
+    },
+    {
+      "consigne": "Choisissez la bonne réponse",
+      "type": "qcm",
+      "items": [
+        "Pour dire 'Je ne joue jamais au baseball', on dit : a) よく やきゅう を します b) ぜんぜん やきゅう を しません c) ときどき やきゅう を します",
+        "Le mois de juillet se dit : a) ななつき b) しちがつ c) なながつ",
+        "Quelle particule utilise-t-on avec できます ? a) を b) に c) が"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser les mois, créez des associations visuelles : imaginez 4 (し) cerises pour avril (しがつ), ou 7 (しち) feux d'artifice pour juillet (しちがつ). Pratiquez votre présentation personnelle en incluant vos vrais loisirs - l'authenticité aide à la mémorisation et rendra vos conversations plus naturelles."
+}

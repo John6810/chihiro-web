@@ -1,0 +1,85 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getVocab } from '../lib/supabase';
+
+const vocab = await getVocab();
+const byLesson = new Map<string, typeof vocab>();
+for (const v of vocab) {
+  if (!byLesson.has(v.lesson_id)) byLesson.set(v.lesson_id, []);
+  byLesson.get(v.lesson_id)!.push(v);
+}
+const sortedLessons = [...byLesson.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<Layout title="Vocabulaire" active="vocab">
+  <h2>Fiche de revision — Vocabulaire ({vocab.length} mots)</h2>
+
+  <input type="text" class="search-box" placeholder="Chercher un mot (japonais ou francais)..." id="search" />
+
+  <div class="filter-pills" id="lesson-filter">
+    <button class="pill active" data-lesson="all">Toutes les lecons</button>
+    {sortedLessons.map(([id]) => (
+      <button class="pill" data-lesson={id}>{id.replace('lecon-', 'Lecon ')}</button>
+    ))}
+  </div>
+
+  <div id="fiches">
+    {sortedLessons.map(([lessonId, words]) => (
+      <div class="fiche" data-lesson={lessonId}>
+        <div class="fiche-header">
+          <h3><a href={`/lecons/${lessonId}`}>{lessonId.replace('lecon-', 'Lecon ')}</a></h3>
+          <span class="badge">{words.length} mots</span>
+        </div>
+        <div class="fiche-body">
+          {words.map(v => (
+            <div class="vocab-row" data-search={`${v.kanji || ''} ${v.hiragana} ${v.romaji || ''} ${v.french}`.toLowerCase()}>
+              <span class="vocab-jp jp">{v.kanji || v.hiragana}</span>
+              {v.kanji && <span class="vocab-reading jp">{v.hiragana}</span>}
+              {!v.kanji && <span class="vocab-reading"></span>}
+              <span class="vocab-romaji">{v.romaji || ''}</span>
+              <span class="vocab-fr">{v.french}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<script>
+  const search = document.getElementById('search') as HTMLInputElement;
+  const rows = document.querySelectorAll('.vocab-row') as NodeListOf<HTMLElement>;
+  const fiches = document.querySelectorAll('.fiche') as NodeListOf<HTMLElement>;
+
+  function filterAll() {
+    const q = search?.value.toLowerCase() || '';
+    const activeLesson = document.querySelector('.filter-pills .pill.active')?.getAttribute('data-lesson') || 'all';
+
+    fiches.forEach(fiche => {
+      const matchLesson = activeLesson === 'all' || fiche.getAttribute('data-lesson') === activeLesson;
+      if (!matchLesson) {
+        fiche.style.display = 'none';
+        return;
+      }
+      fiche.style.display = '';
+      const ficheRows = fiche.querySelectorAll('.vocab-row') as NodeListOf<HTMLElement>;
+      let visibleCount = 0;
+      ficheRows.forEach(row => {
+        const matchSearch = !q || (row.getAttribute('data-search') || '').includes(q);
+        row.style.display = matchSearch ? '' : 'none';
+        if (matchSearch) visibleCount++;
+      });
+      if (q && visibleCount === 0) fiche.style.display = 'none';
+    });
+  }
+
+  search?.addEventListener('input', filterAll);
+
+  document.querySelectorAll('.filter-pills .pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelector('.filter-pills .pill.active')?.classList.remove('active');
+      pill.classList.add('active');
+      filterAll();
+    });
+  });
+</script>

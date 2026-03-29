@@ -1,0 +1,137 @@
+{
+  "objectifs": [
+    "Maîtriser le vocabulaire de la routine quotidienne en japonais",
+    "Savoir décrire sa journée type et ses activités habituelles",
+    "Utiliser correctement les expressions de temps (heure, durée, jours)"
+  ],
+  "intro": "La vie quotidienne au Japon suit souvent un rythme bien défini, avec des horaires précis pour le travail, les repas et les activités personnelles. Dans cette leçon, vous apprendrez à décrire votre routine quotidienne, un sujet de conversation très courant qui vous permettra d'échanger naturellement avec des Japonais sur vos habitudes de vie.",
+  "sections": [
+    {
+      "titre": "Le matin : commencer la journée",
+      "type": "explication",
+      "contenu": "Au Japon, la journée commence généralement tôt. Voici les actions principales du matin :\n\n**Se réveiller et se préparer**\n- 起きます (okimasu) : se lever\n- シャワーを浴びます (shawaa o abimasu) : prendre une douche\n- 顔を洗います (kao o araimasu) : se laver le visage\n- 歯を磨きます (ha o migakimasu) : se brosser les dents\n\n**Se préparer pour sortir**\n- お化粧をします (okeshou o shimasu) : se maquiller\n- 髭を剃ります (hige o sorimasu) : se raser\n- 服を着ます (fuku o kimasu) : s'habiller\n\n**Prendre le petit-déjeuner**\n- 朝ご飯を食べます (asa-gohan o tabemasu) : prendre le petit-déjeuner\n\nNotez que beaucoup de Japonais prennent un bain le soir plutôt que le matin."
+    },
+    {
+      "titre": "Exprimer l'heure et la durée",
+      "type": "explication",
+      "contenu": "**L'heure précise avec に**\n- Formation : [Nombre] + 時 (ji) + に + [verbe]\n- Exemple : 七時に起きます。(shichi-ji ni okimasu) = Je me lève à 7 heures.\n\n**La durée avec 時間**\n- Formation : [Nombre] + 時間 (jikan) + [verbe]\n- Exemple : 八時間寝ます。(hachi-jikan nemasu) = Je dors 8 heures.\n\n**L'approximation avec ごろ et ぐらい**\n- ごろ (goro) : vers (pour l'heure)\n  六時ごろに帰ります。= Je rentre vers 6 heures.\n- ぐらい (gurai) : environ (pour la durée)\n  三十分ぐらいかかります。= Cela prend environ 30 minutes.\n\n**De... à... avec から～まで**\n- 九時から五時まで働きます。= Je travaille de 9h à 17h."
+    },
+    {
+      "titre": "La journée de travail",
+      "type": "dialogue",
+      "contenu": "Voici comment parler de sa journée de travail typique :\n\n**Aller au travail**\n- 会社に行きます (kaisha ni ikimasu) : aller au bureau\n- 学校に行きます (gakkou ni ikimasu) : aller à l'école\n\n**Les activités professionnelles**\n- 仕事をします (shigoto o shimasu) : travailler\n- 勉強をします (benkyou o shimasu) : étudier\n- 残業をします (zangyou o shimasu) : faire des heures supplémentaires\n- アルバイトをします (arubaito o shimasu) : faire un job étudiant\n\n**Les pauses**\n- 昼ご飯を食べます (hiru-gohan o tabemasu) : déjeuner\n- 休みます (yasumimasu) : se reposer"
+    },
+    {
+      "titre": "Les tâches ménagères",
+      "type": "explication",
+      "contenu": "Les tâches ménagères font partie intégrante de la vie quotidienne :\n\n**Le ménage**\n- 掃除をします (souji o shimasu) : faire le ménage\n- 洗濯をします (sentaku o shimasu) : faire la lessive\n- 片付けます (katazukemasu) : ranger\n- 家事をします (kaji o shimasu) : faire les tâches ménagères\n\n**La cuisine**\n- 料理をします (ryouri o shimasu) : cuisiner\n- 買い物をします (kaimono o shimasu) : faire les courses\n\n**S'occuper de quelqu'un**\n- 子供の世話をします (kodomo no sewa o shimasu) : s'occuper des enfants\n- ペットの世話をします (petto no sewa o shimasu) : s'occuper des animaux"
+    },
+    {
+      "titre": "Le temps libre et les loisirs",
+      "type": "explication",
+      "contenu": "**Activités de détente à la maison**\n- テレビを見ます (terebi o mimasu) : regarder la télé\n- 本を読みます (hon o yomimasu) : lire un livre\n- 音楽を聞きます (ongaku o kikimasu) : écouter de la musique\n- ゲームをします (geemu o shimasu) : jouer aux jeux vidéo\n- インターネットをします (intaanetto o shimasu) : surfer sur internet\n\n**Activités sociales**\n- 友達と遊びます (tomodachi to asobimasu) : jouer/sortir avec des amis\n- おしゃべりをします (oshaberi o shimasu) : discuter\n- 電話をかけます (denwa o kakemasu) : téléphoner\n\n**Activités physiques**\n- 運動をします (undou o shimasu) : faire du sport\n- 散歩をします (sanpo o shimasu) : se promener\n- ヨガをします (yoga o shimasu) : faire du yoga"
+    },
+    {
+      "titre": "Culture : Le rythme de vie japonais",
+      "type": "culture",
+      "contenu": "**Les horaires typiques**\nLes Japonais se lèvent généralement entre 6h et 7h. Le travail commence souvent à 9h, mais beaucoup arrivent plus tôt. Les heures supplémentaires (残業) sont courantes.\n\n**Le bain du soir**\nContrairement aux Occidentaux, les Japonais préfèrent prendre un bain (お風呂) le soir pour se détendre. C'est un moment important de relaxation.\n\n**Les repas**\n- Le petit-déjeuner est souvent rapide\n- Le déjeuner se prend vers midi\n- Le dîner est généralement entre 19h et 20h\n\n**L'importance de la ponctualité**\nÊtre à l'heure est fondamental au Japon. On arrive souvent 5-10 minutes en avance."
+    },
+    {
+      "titre": "Récapitulatif : Ma journée type",
+      "type": "recap",
+      "contenu": "**Structure d'une journée**\n1. Le matin (朝 asa)\n   - 6時に起きます\n   - シャワーを浴びます\n   - 朝ご飯を食べます\n   - 8時に家を出ます\n\n2. La journée (昼 hiru)\n   - 9時から5時まで働きます\n   - 12時に昼ご飯を食べます\n\n3. Le soir (晩 ban)\n   - 6時ごろに帰ります\n   - 晩ご飯を食べます\n   - お風呂に入ります\n   - 11時に寝ます\n\n**Expressions utiles**\n- いつも (itsumo) : toujours\n- よく (yoku) : souvent\n- ときどき (tokidoki) : parfois\n- あまり...ません (amari...masen) : ne pas beaucoup..."
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Une journée ordinaire",
+    "contexte": "Yuki parle de sa routine quotidienne avec son amie Marie",
+    "lignes": [
+      {
+        "locuteur": "Marie",
+        "jp": "ゆきさん、何時に起きますか。",
+        "fr": "Yuki, à quelle heure tu te lèves ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "六時半に起きます。マリーさんは？",
+        "fr": "Je me lève à 6h30. Et toi Marie ?"
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "私は七時ごろに起きます。朝ご飯を食べますか。",
+        "fr": "Moi, je me lève vers 7h. Tu prends un petit-déjeuner ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "はい、いつも食べます。そして、八時に会社に行きます。",
+        "fr": "Oui, j'en prends toujours. Puis je vais au bureau à 8h."
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "早いですね！何時まで働きますか。",
+        "fr": "C'est tôt ! Jusqu'à quelle heure tu travailles ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "五時までです。でも、ときどき残業をします。",
+        "fr": "Jusqu'à 17h. Mais parfois je fais des heures supplémentaires."
+      },
+      {
+        "locuteur": "Marie",
+        "jp": "大変ですね。晩ご飯は何時ごろですか。",
+        "fr": "C'est dur ! Le dîner, c'est vers quelle heure ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "七時ごろです。そのあと、お風呂に入って、本を読みます。",
+        "fr": "Vers 19h. Après, je prends un bain et je lis un livre."
+      }
+    ]
+  },
+  "points_cles": [
+    "La particule に est obligatoire pour indiquer l'heure précise d'une action",
+    "Ne pas confondre 時 (ji = heure) et 時間 (jikan = durée)",
+    "Les verbes de routine se construisent souvent avec を : [nom]をします",
+    "L'ordre des activités suit généralement la chronologie naturelle",
+    "Les expressions ごろ et ぐらい rendent la conversation plus naturelle"
+  ],
+  "erreurs_courantes": [
+    "Oublier la particule に après l'heure : ❌ 三時起きます → ✓ 三時に起きます",
+    "Confondre l'heure et la durée : ❌ 二時寝ます (dormir à 2h) → ✓ 二時間寝ます (dormir 2 heures)",
+    "Utiliser を avec des verbes qui ne le demandent pas : ❌ 寝るをします → ✓ 寝ます",
+    "Mauvais ordre des mots avec から/まで : ❌ 働きます九時から → ✓ 九時から働きます"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez les phrases suivantes en japonais",
+      "type": "traduction",
+      "items": [
+        "Je me lève à 6 heures.",
+        "Je travaille de 9h à 17h.",
+        "Le soir, je regarde la télévision pendant une heure.",
+        "Je me couche vers 11h."
+      ]
+    },
+    {
+      "consigne": "Complétez avec la particule appropriée (に, を, から, まで)",
+      "type": "trou",
+      "items": [
+        "七時___起きます。",
+        "九時___五時___働きます。",
+        "テレビ___見ます。",
+        "十時ごろ___寝ます。"
+      ]
+    },
+    {
+      "consigne": "Répondez aux questions sur votre routine",
+      "type": "production",
+      "items": [
+        "何時に起きますか。",
+        "朝ご飯を食べますか。",
+        "何時から何時まで働きますか／勉強しますか。",
+        "晩ご飯のあと、何をしますか。"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour bien mémoriser ce vocabulaire, créez votre propre emploi du temps en japonais. Écrivez votre routine réelle, cela rendra l'apprentissage plus personnel et efficace. N'hésitez pas à utiliser ごろ et ぐらい pour paraître plus naturel - les Japonais apprécient cette nuance qui montre que vous ne prétendez pas à une précision absolue."
+}

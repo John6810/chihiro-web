@@ -1,0 +1,123 @@
+{
+  "objectifs": [
+    "Maîtriser la planification d'événements en proposant plusieurs options",
+    "Utiliser でも pour exprimer l'acceptation flexible",
+    "Pratiquer la prise de décision en groupe avec des activités variées"
+  ],
+  "intro": "Cette leçon approfondit les compétences de planification en japonais en introduisant la gestion de multiples options et la flexibilité dans les choix. Au Japon, la prise de décision en groupe privilégie souvent le consensus et la considération des préférences de chacun, d'où l'importance de savoir proposer et accepter différentes alternatives.",
+  "sections": [
+    {
+      "titre": "Révision rapide : Proposer une date",
+      "type": "recap",
+      "contenu": "Rappelons les structures de base vues dans la leçon précédente :\n\n- **いつが良いですか** (itsu ga ii desu ka) : Quand est-ce que ça vous convient ?\n- **～は大丈夫ですか** (~wa daijoubu desu ka) : Est-ce que ~ vous convient ?\n\nCes expressions restent essentielles pour initier une discussion sur la planification."
+    },
+    {
+      "titre": "La flexibilité avec でも",
+      "type": "explication",
+      "contenu": "La particule **でも** après un jour ou un moment exprime la flexibilité et l'acceptation :\n\n**Formation** : [Jour/Heure/Lieu] + でも + いい/大丈夫\n\n**Exemples** :\n- 土曜日でもいいです。(doyoubi demo ii desu) : Samedi me convient aussi.\n- 3時でも大丈夫です。(san-ji demo daijoubu desu) : 3 heures, ça me va aussi.\n\n**Nuance** : でも montre que vous êtes flexible et accommodant, une attitude très appréciée dans la culture japonaise."
+    },
+    {
+      "titre": "Organiser plusieurs activités",
+      "type": "explication",
+      "contenu": "Quand on planifie plusieurs activités, il faut les organiser :\n\n**Vocabulaire clé** :\n- **決めます** (kimemasu) : décider\n- **確認** (kakunin) : confirmation\n- **チェック** (chekku) : vérifier\n- **比較する** (hikaku suru) : comparer\n\n**Activités courantes** :\n- プールに行きます (pūru ni ikimasu) : aller à la piscine\n- 映画を見ます (eiga wo mimasu) : regarder un film\n- レストランで食べます (resutoran de tabemasu) : manger au restaurant"
+    },
+    {
+      "titre": "Culture : Le processus de décision japonais",
+      "type": "culture",
+      "contenu": "Au Japon, la prise de décision en groupe suit souvent ces étapes :\n\n1. **提案** (teian) : Proposition initiale\n2. **確認** (kakunin) : Vérification des disponibilités de chacun\n3. **調整** (chousei) : Ajustement pour accommoder tout le monde\n4. **決定** (kettei) : Décision finale\n\nL'utilisation du **ルーレット** (roulette) ou d'autres méthodes aléatoires est parfois employée de manière ludique pour éviter les conflits et maintenir l'harmonie du groupe."
+    },
+    {
+      "titre": "Structures pour proposer des choix multiples",
+      "type": "explication",
+      "contenu": "Pour présenter plusieurs options :\n\n**Pattern de base** :\n[Activité 1] と [Activité 2] と [Activité 3]、どれがいいですか。\n(Laquelle préférez-vous parmi [Activité 1], [Activité 2] et [Activité 3] ?)\n\n**Organiser par カテゴリー** (catégorie) :\n- 食べ物 (tabemono) : nourriture\n- スポーツ (supōtsu) : sport\n- エンターテイメント (entāteimento) : divertissement\n\n**Exemple complet** :\nA: プールと映画とカラオケ、どれがいいですか。\nB: 映画でもいいです。プールでも大丈夫です。"
+    },
+    {
+      "titre": "Confirmer les détails de l'événement",
+      "type": "exercice",
+      "contenu": "Une fois les activités choisies, il faut **確認する** (confirmer) :\n\n**Check-list de confirmation** :\n- いつ？(itsu) : Quand ?\n- どこで？(doko de) : Où ?\n- 何時から？(nan-ji kara) : À partir de quelle heure ?\n- だれと？(dare to) : Avec qui ?\n\n**Phrase utile** :\nもう一度チェックしましょう。(mou ichido chekku shimashou)\nVérifions encore une fois."
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Planifier une sortie entre amis",
+    "contexte": "Trois amis (A, B, C) organisent leur week-end avec plusieurs activités possibles",
+    "lignes": [
+      {
+        "locuteur": "A",
+        "jp": "今週末、みんなで何をしますか。",
+        "fr": "Qu'est-ce qu'on fait tous ensemble ce week-end ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "プールはどうですか。",
+        "fr": "Que pensez-vous de la piscine ?"
+      },
+      {
+        "locuteur": "C",
+        "jp": "うーん、映画でもいいです。",
+        "fr": "Hmm, un film me convient aussi."
+      },
+      {
+        "locuteur": "A",
+        "jp": "じゃあ、土曜日の午後、映画を見ますか。",
+        "fr": "Alors, on regarde un film samedi après-midi ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "いいですね。その後、ごはんを食べましょう。",
+        "fr": "C'est bien. Après, allons manger."
+      },
+      {
+        "locuteur": "C",
+        "jp": "賛成！レストランで食べますか。",
+        "fr": "D'accord ! On mange au restaurant ?"
+      },
+      {
+        "locuteur": "A",
+        "jp": "はい、確認しましょう。土曜日2時、映画館で。",
+        "fr": "Oui, confirmons. Samedi 14h au cinéma."
+      }
+    ]
+  },
+  "points_cles": [
+    "でも exprime la flexibilité et l'accommodation dans les choix",
+    "La planification en groupe nécessite de vérifier les préférences de chacun",
+    "確認 (kakunin) est essentiel pour éviter les malentendus",
+    "Proposer plusieurs options favorise la participation de tous"
+  ],
+  "erreurs_courantes": [
+    "Confondre でも (aussi/même) avec demo (mais) - l'intonation est différente",
+    "Oublier la particule で après le lieu quand on utilise 食べます",
+    "Utiliser が au lieu de を avec 映画を見ます",
+    "Ne pas vérifier les détails pratiques après avoir choisi l'activité"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez ces phrases en japonais",
+      "type": "traduction",
+      "items": [
+        "Mercredi me convient aussi.",
+        "Quand allons-nous à la piscine ?",
+        "Vérifions encore une fois le restaurant."
+      ]
+    },
+    {
+      "consigne": "Complétez avec la particule appropriée (で、でも、を、に)",
+      "type": "trou",
+      "items": [
+        "土曜日＿＿いいです。",
+        "レストラン＿＿食べます。",
+        "映画＿＿見ます。"
+      ]
+    },
+    {
+      "consigne": "Répondez aux questions en montrant votre flexibilité",
+      "type": "production",
+      "items": [
+        "金曜日はどうですか。",
+        "カラオケと映画、どちらがいいですか。",
+        "6時は大丈夫ですか。"
+      ]
+    }
+  ],
+  "conseil_prof": "Encouragez vos étudiants à pratiquer la planification réelle d'événements en classe. Créez des scénarios avec des contraintes (certains ne peuvent pas tel jour, d'autres préfèrent telle activité) pour simuler des situations authentiques. L'utilisation d'un vrai ルーレット ou d'une application peut rendre l'exercice plus ludique et mémorable."
+}

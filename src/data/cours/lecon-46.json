@@ -1,0 +1,135 @@
+{
+  "objectifs": [
+    "Savoir dire et comprendre les minutes en japonais",
+    "Maîtriser les variations de prononciation ふん/ぷん",
+    "Utiliser correctement l'heure complète dans des phrases",
+    "Exprimer sa routine quotidienne avec des horaires précis"
+  ],
+  "intro": "Après avoir appris les heures, nous allons maintenant perfectionner notre expression du temps en ajoutant les minutes. Cette précision est essentielle dans la culture japonaise où la ponctualité est une valeur fondamentale. Les trains partent à la minute près et les rendez-vous se prennent avec une exactitude qui peut surprendre !",
+  "sections": [
+    {
+      "titre": "Les minutes : ふん ou ぷん ?",
+      "type": "explication",
+      "contenu": "Le compteur des minutes en japonais est **分** qui se prononce soit **ふん** (fun) soit **ぷん** (pun) selon le chiffre qui précède.\n\n**Règle de prononciation :**\n- **ぷん** (pun) après : 3, 4\n- **っぷん** (ppun) après : 1, 6, 8, 10\n- **ふん** (fun) dans tous les autres cas\n\n**Exemples :**\n- 1分 → いっ**ぷん** (ippun)\n- 2分 → に**ふん** (nifun)\n- 3分 → さん**ぷん** (sanpun)\n- 5分 → ご**ふん** (gofun)\n\n**Cas spécial :** 30分 peut se dire さんじゅっぷん ou simplement **はん** (demie)"
+    },
+    {
+      "titre": "Construction de l'heure complète",
+      "type": "explication",
+      "contenu": "Pour exprimer l'heure avec les minutes, on utilise la structure :\n\n**[heure]じ [minutes]ふん/ぷん です**\n\n**Exemples :**\n- 10h20 → じゅうじ にじゅっぷん です\n- 3h45 → さんじ よんじゅうごふん です\n- 6h30 → ろくじ はん です (ou ろくじ さんじゅっぷん です)\n\n**Pour demander l'heure précise :**\n- いま、なんじ なんぷん ですか。(Quelle heure est-il maintenant ?)\n- なんじ なんぷん に おきますか。(À quelle heure vous levez-vous ?)"
+    },
+    {
+      "titre": "Exprimer des actions à une heure précise",
+      "type": "explication",
+      "contenu": "La particule **に** s'utilise avec l'heure complète pour indiquer le moment précis d'une action :\n\n**[heure]じ [minutes]ふん に [verbe]**\n\n**Exemples de routine quotidienne :**\n- しちじ じゅっぷん に あさごはん を たべます。\n  (Je prends le petit-déjeuner à 7h10)\n- はちじ はん に かいしゃ に いきます。\n  (Je vais au bureau à 8h30)\n- じゅうにじ よんじゅうごふん に ひるごはん を たべます。\n  (Je déjeune à 12h45)\n\n**Note culturelle :** Au Japon, la ponctualité est primordiale. Arriver 5 minutes en avance est considéré comme normal, surtout pour le travail ou les rendez-vous importants."
+    },
+    {
+      "titre": "Après quoi ? La structure の あとで",
+      "type": "explication",
+      "contenu": "Pour exprimer une séquence d'actions, on utilise :\n\n**[nom] の あとで、[verbe]**\n\n**Exemples courants :**\n- あさごはん の あとで、はを みがきます。\n  (Après le petit-déjeuner, je me brosse les dents)\n- しごと の あとで、ジム に いきます。\n  (Après le travail, je vais à la salle de sport)\n- べんきょう の あとで、ゲーム を します。\n  (Après les études, je joue aux jeux vidéo)\n\n**Cette structure est très utile pour décrire sa routine quotidienne de manière plus naturelle.**"
+    },
+    {
+      "titre": "La journée type d'un employé japonais",
+      "type": "culture",
+      "contenu": "Voici un exemple de routine typique au Japon :\n\n**あさ (matin) :**\n- 6じ30ぷん に おきます\n- 7じ に あさごはん を たべます\n- 7じ45ふん に いえ を でます\n- 8じ50ぷん に かいしゃ に つきます\n\n**ひる (midi) :**\n- 12じ に ひるごはん を たべます\n- 12じ45ふん に しごと に もどります\n\n**よる (soir) :**\n- 19じ に しごと が おわります\n- 20じ に いえ に かえります\n- 21じ に ばんごはん を たべます\n- 23じ30ぷん に ねます\n\n**Point culturel :** Les heures de travail au Japon sont souvent longues. Le concept de 残業 (ざんぎょう - heures supplémentaires) est très répandu."
+    },
+    {
+      "titre": "Récapitulatif des minutes particulières",
+      "type": "recap",
+      "contenu": "**Minutes avec っぷん (double consonne) :**\n- 1分 → いっぷん\n- 6分 → ろっぷん\n- 8分 → はっぷん\n- 10分 → じゅっぷん\n- 20分 → にじゅっぷん\n- 30分 → さんじゅっぷん (ou はん)\n- 40分 → よんじゅっぷん\n- 50分 → ごじゅっぷん\n\n**Minutes avec ぷん simple :**\n- 3分 → さんぷん\n- 4分 → よんぷん\n\n**Minutes avec ふん :**\n- 2分 → にふん\n- 5分 → ごふん\n- 7分 → ななふん\n- 9分 → きゅうふん\n- 15分 → じゅうごふん\n- 45分 → よんじゅうごふん"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Au téléphone - Prendre rendez-vous",
+    "contexte": "Yuki appelle son dentiste pour prendre rendez-vous",
+    "lignes": [
+      {
+        "locuteur": "Réceptionniste",
+        "jp": "はい、たなか しか です。",
+        "fr": "Oui, cabinet dentaire Tanaka."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "すみません、よやく を おねがいします。",
+        "fr": "Excusez-moi, j'aimerais prendre rendez-vous."
+      },
+      {
+        "locuteur": "Réceptionniste",
+        "jp": "はい。あした の ごご さんじ はん は どうですか。",
+        "fr": "D'accord. Demain après-midi à 15h30, ça vous convient ?"
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "さんじ はん... ちょっと... よじ じゅうごふん は？",
+        "fr": "15h30... c'est un peu... Et 16h15 ?"
+      },
+      {
+        "locuteur": "Réceptionniste",
+        "jp": "よじ じゅうごふん ですね。だいじょうぶ です。",
+        "fr": "16h15, d'accord. C'est possible."
+      },
+      {
+        "locuteur": "Yuki",
+        "jp": "ありがとう ございます。あした よじ じゅうごふん に いきます。",
+        "fr": "Merci beaucoup. Je viendrai demain à 16h15."
+      }
+    ]
+  },
+  "points_cles": [
+    "La prononciation des minutes change selon le chiffre : ふん/ぷん/っぷん",
+    "30 minutes peut se dire さんじゅっぷん ou simplement はん",
+    "La particule に indique l'heure précise d'une action",
+    "の あとで permet d'exprimer une séquence temporelle",
+    "La ponctualité est fondamentale dans la culture japonaise"
+  ],
+  "erreurs_courantes": [
+    "Oublier le っ dans いっぷん、ろっぷん、はっぷん、じゅっぷん",
+    "Confondre ななふん (7 min) et しちふん (forme incorrecte)",
+    "Utiliser ふん au lieu de ぷん après 3 et 4",
+    "Oublier la particule に pour indiquer l'heure d'une action",
+    "Dire じゅっぷん au lieu de じゅうごふん pour 15 minutes"
+  ],
+  "exercices": [
+    {
+      "consigne": "Écrivez ces heures en hiragana",
+      "type": "production",
+      "items": [
+        "9h08",
+        "12h30",
+        "3h44",
+        "7h16",
+        "10h01"
+      ]
+    },
+    {
+      "consigne": "Traduisez en français",
+      "type": "traduction",
+      "items": [
+        "ごぜん ろくじ よんじゅっぷん に おきます。",
+        "ひるごはん の あとで、さんじゅっぷん やすみます。",
+        "でんしゃ は はちじ にじゅうさんぷん に きます。",
+        "じゅうじ はん に かいぎ が あります。"
+      ]
+    },
+    {
+      "consigne": "Complétez avec la bonne forme de 分",
+      "type": "trou",
+      "items": [
+        "3時15_____ (さんじ じゅうご_____)",
+        "8時08_____ (はちじ はち_____)",
+        "11時30_____ (じゅういちじ さんじゅう_____)",
+        "4時04_____ (よじ よん_____)"
+      ]
+    },
+    {
+      "consigne": "Décrivez votre routine matinale en utilisant des heures précises et の あとで",
+      "type": "production",
+      "items": [
+        "À quelle heure vous levez-vous ?",
+        "Que faites-vous après vous être levé(e) ?",
+        "À quelle heure prenez-vous votre petit-déjeuner ?",
+        "Que faites-vous après le petit-déjeuner ?"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser les variations ふん/ぷん, créez des cartes flash avec d'un côté le chiffre et de l'autre la prononciation correcte. Pratiquez particulièrement les minutes avec っぷん car c'est là que se font le plus d'erreurs. Écoutez aussi les annonces dans les gares japonaises sur YouTube - elles sont excellentes pour s'habituer aux heures précises !"
+}

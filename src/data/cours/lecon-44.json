@@ -1,0 +1,149 @@
+{
+  "objectifs": [
+    "Apprendre le vocabulaire des moments de la journée",
+    "Savoir décrire sa routine quotidienne",
+    "Maîtriser les connecteurs de séquence (そして、それから)",
+    "Distinguer l'usage des particules で et に"
+  ],
+  "intro": "La routine quotidienne est un sujet essentiel pour les conversations de base en japonais. Au Japon, la ponctualité et l'organisation du temps sont des valeurs culturelles importantes, et savoir parler de son emploi du temps est indispensable pour échanger avec des Japonais sur votre vie de tous les jours.",
+  "sections": [
+    {
+      "titre": "Les moments de la journée",
+      "type": "explication",
+      "contenu": "Le japonais distingue plusieurs moments de la journée :\n\n- **朝 (あさ)** : le matin (généralement de 5h à 10h)\n- **昼 (ひる)** : midi et l'après-midi (10h à 17h)\n- **夜 (よる)** : le soir et la nuit (17h à 5h)\n\nPour être plus précis sur les heures :\n- **午前 (ごぜん)** : la matinée (AM) - de minuit à midi\n- **午後 (ごご)** : l'après-midi (PM) - de midi à minuit\n\n**Expressions temporelles utiles :**\n- **毎日 (まいにち)** : tous les jours\n- **一日 (いちにち)** : une journée entière"
+    },
+    {
+      "titre": "Demander et décrire ses activités quotidiennes",
+      "type": "explication",
+      "contenu": "Pour demander ce que quelqu'un fait à un moment précis :\n\n**[moment] は なに を しますか。**\n*Que faites-vous [moment] ?*\n\nExemples :\n- あさ は なに を しますか。 *Que faites-vous le matin ?*\n- → シャワー を あびます。 *Je prends une douche.*\n- ひる は なに を しますか。 *Que faites-vous à midi ?*\n- → ひるごはん を たべます。 *Je mange le déjeuner.*"
+    },
+    {
+      "titre": "Les connecteurs de séquence",
+      "type": "explication",
+      "contenu": "Pour décrire une routine en plusieurs étapes, utilisez :\n\n**そして** : et puis, ensuite (connecte deux actions de même importance)\n**それから** : après cela, puis (indique une progression temporelle)\n\nStructure : [Action 1]。そして、[Action 2]。それから、[Action 3]。\n\nExemple complet :\n- ごぜん７じ に おきます。 *Je me lève à 7h du matin.*\n- そして、あさごはん を たべます。 *Ensuite, je prends le petit-déjeuner.*\n- それから、かいしゃ に いきます。 *Puis, je vais au bureau.*"
+    },
+    {
+      "titre": "Ma journée type",
+      "type": "dialogue",
+      "contenu": "Voici un exemple de conversation sur la routine quotidienne entre deux collègues."
+    },
+    {
+      "titre": "La négation avec les adverbes de fréquence",
+      "type": "explication",
+      "contenu": "Pour exprimer qu'on ne fait pas souvent quelque chose :\n\n**あまり + verbe négatif (〜ません)**\n*pas beaucoup, pas tellement*\n\nExemples :\n- わたし は あまり テレビ を みません。 *Je ne regarde pas beaucoup la télévision.*\n- よる は あまり べんきょう しません。 *Le soir, je n'étudie pas beaucoup.*\n\nAttention : あまり s'utilise TOUJOURS avec la forme négative du verbe."
+    },
+    {
+      "titre": "Rappel : particules で et に",
+      "type": "explication",
+      "contenu": "Dans le contexte de la routine quotidienne :\n\n**に** : indique la destination, la direction\n- がっこう **に** いきます。 *Je vais à l'école.*\n- うち **に** かえります。 *Je rentre à la maison.*\n\n**で** : indique le lieu où se déroule l'action\n- としょかん **で** べんきょうします。 *J'étudie à la bibliothèque.*\n- レストラン **で** たべます。 *Je mange au restaurant.*\n\nMoyen mnémotechnique : に pour le mouvement (aller), で pour l'action sur place."
+    },
+    {
+      "titre": "Culture : Le rythme de vie au Japon",
+      "type": "culture",
+      "contenu": "Au Japon, la journée de travail typique commence tôt. Beaucoup de salariés se lèvent vers 6h pour arriver au bureau avant 9h. Le concept de **朝型 (あさがた)** désigne les personnes matinales, très valorisées dans la société japonaise.\n\nLe déjeuner (ひるごはん) se prend généralement entre midi et 13h, souvent rapidement. Le soir, il n'est pas rare de voir des employés travailler jusqu'à 20h ou plus tard, pratique appelée **残業 (ざんぎょう)** - heures supplémentaires."
+    },
+    {
+      "titre": "Points essentiels à retenir",
+      "type": "recap",
+      "contenu": "1. **Vocabulaire temporel** : あさ、ひる、よる、ごぜん、ごご\n2. **Question sur les activités** : [moment] は なに を しますか。\n3. **Connecteurs** : そして (et puis), それから (après cela)\n4. **Négation avec fréquence** : あまり + verbe en 〜ません\n5. **Particules** : に (destination), で (lieu de l'action)"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Ma journée type",
+    "contexte": "Tanaka-san demande à Marie comment se passe sa journée typique au Japon",
+    "lignes": [
+      {
+        "locuteur": "田中",
+        "jp": "マリーさん、まいにち なんじ に おきますか。",
+        "fr": "Marie, à quelle heure vous levez-vous tous les jours ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "ごぜん ６じはん に おきます。",
+        "fr": "Je me lève à 6h30 du matin."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "はやいですね！あさ は なに を しますか。",
+        "fr": "C'est tôt ! Que faites-vous le matin ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "シャワー を あびます。そして、あさごはん を たべます。",
+        "fr": "Je prends une douche. Puis, je prends le petit-déjeuner."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "それから？",
+        "fr": "Et après ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "それから、でんしゃ で かいしゃ に いきます。",
+        "fr": "Après cela, je vais au bureau en train."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "よる は なに を しますか。",
+        "fr": "Que faites-vous le soir ?"
+      },
+      {
+        "locuteur": "マリー",
+        "jp": "ばんごはん を たべます。でも、あまり テレビ を みません。",
+        "fr": "Je dîne. Mais je ne regarde pas beaucoup la télé."
+      }
+    ]
+  },
+  "points_cles": [
+    "Utilisez まいにち pour exprimer une routine quotidienne",
+    "そして connecte des actions de même niveau, それから indique une progression",
+    "あまり s'utilise toujours avec la forme négative",
+    "に indique où vous allez, で indique où vous faites l'action"
+  ],
+  "erreurs_courantes": [
+    "Confondre に et で : に pour la destination, で pour le lieu de l'action",
+    "Utiliser あまり avec un verbe positif (toujours utiliser la forme négative)",
+    "Oublier la particule は après le moment de la journée dans les questions",
+    "Mélanger l'ordre de そして et それから dans une séquence"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "Je vais à l'école tous les jours",
+        "Que faites-vous le soir ?",
+        "Je ne mange pas beaucoup le matin",
+        "Je déjeune à midi, puis je lis un livre"
+      ]
+    },
+    {
+      "consigne": "Choisissez la bonne particule (に ou で)",
+      "type": "qcm",
+      "items": [
+        "うち __ かえります",
+        "カフェ __ コーヒー を のみます",
+        "にほん __ いきます",
+        "こうえん __ あるきます"
+      ]
+    },
+    {
+      "consigne": "Complétez avec le bon connecteur (そして ou それから)",
+      "type": "trou",
+      "items": [
+        "あさごはん を たべます。___、しんぶん を よみます。",
+        "６じ に おきます。___、かお を あらいます。___、あさごはん を たべます。"
+      ]
+    },
+    {
+      "consigne": "Décrivez votre routine du matin en 4 phrases en utilisant そして et それから",
+      "type": "production",
+      "items": [
+        "Utilisez au moins 3 verbes différents",
+        "Incluez l'heure à laquelle vous vous levez",
+        "Terminez par votre départ de la maison"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour rendre l'apprentissage plus concret, demandez à vos étudiants de créer un emploi du temps visuel de leur journée avec les heures en japonais. Encouragez-les à utiliser les expressions temporelles apprises pour décrire leur vraie routine. Les Japonais apprécient beaucoup quand les étrangers peuvent parler de leur quotidien - c'est un excellent sujet de conversation pour briser la glace !"
+}

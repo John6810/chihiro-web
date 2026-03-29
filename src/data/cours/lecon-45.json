@@ -1,0 +1,121 @@
+{
+  "objectifs": [
+    "Savoir dire et demander l'heure en japonais",
+    "Utiliser correctement la particule に avec les heures",
+    "Mémoriser les exceptions de prononciation (4h, 9h)"
+  ],
+  "intro": "L'heure est un élément fondamental de la communication quotidienne au Japon, où la ponctualité est une valeur culturelle très importante. Dans cette leçon, nous apprendrons à exprimer l'heure en japonais et à utiliser la particule に pour indiquer le moment où une action se produit.",
+  "sections": [
+    {
+      "titre": "Les heures de 1h à 12h",
+      "type": "explication",
+      "contenu": "Pour dire l'heure en japonais, on utilise le chiffre suivi de 時 (じ):\n\n- 1時 (いちじ) - 1h\n- 2時 (にじ) - 2h\n- 3時 (さんじ) - 3h\n- 4時 (**よじ**) - 4h ⚠️ Exception!\n- 5時 (ごじ) - 5h\n- 6時 (ろくじ) - 6h\n- 7時 (しちじ) - 7h\n- 8時 (はちじ) - 8h\n- 9時 (**くじ**) - 9h ⚠️ Exception!\n- 10時 (じゅうじ) - 10h\n- 11時 (じゅういちじ) - 11h\n- 12時 (じゅうにじ) - 12h\n\n**Attention aux exceptions**: 4h se dit よじ (pas しじ) et 9h se dit くじ (pas きゅうじ)."
+    },
+    {
+      "titre": "Demander et dire l'heure",
+      "type": "explication",
+      "contenu": "Pour demander l'heure:\n- いま、なんじですか。(Ima, nanji desu ka.) - Quelle heure est-il maintenant?\n\nPour répondre:\n- [heure] です。([heure] desu.) - Il est [heure].\n\nExemples:\n- いま、なんじですか。→ さんじです。(Il est 3h)\n- いま、なんじですか。→ じゅうじです。(Il est 10h)"
+    },
+    {
+      "titre": "La particule に pour exprimer le temps",
+      "type": "explication",
+      "contenu": "La particule に s'utilise après une heure pour indiquer **quand** une action se produit:\n\n**Structure**: [heure] に [verbe]\n\nExemples:\n- 7じ**に**おきます。(Je me lève à 7h)\n- 8じ**に**あさごはんをたべます。(Je prends le petit-déjeuner à 8h)\n- 9じ**に**しごとにいきます。(Je vais au travail à 9h)\n\n⚠️ に est **obligatoire** avec une heure précise!"
+    },
+    {
+      "titre": "Culture: La ponctualité au Japon",
+      "type": "culture",
+      "contenu": "Au Japon, la ponctualité est extrêmement importante. Arriver à l'heure signifie souvent arriver 5 à 10 minutes en avance. Les trains japonais sont célèbres pour leur ponctualité à la minute près. Dans le contexte professionnel ou scolaire, être en retard même de quelques minutes est considéré comme très impoli. Cette culture de la ponctualité se reflète dans l'importance accordée à l'expression précise de l'heure dans la langue japonaise."
+    },
+    {
+      "titre": "Ma routine quotidienne",
+      "type": "dialogue",
+      "contenu": "Voici comment parler de sa routine quotidienne en utilisant les heures:\n\n- あさ 6じに おきます。(Je me lève à 6h du matin)\n- 7じに あさごはんを たべます。(Je prends le petit-déjeuner à 7h)\n- 8じに がっこうに いきます。(Je vais à l'école à 8h)\n- よる 10じに ねます。(Je me couche à 22h)"
+    },
+    {
+      "titre": "Récapitulatif",
+      "type": "recap",
+      "contenu": "**À retenir:**\n\n1. Les heures se forment avec: nombre + 時(じ)\n2. Exceptions importantes: 4時 = よじ, 9時 = くじ\n3. Pour demander l'heure: いま、なんじですか。\n4. La particule に est obligatoire après l'heure pour dire 'à [heure]'\n5. Structure: [heure] に [action]"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Au bureau - Vérifier l'heure d'une réunion",
+    "contexte": "Tanaka-san vérifie l'heure de la réunion avec son collègue Yamada-san",
+    "lignes": [
+      {
+        "locuteur": "田中",
+        "jp": "やまださん、かいぎは なんじですか。",
+        "fr": "Yamada-san, à quelle heure est la réunion?"
+      },
+      {
+        "locuteur": "山田",
+        "jp": "じゅうじです。",
+        "fr": "C'est à 10h."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "いま、なんじですか。",
+        "fr": "Quelle heure est-il maintenant?"
+      },
+      {
+        "locuteur": "山田",
+        "jp": "くじはんです。",
+        "fr": "Il est 9h30."
+      },
+      {
+        "locuteur": "田中",
+        "jp": "ありがとうございます。",
+        "fr": "Merci beaucoup."
+      }
+    ]
+  },
+  "points_cles": [
+    "4時 se prononce よじ (pas しじ) et 9時 se prononce くじ (pas きゅうじ)",
+    "La particule に est obligatoire après l'heure pour indiquer 'à [heure]'",
+    "いま、なんじですか est la façon standard de demander l'heure"
+  ],
+  "erreurs_courantes": [
+    "Oublier la particule に après l'heure (❌ 8じ いきます → ✅ 8じに いきます)",
+    "Dire しじ pour 4h au lieu de よじ",
+    "Dire きゅうじ pour 9h au lieu de くじ"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez en japonais (hiragana)",
+      "type": "traduction",
+      "items": [
+        "Il est 5h",
+        "Je me lève à 6h",
+        "À quelle heure mangez-vous?",
+        "Je vais à l'école à 8h"
+      ]
+    },
+    {
+      "consigne": "Quelle est la bonne prononciation?",
+      "type": "qcm",
+      "items": [
+        "4時: a) しじ b) よんじ c) よじ",
+        "9時: a) くじ b) きゅうじ c) ここのじ",
+        "7時: a) ななじ b) しちじ c) なのじ"
+      ]
+    },
+    {
+      "consigne": "Complétez avec la particule correcte",
+      "type": "trou",
+      "items": [
+        "8じ___ がっこうにいきます。",
+        "いま、12じ___ です。",
+        "なんじ___ ねますか。"
+      ]
+    },
+    {
+      "consigne": "Écrivez votre routine du matin en japonais (3 phrases minimum avec des heures)",
+      "type": "production",
+      "items": [
+        "Utilisez au moins 3 heures différentes",
+        "Utilisez la particule に correctement",
+        "Variez les actions (se lever, manger, aller quelque part...)"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour mémoriser les exceptions (よじ et くじ), créez des associations visuelles ou des histoires. Par exemple, imaginez 4 personnes qui disent 'YO!' ou 9 personnes dans une queue (KU). La répétition orale est essentielle: pratiquez en disant l'heure chaque fois que vous regardez une horloge!"
+}

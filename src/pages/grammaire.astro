@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getGrammar } from '../lib/supabase';
+
+const grammar = await getGrammar();
+const byLesson = new Map<string, typeof grammar>();
+for (const g of grammar) {
+  if (!byLesson.has(g.lesson_id)) byLesson.set(g.lesson_id, []);
+  byLesson.get(g.lesson_id)!.push(g);
+}
+const sortedLessons = [...byLesson.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<Layout title="Grammaire" active="grammar">
+  <h2>Fiche de revision — Grammaire ({grammar.length} points)</h2>
+
+  <input type="text" class="search-box" placeholder="Chercher un pattern ou un mot..." id="search" />
+
+  <div class="filter-pills" id="lesson-filter">
+    <button class="pill active" data-lesson="all">Toutes les lecons</button>
+    {sortedLessons.map(([id]) => (
+      <button class="pill" data-lesson={id}>{id.replace('lecon-', 'Lecon ')}</button>
+    ))}
+  </div>
+
+  <div id="fiches">
+    {sortedLessons.map(([lessonId, points]) => (
+      <div class="fiche" data-lesson={lessonId}>
+        <div class="fiche-header">
+          <h3><a href={`/lecons/${lessonId}`}>{lessonId.replace('lecon-', 'Lecon ')}</a></h3>
+          <span class="badge">{points.length} points</span>
+        </div>
+        <div class="fiche-body">
+          {points.map(g => (
+            <div class="grammar-point" data-search={`${g.pattern} ${g.explanation || ''} ${g.example_jp || ''} ${g.example_fr || ''}`.toLowerCase()}>
+              <div class="gp-pattern jp">{g.pattern}</div>
+              {g.explanation && <div class="gp-explanation">{g.explanation}</div>}
+              {g.example_jp && (
+                <div class="gp-example">
+                  <span class="gp-jp jp">{g.example_jp}</span>
+                  <span class="gp-arrow">&rarr;</span>
+                  <span class="gp-fr">{g.example_fr}</span>
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<script>
+  const search = document.getElementById('search') as HTMLInputElement;
+  const fiches = document.querySelectorAll('.fiche') as NodeListOf<HTMLElement>;
+
+  function filterAll() {
+    const q = search?.value.toLowerCase() || '';
+    const activeLesson = document.querySelector('.filter-pills .pill.active')?.getAttribute('data-lesson') || 'all';
+
+    fiches.forEach(fiche => {
+      const matchLesson = activeLesson === 'all' || fiche.getAttribute('data-lesson') === activeLesson;
+      if (!matchLesson) {
+        fiche.style.display = 'none';
+        return;
+      }
+      fiche.style.display = '';
+      const points = fiche.querySelectorAll('.grammar-point') as NodeListOf<HTMLElement>;
+      let visibleCount = 0;
+      points.forEach(pt => {
+        const matchSearch = !q || (pt.getAttribute('data-search') || '').includes(q);
+        pt.style.display = matchSearch ? '' : 'none';
+        if (matchSearch) visibleCount++;
+      });
+      if (q && visibleCount === 0) fiche.style.display = 'none';
+    });
+  }
+
+  search?.addEventListener('input', filterAll);
+
+  document.querySelectorAll('.filter-pills .pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelector('.filter-pills .pill.active')?.classList.remove('active');
+      pill.classList.add('active');
+      filterAll();
+    });
+  });
+</script>

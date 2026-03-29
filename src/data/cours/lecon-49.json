@@ -1,0 +1,111 @@
+{
+  "objectifs": [
+    "Maîtriser les jours de la semaine en japonais",
+    "Utiliser correctement la particule の pour lier jour et heure",
+    "Pouvoir parler de son emploi du temps hebdomadaire"
+  ],
+  "intro": "Les jours de la semaine sont essentiels pour organiser sa vie quotidienne au Japon. Chaque jour porte le nom d'un élément naturel (lune, feu, eau...) suivi de ようび (yoobi), créant ainsi un système poétique hérité du calendrier chinois. Cette leçon vous permettra de planifier vos activités et de comprendre les horaires japonais.",
+  "sections": [
+    {
+      "titre": "Les jours de la semaine : un système astronomique",
+      "type": "explication",
+      "contenu": "Les jours de la semaine japonais suivent un système basé sur les astres et les éléments :\n\n- **月曜日** (げつようび) : jour de la lune 🌙\n- **火曜日** (かようび) : jour du feu/Mars 🔥\n- **水曜日** (すいようび) : jour de l'eau/Mercure 💧\n- **木曜日** (もくようび) : jour du bois/Jupiter 🌳\n- **金曜日** (きんようび) : jour du métal/Vénus ⚡\n- **土曜日** (どようび) : jour de la terre/Saturne 🌍\n- **日曜日** (にちようび) : jour du soleil ☀️\n\n**Astuce mémorisation** : Remarquez que le week-end commence par la terre (土) et finit par le soleil (日)."
+    },
+    {
+      "titre": "La particule の pour préciser l'heure d'un jour",
+      "type": "explication",
+      "contenu": "Pour indiquer une heure précise un jour donné, utilisez la structure :\n\n**[Jour] の [Heure] に [Action]**\n\nExemples :\n- げつようび の くじ に がっこう に いきます。\n  (Je vais à l'école lundi à 9h.)\n- どようび の さんじ に ともだち と あいます。\n  (Je rencontre des amis samedi à 3h.)\n\n**Attention** : Sans heure précise, on n'utilise PAS の :\n- きょう は きんようび です。(Aujourd'hui c'est vendredi.)"
+    },
+    {
+      "titre": "La semaine de travail au Japon",
+      "type": "culture",
+      "contenu": "Au Japon, la semaine de travail standard va du lundi au vendredi, comme en Europe. Cependant :\n\n- Beaucoup d'entreprises ont des **会議** (かいぎ, réunions) le lundi matin\n- Le vendredi soir, les collègues font souvent des **飲み会** (のみかい, soirées entre collègues)\n- Certaines écoles ont cours le samedi matin\n- Les magasins sont généralement ouverts tous les jours, y compris le dimanche\n\n**Conseil** : Évitez de programmer des rendez-vous importants le lundi matin ou le vendredi soir !"
+    },
+    {
+      "titre": "Parler de son emploi du temps",
+      "type": "dialogue",
+      "contenu": "Voici des phrases utiles pour parler de votre semaine :\n\n- まいにち なんじ に おきますか。\n  (À quelle heure vous levez-vous tous les jours ?)\n- げつようび から きんようび まで はたらきます。\n  (Je travaille du lundi au vendredi.)\n- どようび と にちようび は やすみ です。\n  (Samedi et dimanche sont des jours de repos.)\n- すいようび の ごご は いそがしい です。\n  (Le mercredi après-midi, je suis occupé.)"
+    },
+    {
+      "titre": "Exercices pratiques",
+      "type": "exercice",
+      "contenu": "### A. Associez le kanji au jour\n\n1. 月 → ?\n2. 火 → ?\n3. 水 → ?\n4. 木 → ?\n5. 金 → ?\n\n### B. Complétez avec la particule correcte\n\n1. もくようび ＿ じゅうじ ＿ かいぎ が あります。\n2. きょう ＿ すいようび です。\n3. にちようび ＿ ごぜん ＿ テニス を します。"
+    }
+  ],
+  "dialogue_exemple": {
+    "titre": "Planifier un rendez-vous",
+    "contexte": "Deux amis essaient de trouver un moment pour se voir",
+    "lignes": [
+      {
+        "locuteur": "A",
+        "jp": "らいしゅう あいましょう。",
+        "fr": "Voyons-nous la semaine prochaine."
+      },
+      {
+        "locuteur": "B",
+        "jp": "いいですね。いつ が いいですか。",
+        "fr": "Bonne idée. Quand est-ce que ça vous va ?"
+      },
+      {
+        "locuteur": "A",
+        "jp": "かようび の ろくじ は どうですか。",
+        "fr": "Que diriez-vous de mardi à 18h ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "すみません、かようび は いそがしいです。",
+        "fr": "Désolé, je suis occupé mardi."
+      },
+      {
+        "locuteur": "A",
+        "jp": "じゃあ、もくようび の しちじ は？",
+        "fr": "Alors, jeudi à 19h ?"
+      },
+      {
+        "locuteur": "B",
+        "jp": "だいじょうぶです！もくようび に あいましょう。",
+        "fr": "C'est bon ! Voyons-nous jeudi."
+      }
+    ]
+  },
+  "points_cles": [
+    "Les jours se terminent tous par ようび (yoobi)",
+    "La particule の lie le jour et l'heure uniquement quand on précise une heure",
+    "La semaine commence par げつようび (lundi) au Japon comme en France",
+    "Mémorisez les kanji : ils représentent des éléments naturels"
+  ],
+  "erreurs_courantes": [
+    "Ne pas confondre かようび (mardi) et きんようび (vendredi)",
+    "Oublier la particule の entre le jour et l'heure",
+    "Utiliser の quand on parle du jour sans mentionner l'heure"
+  ],
+  "exercices": [
+    {
+      "consigne": "Traduisez en japonais",
+      "type": "traduction",
+      "items": [
+        "Je vais au cinéma samedi à 14h",
+        "Lundi est un jour chargé",
+        "Je travaille du mardi au vendredi"
+      ]
+    },
+    {
+      "consigne": "Quel jour sommes-nous ?",
+      "type": "qcm",
+      "items": [
+        "きょう は 水曜日 です。あした は？ a) かようび b) もくようび c) きんようび",
+        "あした は 月曜日 です。きのう は？ a) どようび b) にちようび c) きんようび"
+      ]
+    },
+    {
+      "consigne": "Complétez votre emploi du temps en japonais",
+      "type": "production",
+      "items": [
+        "げつようび の ＿＿じ に ＿＿＿＿。",
+        "きんようび の ＿＿じ に ＿＿＿＿。",
+        "にちようび は ＿＿＿＿。"
+      ]
+    }
+  ],
+  "conseil_prof": "Pour bien mémoriser les jours, créez votre propre emploi du temps en japonais et affichez-le. Associez chaque jour à une activité régulière : げつようび = ヨガ、かようび = にほんご の べんきょう, etc. Cette répétition quotidienne ancrera naturellement le vocabulaire."
+}
