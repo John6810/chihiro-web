@@ -47,9 +47,6 @@ jobs:
           tags: |
             ${{ env.IMAGE }}:${{ steps.sha.outputs.short }}
             ${{ env.IMAGE }}:latest
-          build-args: |
-            SUPABASE_URL=${{ secrets.SUPABASE_URL }}
-            SUPABASE_KEY=${{ secrets.SUPABASE_KEY }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
 

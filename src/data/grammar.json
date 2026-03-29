@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 1090,
+    "lesson_id": "lecon-01",
+    "pattern": "[Nom] + です",
+    "explanation": "La copule です est utilisée pour identifier, décrire ou donner une profession. C'est la forme polie. [Nom] + です - わたしは Julien です → *Je suis Julien*",
+    "example_jp": "わたしは Julien です",
+    "example_fr": "Je suis Julien"
+  },
+  {
+    "id": 1091,
+    "lesson_id": "lecon-01",
+    "pattern": "わたしは + [nom] + です",
+    "explanation": "わたし signifie « moi/je ». Dans les présentations personnelles, on utilise souvent : わたしは + [nom] + です - わたしは Jonathan です → *Je suis Jonathan*",
+    "example_jp": "わたしは Jonathan です",
+    "example_fr": "Je suis Jonathan"
+  },
+  {
+    "id": 1092,
+    "lesson_id": "lecon-02",
+    "pattern": "[Verbe] + ましょう",
+    "explanation": "La forme ~ましょう exprime une suggestion ou une invitation à faire quelque chose ensemble. [Verbe] + ましょう - かきましょう → *Écrivons !*",
+    "example_jp": "かきましょう",
+    "example_fr": "Écrivons !"
+  },
+  {
+    "id": 1093,
+    "lesson_id": "lecon-02",
+    "pattern": "[Nombre] + ページ (pēji) = page [nombre]",
+    "explanation": "Pour indiquer les pages d'un document : [Nombre] + ページ (pēji) = page [nombre] - 2ページ → *page 2*",
+    "example_jp": "2ページ",
+    "example_fr": "page 2"
+  },
+  {
+    "id": 1094,
+    "lesson_id": "lecon-03",
+    "pattern": "はじめまして。[Nom] です。",
+    "explanation": "Cette expression est utilisée uniquement la première fois qu'on rencontre quelqu'un. Elle signifie littéralement « c'est la première fois ». はじめまして。[Nom] です。 - はじめまして。Yamada です。→ *Enchanté. Je suis Yamada.*",
+    "example_jp": "はじめまして。Yamada です。",
+    "example_fr": "Enchanté. Je suis Yamada."
+  },
+  {
+    "id": 1095,
+    "lesson_id": "lecon-03",
+    "pattern": "[Nom] + さん",
+    "explanation": "Le suffixe -さん s'ajoute après un nom pour montrer du respect et de la politesse. [Nom] + さん - Yamada さん → *Monsieur/Madame Yamada*",
+    "example_jp": "Yamada さん",
+    "example_fr": "Monsieur/Madame Yamada"
+  },
+  {
+    "id": 1096,
+    "lesson_id": "lecon-03",
+    "pattern": "(あのう、) おなまえは？",
+    "explanation": "Pour demander le nom de quelqu'un poliment, on utilise : (あのう、) おなまえは？ **Variantes :**",
+    "example_jp": "おなまえは？",
+    "example_fr": "Comment vous appelez-vous ?"
+  },
+  {
+    "id": 1097,
+    "lesson_id": "lecon-03",
+    "pattern": "もう いちど おねがいします。",
+    "explanation": "Si vous ne comprenez pas, dites : もう いちど おねがいします。 Littéralement : *Une autre fois s'il vous plaît.* = *Pouvez-vous répéter, s'il vous plaît ?*",
+    "example_jp": "もう いちど おねがいします。",
+    "example_fr": "Pouvez-vous répéter, s'il vous plaît ?"
+  },
+  {
+    "id": 1098,
+    "lesson_id": "lecon-04",
+    "pattern": "どちら から (ですか) ?\nおくに は ?",
+    "explanation": "Il existe plusieurs façons de demander l'origine de quelqu'un : どちら から (ですか) ? おくに は ?",
+    "example_jp": "どちら から ですか？",
+    "example_fr": "D'où venez-vous ?"
+  },
+  {
+    "id": 1099,
+    "lesson_id": "lecon-04",
+    "pattern": "わたし は [Pays] -人 です",
+    "explanation": "Pour dire sa nationalité, on utilise la structure : わたし は [Pays] -人 です - わたしは ベルギー人 です → *Je suis belge*",
+    "example_jp": "わたしは ベルギー人 です",
+    "example_fr": "Je suis belge"
+  },
+  {
+    "id": 1100,
+    "lesson_id": "lecon-04",
+    "pattern": "[Lieu] + から + [destination/verbe]",
+    "explanation": "La particule から indique l'origine ou le point de départ. [Lieu] + から + [destination/verbe] - ベルギー から きました → *Je viens de Belgique*",
+    "example_jp": "ベルギー から きました",
+    "example_fr": "Je viens de Belgique"
+  },
+  {
+    "id": 1101,
+    "lesson_id": "lecon-04",
+    "pattern": "[Pays] + です",
+    "explanation": "Quand on indique simplement son pays (sans -人) : [Pays] + です - ベルギー です → *Je suis de Belgique* (moins formel)",
+    "example_jp": "ベルギー です",
+    "example_fr": "Je suis de Belgique"
+  },
+  {
+    "id": 1103,
+    "lesson_id": "lecon-06",
+    "pattern": "[Sujet] は [Compétence] ができます。",
+    "explanation": "Le verbe できます exprime la possibilité ou la capacité à faire quelque chose. [Sujet] は [Compétence] ができます。 - わたしは 日本語 ができます → *Je peux parler japonais / Je sais faire du japonais*",
+    "example_jp": "わたしは 日本語 ができます",
+    "example_fr": "Je peux parler japonais / Je sais faire du japonais"
+  },
+  {
+    "id": 1104,
+    "lesson_id": "lecon-06",
+    "pattern": "[Sujet] は [Compétence] ができません。",
+    "explanation": "[Sujet] は [Compétence] ができません。 - わたしは スペイン語 ができません → *Je ne peux pas parler espagnol* - Alice は 中国語 ができません → *Alice ne peut pas parler chinois*",
+    "example_jp": "わたしは スペイン語 ができません",
+    "example_fr": "Je ne peux pas parler espagnol"
+  },
+  {
+    "id": 1105,
+    "lesson_id": "lecon-06",
+    "pattern": "[Adverbe] + できます",
+    "explanation": "On utilise des adverbes avant できます pour indiquer le niveau : [Adverbe] + できます - すこし できます → *Je peux un peu*",
+    "example_jp": "すこし できます",
+    "example_fr": "Je peux un peu"
+  },
+  {
+    "id": 1106,
+    "lesson_id": "lecon-06",
+    "pattern": "[Objet direct] + を + [Verbe]",
+    "explanation": "La particule を marque l'objet direct d'une action : [Objet direct] + を + [Verbe] - 日本語 を 話します → *parler le japonais*",
+    "example_jp": "日本語 を 話します",
+    "example_fr": "parler le japonais"
+  },
+  {
+    "id": 1107,
+    "lesson_id": "lecon-07",
+    "pattern": "[Profession] + です",
+    "explanation": "La forme la plus simple est : [Profession] + です - 学生 です → *Je suis étudiant*",
+    "example_jp": "学生 です",
+    "example_fr": "Je suis étudiant"
+  },
+  {
+    "id": 1108,
+    "lesson_id": "lecon-07",
+    "pattern": "わたしは [Profession] です。",
+    "explanation": "Pour une présentation plus formelle : わたしは [Profession] です。 - わたしは 学生 です → *Je suis étudiant*",
+    "example_jp": "わたしは 学生 です",
+    "example_fr": "Je suis étudiant"
+  },
+  {
+    "id": 1109,
+    "lesson_id": "lecon-07",
+    "pattern": "[Nom] + を していますい",
+    "explanation": "Pour indiquer une activité continue ou un travail spécifique : [Nom] + を していますい - 医者 を しています → *Je travaille comme médecin / Je fais le métier de médecin*",
+    "example_jp": "医者 を しています",
+    "example_fr": "Je travaille comme médecin / Je fais le métier de médecin"
+  },
+  {
+    "id": 1110,
+    "lesson_id": "lecon-07",
+    "pattern": "しごと は ？\nなん ですか ？",
+    "explanation": "Pour demander la profession de quelqu'un : しごと は ？ なん ですか ？",
+    "example_jp": "しごと は ？",
+    "example_fr": "Quel est votre travail ?"
+  },
+  {
+    "id": 1112,
+    "lesson_id": "lecon-08",
+    "pattern": "[Nom] です",
+    "explanation": "[Nom] です",
+    "example_jp": "わたしは がくせい です。",
+    "example_fr": "Je suis étudiant."
+  },
+  {
+    "id": 1113,
+    "lesson_id": "lecon-08",
+    "pattern": "[Sujet] は [Description] です",
+    "explanation": "[Sujet] は [Description] です",
+    "example_jp": "さくらさんは しんせつ です。",
+    "example_fr": "Sakura est gentille."
+  },
+  {
+    "id": 1114,
+    "lesson_id": "lecon-08",
+    "pattern": "[Sujet] は [Compétence] ができます",
+    "explanation": "[Sujet] は [Compétence] ができます",
+    "example_jp": "わたしは にほんご が できます。",
+    "example_fr": "Je sais parler japonais."
+  },
+  {
+    "id": 1115,
+    "lesson_id": "lecon-08",
+    "pattern": "[Adverbe] + [Verbe]\n- よく (bien) + できます\n- すこし (un peu) + できます\n- ぜんぜん (pas du tout) + できません",
+    "explanation": "[Adverbe] + [Verbe] - よく (bien) + できます - すこし (un peu) + できます",
+    "example_jp": "えいご が よく できます。",
+    "example_fr": "Je parle bien anglais."
+  },
+  {
+    "id": 1116,
+    "lesson_id": "lecon-09",
+    "pattern": "1 いち    6 ろく\n2 に      7 しち / なな\n3 さん    8 はち\n4 し / よん  9 きゅう\n5 ご      10 じゅう",
+    "explanation": "Les nombres de 1 à 10 forment la base. Remarquez que 4 et 7 ont deux prononciations : 1 いち    6 ろく 2 に      7 しち / なな",
+    "example_jp": "わたしは なな さい です。",
+    "example_fr": "J'ai sept ans."
+  },
+  {
+    "id": 1117,
+    "lesson_id": "lecon-09",
+    "pattern": "[Dizaine] + [Unité]\nExemple : 23 = 二十三 (ni + juu + san) = nijuusan",
+    "explanation": "Pour créer les nombres au-dessus de 10, combinez : [Dizaine] + [Unité] Exemple : 23 = 二十三 (ni + juu + san) = nijuusan",
+    "example_jp": "にじゅうさん えん です。",
+    "example_fr": "C'est 23 yens."
+  },
+  {
+    "id": 1118,
+    "lesson_id": "lecon-09",
+    "pattern": "[Nombre] + [Compteur]",
+    "explanation": "Les compteurs japonais s'ajoutent après le nombre selon le type d'objet : [Nombre] + [Compteur] - 3つ の りんご → *trois pommes* (mots génériques avec つ)",
+    "example_jp": "3つ の りんご",
+    "example_fr": "trois pommes"
+  },
+  {
+    "id": 1119,
+    "lesson_id": "lecon-09",
+    "pattern": "いくつ ですか ？  (Combien ? — pour objets généraux)\nなんこ ですか ？  (Combien ? — avec compteur)",
+    "explanation": "Pour demander combien il y a : いくつ ですか ？  (Combien ? — pour objets généraux) なんこ ですか ？  (Combien ? — avec compteur)",
+    "example_jp": "りんご は いくつ ですか ？",
+    "example_fr": "Combien de pommes ?"
+  },
+  {
+    "id": 1120,
+    "lesson_id": "lecon-09",
+    "pattern": "[Nombre] + さい です",
+    "explanation": "Pour exprimer l'âge, on utilise le compteur **さい** (sai) : [Nombre] + さい です - わたしは 18さい です → *J'ai 18 ans*",
+    "example_jp": "わたしは 18さい です",
+    "example_fr": "J'ai 18 ans"
+  },
+  {
+    "id": 1121,
+    "lesson_id": "lecon-10",
+    "pattern": "[Nom] は おいくつですか。\n[Nom] wa oikutsu desu ka?",
+    "explanation": "La structure pour demander l'âge : [Nom] は おいくつですか。 [Nom] wa oikutsu desu ka?",
+    "example_jp": "ネリアさんは おいくつですか。",
+    "example_fr": "Quel âge a Nelia?"
+  },
+  {
+    "id": 1122,
+    "lesson_id": "lecon-10",
+    "pattern": "わたし は [nombre] さい です。\nWatashi wa [nombre] sai desu.",
+    "explanation": "Pour répondre, utilisez la structure : わたし は [nombre] さい です。 Watashi wa [nombre] sai desu.",
+    "example_jp": "わたしは にじゅうごさい です。",
+    "example_fr": "J'ai 25 ans."
+  },
+  {
+    "id": 1123,
+    "lesson_id": "lecon-11",
+    "pattern": "はじめまして。[名前] です。\n[País] からです。[年齢] さい です。",
+    "explanation": "はじめまして。[名前] です。 [País] からです。[年齢] さい です。 - はじめまして。なかむら ゆき です。→ *Enchanté(e). Je suis Nakamura Yuki.*",
+    "example_jp": "はじめまして。なかむら ゆき です。",
+    "example_fr": "Enchanté(e). Je suis Nakamura Yuki."
+  },
+  {
+    "id": 1124,
+    "lesson_id": "lecon-11",
+    "pattern": "1. (...) → おなまえは。(Quel est votre nom?)\n2. (🇯🇵) → おくにはどちらですか。(D'où venez-vous?)\n3. (🇯🇵 dans un dialogue) → にほんご ができますか。(Pouvez-vous parler japonais?)\n4. (🇬🇧) → えいご ができますか。(Pouvez-vous parler anglais?)\n5. (🏠) → おしごと は。(Quel est votre métier?)\n6. (🎂) → おいくつ ですか。(Quel âge avez-vous?)",
+    "explanation": "Pour les images, écrivez les questions correspondantes : 1. (...) → おなまえは。(Quel est votre nom?) 2. (🇯🇵) → おくにはどちらですか。(D'où venez-vous?)",
+    "example_jp": "おなまえは なんですか。",
+    "example_fr": "Quel est votre nom ?"
+  },
+  {
+    "id": 1125,
+    "lesson_id": "lecon-12",
+    "pattern": "だれですか？\nDare desu ka?",
+    "explanation": "だれですか？ Dare desu ka? - これは だれですか。→ *Qui est-ce?*",
+    "example_jp": "これは だれですか。",
+    "example_fr": "Qui est-ce?"
+  },
+  {
+    "id": 1126,
+    "lesson_id": "lecon-12",
+    "pattern": "[名前] です。\n[Nom] desu.",
+    "explanation": "[名前] です。 [Nom] desu. - ちちです。→ *C'est mon père.*",
+    "example_jp": "ちちです。",
+    "example_fr": "C'est mon père."
+  },
+  {
+    "id": 1127,
+    "lesson_id": "lecon-12",
+    "pattern": "わたしのかぞくは [nombre] にん です。\nWatashi no kazoku wa [nombre] nin desu.",
+    "explanation": "わたしのかぞくは [nombre] にん です。 Watashi no kazoku wa [nombre] nin desu. - わたしのかぞくは 5人 です。→ *Ma famille compte 5 personnes.*",
+    "example_jp": "わたしのかぞくは ごにん です。",
+    "example_fr": "Ma famille compte 5 personnes."
+  },
+  {
+    "id": 1128,
+    "lesson_id": "lecon-12",
+    "pattern": "わたし は [親戚] です。\nWatashi wa [relation] desu.\n\n[親戚] は [年齢] さい です。\n[Relation] wa [âge] sai desu.",
+    "explanation": "わたし は [親戚] です。 Watashi wa [relation] desu. [親戚] は [年齢] さい です。",
+    "example_jp": "ちちは 60さい です。",
+    "example_fr": "Mon père a 60 ans."
+  },
+  {
+    "id": 1129,
+    "lesson_id": "lecon-13",
+    "pattern": "[名前1] と [名前2] と [名前3] です。\n[Nom1] to [Nom2] to [Nom3] desu.",
+    "explanation": "La particule と relie deux noms ou sujets. [名前1] と [名前2] と [名前3] です。 [Nom1] to [Nom2] to [Nom3] desu.",
+    "example_jp": "ちちと ははと わたしです。",
+    "example_fr": "C'est mon père, ma mère et moi."
+  },
+  {
+    "id": 1130,
+    "lesson_id": "lecon-13",
+    "pattern": "[人物] は [関係] です。\n[Personne] wa [relation] desu.",
+    "explanation": "[人物] は [関係] です。 [Personne] wa [relation] desu. - A さんは しつもん します。→ *A pose des questions.*",
+    "example_jp": "たなかさんは ともだち です。",
+    "example_fr": "Tanaka est mon ami."
+  },
+  {
+    "id": 1131,
+    "lesson_id": "lecon-13",
+    "pattern": "どこに すんでいますか。\nDoko ni sunde imasu ka?",
+    "explanation": "どこに すんでいますか。 Doko ni sunde imasu ka? **Réponses possibles :**",
+    "example_jp": "にほんに すんでいます。",
+    "example_fr": "J'habite au Japon."
+  },
+  {
+    "id": 1132,
+    "lesson_id": "lecon-13",
+    "pattern": "だれですか。\nDare desu ka?",
+    "explanation": "だれですか。 Dare desu ka? **Réponses :**",
+    "example_jp": "ちちです。",
+    "example_fr": "C'est mon père."
+  },
+  {
+    "id": 1133,
+    "lesson_id": "lecon-14",
+    "pattern": "わたしのかぞくは [nombre] にん です。\n[Personne] は [relation] です。\n[Personne] は [年齢] さい です。",
+    "explanation": "わたしのかぞくは [nombre] にん です。 [Personne] は [relation] です。 [Personne] は [年齢] さい です。",
+    "example_jp": "わたしの かぞくは よにん です。",
+    "example_fr": "Ma famille compte quatre personnes."
+  },
+  {
+    "id": 1134,
+    "lesson_id": "lecon-14",
+    "pattern": "だれですか。→ [Relation] です。\nおいくつですか。→ [年齢] さい です。\nどこに すんでいますか。→ [場所] に すんでいます。",
+    "explanation": "だれですか。→ [Relation] です。 おいくつですか。→ [年齢] さい です。 どこに すんでいますか。→ [場所] に すんでいます。",
+    "example_jp": "だれですか。ちちです。",
+    "example_fr": "Qui est-ce ? C'est mon père."
+  },
+  {
+    "id": 1135,
+    "lesson_id": "lecon-14",
+    "pattern": "[Nom1] と [Nom2] と [Nom3] です。",
+    "explanation": "[Nom1] と [Nom2] と [Nom3] です。 ---",
+    "example_jp": "りんご と みかん と バナナ です。",
+    "example_fr": "Ce sont des pommes, des mandarines et des bananes."
+  },
+  {
+    "id": 1136,
+    "lesson_id": "lecon-16",
+    "pattern": "わたし は [hobbie] が すき です。\nWatashi wa [hobby] ga suki desu.",
+    "explanation": "La particule が (plutôt que を) marque l'objet de l'affection/préférence. わたし は [hobbie] が すき です。 Watashi wa [hobby] ga suki desu.",
+    "example_jp": "わたしは ゲーム が すき です。",
+    "example_fr": "J'aime les jeux vidéo."
+  },
+  {
+    "id": 1137,
+    "lesson_id": "lecon-16",
+    "pattern": "わたし は [hobbie] が すき じゃない です。\nWatashi wa [hobby] ga suki janai desu.",
+    "explanation": "わたし は [hobbie] が すき じゃない です。 Watashi wa [hobby] ga suki janai desu. - わたしは スポーツ が すき じゃない です。→ *Je n'aime pas le sport.*",
+    "example_jp": "わたしは スポーツ が すき じゃない です。",
+    "example_fr": "Je n'aime pas le sport."
+  },
+  {
+    "id": 1138,
+    "lesson_id": "lecon-16",
+    "pattern": "わたし は [hobbie] が 大好き です。\nWatashi wa [hobby] ga daisuki desu.",
+    "explanation": "わたし は [hobbie] が 大好き です。 Watashi wa [hobby] ga daisuki desu. - わたしは ゲーム が 大好き です。→ *J'adore les jeux vidéo.*",
+    "example_jp": "わたしは ゲーム が 大好き です。",
+    "example_fr": "J'adore les jeux vidéo."
+  },
+  {
+    "id": 1139,
+    "lesson_id": "lecon-16",
+    "pattern": "[名前] さん は 何 が すき ですか。\n[Nom]-san wa nani ga suki desu ka?",
+    "explanation": "[名前] さん は 何 が すき ですか。 [Nom]-san wa nani ga suki desu ka? **Réponse :**",
+    "example_jp": "わたしは マンガ が すき です。",
+    "example_fr": "J'aime le manga."
+  },
+  {
+    "id": 1140,
+    "lesson_id": "lecon-19",
+    "pattern": "~は好きです / ~は好きじゃないです (expression des préférences)",
+    "explanation": "Expression de ce qu'on aime ou n'aime pas. **Structure** : [Nom] は好きです / 好きじゃないです - 天ぷらが好きです。",
+    "example_jp": "すしが すきです。",
+    "example_fr": "J'aime les sushis."
+  },
+  {
+    "id": 1141,
+    "lesson_id": "lecon-19",
+    "pattern": "~はちょっと (expression douce du refus)",
+    "explanation": "Expression polie pour dire qu'on n'aime pas quelque chose sans être direct. **Structure** : [Nom] はちょっと... **Utilisation** : Répond indirectement que quelque chose n'est pas bon ou qu'on n'aime pas sans terminer la phrase.",
+    "example_jp": "なっとうは ちょっと...",
+    "example_fr": "Le natto, c'est un peu... (je n'aime pas trop)"
+  },
+  {
+    "id": 1142,
+    "lesson_id": "lecon-20",
+    "pattern": "Compteurs japonais — ものをかぞえる (Counting things)",
+    "explanation": "En japonais, les nombres sont accompagnés de suffixes appelés compteurs. Le compteur change selon le type ou la forme de l'objet compté. **Structure** : [Nombre] + [Compteur] - ~さい (sai) : pour l'âge",
+    "example_jp": "わたしは じゅうはっさい です。",
+    "example_fr": "J'ai dix-huit ans."
+  },
+  {
+    "id": 1143,
+    "lesson_id": "lecon-20",
+    "pattern": "Demander et dire les prix",
+    "explanation": "**Demander le prix** : - ~はいくらですか。 - ~ wa ikura desu ka? (Combien coûte ~?)",
+    "example_jp": "この ペンは いくら です か。",
+    "example_fr": "Combien coûte ce stylo ?"
+  },
+  {
+    "id": 1144,
+    "lesson_id": "lecon-20",
+    "pattern": "Demander le total",
+    "explanation": "**Structure** : 全部で [nombre] 円です。 - Zenbu de [nombre] en desu. (En total, cela coûte [nombre] yen.) - 全部で2700円です。",
+    "example_jp": "ぜんぶで はっぴゃくえん です。",
+    "example_fr": "En total, cela coûte huit cents yen."
+  },
+  {
+    "id": 1145,
+    "lesson_id": "lecon-20",
+    "pattern": "Demander d'où vient quelque chose",
+    "explanation": "**Structure** : どこの [objet] ですか。 - Doko no [objet] desu ka? (D'où vient [objet] ?) - どこのりんごですか。",
+    "example_jp": "どこのお茶ですか。",
+    "example_fr": "D'où vient ce thé ?"
+  },
+  {
+    "id": 1146,
+    "lesson_id": "lecon-21",
+    "pattern": "Forme négative — ひていけい (Negation)",
+    "explanation": "Pour exprimer qu'on ne boit pas ou ne mange pas quelque chose. **Conjugaison des verbes réguliers (groupe 2 - verbes en -る)** : **Verbe 食べる (taberu - manger)** :",
+    "example_jp": "わたしは にくを たべません。",
+    "example_fr": "Je ne mange pas de viande."
+  },
+  {
+    "id": 1147,
+    "lesson_id": "lecon-21",
+    "pattern": "Proposer une boisson — のみものをすすめる (Offering a drink)",
+    "explanation": "**Structure pour proposer** : - [Boisson]、飲みますか？ - [Boisson], nomimasu ka? (Voulez-vous [boisson] ?)",
+    "example_jp": "おちゃ、のみますか。",
+    "example_fr": "Voulez-vous du thé ?"
+  },
+  {
+    "id": 1148,
+    "lesson_id": "lecon-22",
+    "pattern": "Adverbes de fréquence — いつも/よく/あまり (Frequency adverbs)",
+    "explanation": "Ces adverbes décrivent la fréquence d'une action. **Hiérarchie de fréquence** (du plus fréquent au moins fréquent) : | Kanji | Hiragana | Romaji | Français |",
+    "example_jp": "いつも しちじに おきます。",
+    "example_fr": "Je me lève toujours à sept heures."
+  },
+  {
+    "id": 1149,
+    "lesson_id": "lecon-22",
+    "pattern": "Questions sur la fréquence",
+    "explanation": "**Structure** : [Adverbe] + [Objet] + を/は + [Verbe] か？ - いつもあさごはんを食べますか？ - Itsumo asagohan o tabemasu ka? (Mangez-vous toujours le petit-déjeuner ?)",
+    "example_jp": "よく えいがを みますか。",
+    "example_fr": "Regardez-vous souvent des films ?"
+  },
+  {
+    "id": 1150,
+    "lesson_id": "lecon-24",
+    "pattern": "Particule で (lieu où l'action se déroule)",
+    "explanation": "La particule で indique le lieu où une action se déroule (contrairement à に, qui indique une destination). **Structure** : [Lieu] で [Action] - あのみせでラーメンを食べましょう。",
+    "example_jp": "としょかんで ほんを よみます。",
+    "example_fr": "Je lis des livres à la bibliothèque."
+  },
+  {
+    "id": 1151,
+    "lesson_id": "lecon-24",
+    "pattern": "Proposer une action ensemble — ましょう (Let's)",
+    "explanation": "Le suffixe ましょう s'utilise pour suggérer ou proposer une action ensemble. **Formation** : - Verbe au présent (ます) → remplacer ます par ましょう",
+    "example_jp": "いっしょに たべましょう。",
+    "example_fr": "Mangeons ensemble."
+  },
+  {
+    "id": 1152,
+    "lesson_id": "lecon-24",
+    "pattern": "Adjectifs en い (i-adjectives)",
+    "explanation": "**Caractéristiques** : - Se terminent par い - Se conjuguent comme les verbes",
+    "example_jp": "おいしい (oishii) / おいしくない (oishikunai)",
+    "example_fr": "délicieux / ce n"
+  },
+  {
+    "id": 1153,
+    "lesson_id": "lecon-25",
+    "pattern": "Exprimer une commande — ちゅうもんする (Ordering)",
+    "explanation": "Pour commander au restaurant, on utilise deux structures principales : **Structure 1 : [Item] + [Nombre] + ください** - [Item] o [Nombre] kudasai.",
+    "example_jp": "カレーライスをひとつ、ください。",
+    "example_fr": "Un riz au curry, s'il vous plaît."
+  },
+  {
+    "id": 1154,
+    "lesson_id": "lecon-25",
+    "pattern": "Commander avec des précisions de taille",
+    "explanation": "Pour ajouter la taille (S/M/L), utilisez : **Structure** : [Item] + の + [S/M/L サイズ] + ください - コーラの Sサイズをふたつ、ください。",
+    "example_jp": "コーヒーのLサイズをください。",
+    "example_fr": "Un café grande taille, s'il vous plaît."
+  },
+  {
+    "id": 1155,
+    "lesson_id": "lecon-25",
+    "pattern": "Manger sur place ou à emporter",
+    "explanation": "**Manger sur place (IN)** : - ここで(いただきます)。 - Koko de (itadakimasu). (Je mangerai ici.)",
+    "example_jp": "ここでいただきます。",
+    "example_fr": "Je mangerai ici."
+  },
+  {
+    "id": 1156,
+    "lesson_id": "lecon-25",
+    "pattern": "L'important dans une commande",
+    "explanation": "L'ordre des informations lors d'une commande : **[Item] + [Nombre avec compteur] + (オプション) + ください/お願いします** - ハンバーガーひとつとジュースふたつ、ください。",
+    "example_jp": "サンドイッチひとつとお茶ふたつ、ください。",
+    "example_fr": "Un sandwich et deux thés, s'il vous plaît."
+  },
+  {
+    "id": 1157,
+    "lesson_id": "lecon-27",
+    "pattern": "私は〜に住んでいます",
+    "explanation": "**Explication** : Pour dire où l'on habite, on utilise la structure **私は + [lieu] + に住んでいます** (Je habite à/en...). - 私は東京に住んでいます。(Je habite à Tokyo.) - 私はフランスに住んでいます。(J'habite en France.)",
+    "example_jp": "私は東京に住んでいます。",
+    "example_fr": "Je habite à Tokyo."
+  },
+  {
+    "id": 1158,
+    "lesson_id": "lecon-27",
+    "pattern": "私の家は〜です",
+    "explanation": "**Explication** : Pour décrire le type de logement, on utilise **私の家は + [type] + です**. - 私の家はマンションです。(Ma maison est un appartement.) - 私の家は一戸建てです。(Ma maison est une maison individuelle.)",
+    "example_jp": "私の家はマンションです。",
+    "example_fr": "Mon logement est un appartement."
+  },
+  {
+    "id": 1159,
+    "lesson_id": "lecon-27",
+    "pattern": "Adjectifs en -i pour décrire le logement",
+    "explanation": "**Explication** : Les adjectifs en -i s'attachent directement au nom et se modifient à la forme négative ou passée. - 私の家は大きいです。(Ma maison est grande.) - 私の家は古いです。(Ma maison est ancienne.)",
+    "example_jp": "私の家は大きいです。",
+    "example_fr": "Ma maison est grande."
+  },
+  {
+    "id": 1160,
+    "lesson_id": "lecon-27",
+    "pattern": "〜と住んでいます",
+    "explanation": "**Explication** : Pour mentionner les personnes avec lesquelles on habite, on ajoute **[personne] + と住んでいます**. - 妻と住んでいます。(J'habite avec ma femme.) - 一人で住んでいます。(J'habite seul.)",
+    "example_jp": "妻と住んでいます。",
+    "example_fr": "J'habite avec ma femme."
+  },
+  {
+    "id": 1161,
+    "lesson_id": "lecon-28",
+    "pattern": "あります pour les objets inanimés",
+    "explanation": "**Explication** : Le verbe **あります** signifie \"il y a\" et s'utilise uniquement pour les choses, les objets inanimés. La structure est : **[lieu] + に + [objet] + があります**. - 家にテーブルがあります。(Il y a une table dans la maison.) - 部屋にテレビがあります。(Il y a une télévision dans la chambre.)",
+    "example_jp": "家にテーブルがあります。",
+    "example_fr": "Il y a une table dans la maison."
+  },
+  {
+    "id": 1162,
+    "lesson_id": "lecon-28",
+    "pattern": "います pour les êtres animés",
+    "explanation": "**Explication** : Le verbe **います** signifie également \"il y a\" mais s'utilise exclusivement pour les êtres animés (personnes, animaux). La structure est : **[lieu] + に + [sujet animé] + がいます**. - 家に犬がいます。(Il y a un chien dans la maison.) - 部屋に猫がいます。(Il y a un chat dans la chambre.)",
+    "example_jp": "家に犬がいます。",
+    "example_fr": "Il y a un chien dans la maison."
+  },
+  {
+    "id": 1163,
+    "lesson_id": "lecon-28",
+    "pattern": "Distinction あります vs います - Tableau récapitulatif",
+    "explanation": "**Explication** : La distinction est fondamentale en japonais et doit être maîtrisée pour parler correctement. | Type | Verbe | Structure | Exemple | |------|-------|-----------|---------|",
+    "example_jp": "机の上に本があります。",
+    "example_fr": "Il y a un livre sur le bureau."
+  },
+  {
+    "id": 1164,
+    "lesson_id": "lecon-28",
+    "pattern": "なに がありますか？/ だれがいますか？",
+    "explanation": "**Explication** : Pour poser des questions sur ce qui existe ou qui habite, on utilise des mots interrogatifs. - 家に何がありますか。(Qu'est-ce qu'il y a dans la maison?) - 応答: テーブルとソファがあります。(Il y a une table et un canapé.)",
+    "example_jp": "家に何がありますか。",
+    "example_fr": "Qu'est-ce qu'il y a dans la maison?"
+  },
+  {
+    "id": 1165,
+    "lesson_id": "lecon-29",
+    "pattern": "私の名前は... です。私は... に住んでいます。\n私の家は... です。(大きい/小さい/新しい/古い)\n家に... と... があります。\n近くに... があります。\n私の家族は... です。",
+    "explanation": "**Explication** : Pour écrire un texte cohérent sur sa maison, on organise les informations de manière logique. **Structure suggérée** : 1. Présentation générale (type de logement, localisation)",
+    "example_jp": "私の名前は田中です。私は東京に住んでいます。",
+    "example_fr": "Je m'appelle Tanaka. J'habite à Tokyo."
+  },
+  {
+    "id": 1166,
+    "lesson_id": "lecon-29",
+    "pattern": "Utiliser ちかくに pour décrire l'environnement",
+    "explanation": "**Explication** : Pour parler des lieux à proximité de chez soi, on utilise **ちかくに** (à proximité, près de). **Structure** : **[lieu] に + ちかくに + [endroit] + があります** - 私の家の近くに公園があります。(Il y a un parc près de ma maison.)",
+    "example_jp": "私の家の近くに公園があります。",
+    "example_fr": "Il y a un parc près de ma maison."
+  },
+  {
+    "id": 1167,
+    "lesson_id": "lecon-29",
+    "pattern": "Adjectifs pour décrire les lieux",
+    "explanation": "**Explication** : Pour enrichir la description de son environnement, on utilise des adjectifs en -i. - 近い (chikai) : proche → 駅が近いです (La gare est proche.) - 遠い (tōi) : lointain → 病院が遠いです (L'hôpital est lointain.)",
+    "example_jp": "駅が近いです。",
+    "example_fr": "La gare est proche."
+  },
+  {
+    "id": 1168,
+    "lesson_id": "lecon-29",
+    "pattern": "そして, しかし, でも",
+    "explanation": "**Explication** : Pour relier les phrases et améliorer la cohérence, utilise des connecteurs. - 私の家は大きいです。そして、新しいです。(Ma maison est grande. Et elle est neuve.) - 家の近くに駅があります。でも、遠いです。(Il y a une gare près de ma maison. Mais elle est lointaine.)",
+    "example_jp": "私の家は大きいです。そして、新しいです。",
+    "example_fr": "Ma maison est grande. Et elle est neuve."
+  },
+  {
+    "id": 1169,
+    "lesson_id": "lecon-30",
+    "pattern": "[objet] は [lieu] に あります",
+    "explanation": "**Explication** : Pour localiser un objet, on utilise la structure **[objet] + は + [lieu] + に + あります** (L'objet se trouve à/dans...). - テレビはテーブルの上にあります。(La télévision se trouve au-dessus de la table.) - 本はベッドの下にあります。(Les livres se trouvent sous le lit.)",
+    "example_jp": "テレビはテーブルの上にあります。",
+    "example_fr": "La télévision se trouve sur la table."
+  },
+  {
+    "id": 1170,
+    "lesson_id": "lecon-30",
+    "pattern": "N + の + [position]",
+    "explanation": "**Explication** : Pour exprimer une position relative à un objet, on ajoute の + position après le nom de l'objet. **Structure** : **[objet] + の + [position] + に + [chose] + があります** **Positions possibles** :",
+    "example_jp": "机の上に本があります。",
+    "example_fr": "Il y a un livre sur le bureau."
+  },
+  {
+    "id": 1171,
+    "lesson_id": "lecon-30",
+    "pattern": "どこに...がありますか？",
+    "explanation": "**Explication** : Pour demander la localisation d'un objet, on utilise どこ (où). **Structure** : **[objet] + は + どこに + ありますか？** **Réponse** :",
+    "example_jp": "テレビはどこにありますか。",
+    "example_fr": "Où se trouve la télévision ?"
+  },
+  {
+    "id": 1172,
+    "lesson_id": "lecon-30",
+    "pattern": "plusieurs objets",
+    "explanation": "**Explication** : Quand plusieurs objets se trouvent au même endroit, on peut les énumérer avec et. - ベッドの下には本と靴があります。(Sous le lit, il y a un livre et des chaussures.) - 机の上には本、ペン、そして電話があります。(Sur le bureau, il y a un livre, un stylo et un téléphone.)",
+    "example_jp": "ベッドの下には本と靴があります。",
+    "example_fr": "Sous le lit, il y a un livre et des chaussures."
+  },
+  {
+    "id": 1173,
+    "lesson_id": "lecon-30",
+    "pattern": "Comparaison avec いる pour les êtres animés",
+    "explanation": "**Explication** : Si on parle d'êtres animés (personnes, animaux), on utilise いる à la place de あります. - 猫はベッドの上にいます。(Le chat se trouve sur le lit.) - 人がテーブルの隣にいます。(Une personne se trouve à côté de la table.)",
+    "example_jp": "猫はベッドの上にいます。",
+    "example_fr": "Le chat se trouve sur le lit."
+  },
+  {
+    "id": 1174,
+    "lesson_id": "lecon-31",
+    "pattern": "ここは〜です",
+    "explanation": "**Explication** : Pour présenter une pièce lors d'une visite, on utilise **ここは + [nom de la pièce] + です**. - ここは私の寝室です。(C'est ma chambre à coucher.) - ここはダイニングです。(C'est la salle à manger.)",
+    "example_jp": "ここは私の寝室です。",
+    "example_fr": "C'est ma chambre à coucher."
+  },
+  {
+    "id": 1175,
+    "lesson_id": "lecon-31",
+    "pattern": "[pièce] は [adjectif] です",
+    "explanation": "**Explication** : Pour décrire les caractéristiques d'une pièce, on ajoute un adjectif après le nom de la pièce. - この寝室は広いです。(Cette chambre est spacieuse.) - 台所は小さいです。(La cuisine est petite.)",
+    "example_jp": "この寝室は広いです。",
+    "example_fr": "Cette chambre est spacieuse."
+  },
+  {
+    "id": 1176,
+    "lesson_id": "lecon-31",
+    "pattern": "Localiser une pièce dans la maison",
+    "explanation": "**Explication** : Pour montrer où se trouve une pièce par rapport à une autre, on utilise les positions apprises à la leçon 30. - 台所は玄関の隣です。(La cuisine se trouve à côté de l'entrée.) - 寝室は奥にあります。(La chambre se trouve au fond.)",
+    "example_jp": "台所は玄関の隣です。",
+    "example_fr": "La cuisine se trouve à côté de l'entrée."
+  },
+  {
+    "id": 1177,
+    "lesson_id": "lecon-31",
+    "pattern": "[pièce] には 〜 が あります",
+    "explanation": "**Explication** : Pour énumérer ce qu'il y a dans une pièce, on ajoute に (marquant le lieu) après le nom de la pièce. **Structure** : **[pièce] + には + [objet] + があります** - 寝室にはベッドとテーブルがあります。(Dans la chambre, il y a un lit et une table.)",
+    "example_jp": "寝室にはベッドとテーブルがあります。",
+    "example_fr": "Dans la chambre, il y a un lit et une table."
+  },
+  {
+    "id": 1178,
+    "lesson_id": "lecon-31",
+    "pattern": "Expressions de visite et accueil",
+    "explanation": "**Explication** : Quand on accueille quelqu'un chez soi, on utilise des phrases spécifiques. - これはリビングです。(Voici le salon.) - 上ってください。(Montez, s'il vous plaît.)",
+    "example_jp": "これはリビングです。",
+    "example_fr": "Voici le salon."
+  },
+  {
+    "id": 1179,
+    "lesson_id": "lecon-32",
+    "pattern": "Visiteur : ごめんください。(Est-ce que tu es là?)\nHôte : はい、いらっしゃい！(Bienvenue!)\nVisiteur : おじゃまします。(Excusez-moi de vous déranger.)",
+    "explanation": "**Explication** : Cette expression est utilisée quand on arrive à la porte de quelqu'un. Elle signifie littéralement \"Pardonnez-moi\", mais c'est une formule pour annoncer son arrivée de manière polite et respectueuse. **Contexte** : - C'est la première chose qu'on dit en arrivant à la porte d'une maison",
+    "example_jp": "ごめんください。",
+    "example_fr": "Il y a quelqu"
+  },
+  {
+    "id": 1180,
+    "lesson_id": "lecon-32",
+    "pattern": "いらっしゃい et どうぞ",
+    "explanation": "**Explication** : L'hôte utilise これらのexpressions pour accueillir le visiteur chaleureusement. - いらっしゃい！(Bienvenue!) - どうぞ、あがってください。(Montez, s'il vous plaît.)",
+    "example_jp": "いらっしゃい！",
+    "example_fr": "Bienvenue!"
+  },
+  {
+    "id": 1181,
+    "lesson_id": "lecon-32",
+    "pattern": "Visiteur: (en retirant les chaussures) おじゃまします。",
+    "explanation": "**Explication** : Le visiteur dit cette expression en entrant dans la maison. Elle signifie littéralement \"Je vais vous déranger\", mais c'est une formule très polite montrant qu'on respecte l'espace de l'autre. **Contexte** : - Se dit après avoir retiré ses chaussures (à la genkan - entrée)",
+    "example_jp": "おじゃまします。",
+    "example_fr": "Excusez-moi de vous déranger."
+  },
+  {
+    "id": 1182,
+    "lesson_id": "lecon-32",
+    "pattern": "Compliments sur la maison",
+    "explanation": "**Explication** : Quand on visite une maison, il est courtois de faire des compliments. On utilise **[objet/pièce] + は + [adjectif] + ですね。** - いい家ですね。(C'est une belle maison, n'est-ce pas?) - いい部屋ですね。(C'est une belle chambre, n'est-ce pas?)",
+    "example_jp": "いい家ですね。",
+    "example_fr": "C'est une belle maison, n'est-ce pas?"
+  },
+  {
+    "id": 1183,
+    "lesson_id": "lecon-32",
+    "pattern": "Questions sur les objets et décorations",
+    "explanation": "**Explication** : Le visiteur peut poser des questions polies sur les objets dans la maison. - 「これ、何ですか。」(Qu'est-ce que c'est?) - 応答: 「韓国の人形です。」(C'est une poupée coréenne.)",
+    "example_jp": "これ、何ですか。",
+    "example_fr": "Qu'est-ce que c'est ?"
+  },
+  {
+    "id": 1184,
+    "lesson_id": "lecon-32",
+    "pattern": "Avant manger:\nVisiteur & Hôte: いただきます。(Merci pour ce repas.)\n\nAprès manger:\nVisiteur: ごちそうさまでした。(Merci pour ce délicieux repas.)\nHôte: こちらこそ、ありがとう。(C'est moi qui te remercie.)",
+    "explanation": "**Explication** : Ces expressions japonaises sont essentielles lors d'une visite où on offre à manger. **いただきます** : - Se dit AVANT de manger",
+    "example_jp": "いただきます。",
+    "example_fr": "Je reçois humblement ce repas."
+  },
+  {
+    "id": 1185,
+    "lesson_id": "lecon-32",
+    "pattern": "Visiteur: (en partant) ごちそうさまでした。本当にありがとうございました。おじゃましました。\n(Merci pour le repas. Merci beaucoup. J'ai apprécié ma visite.)",
+    "explanation": "**Explication** : Quand on quitte la maison, on dit **おじゃましました** (passé de おじゃまします). C'est une formule de politesse finale. **Contexte** : - Se dit en partant",
+    "example_jp": "おじゃましました。",
+    "example_fr": "Excusez-moi de vous avoir dérangé (dit en partant)."
+  },
+  {
+    "id": 1186,
+    "lesson_id": "lecon-35",
+    "pattern": "ここ・そこ・あそこ — Demonstratives de localisation",
+    "explanation": "**説明**: Ces mots servent à décrire la localisation d'un objet. Il existe trois types de démonstratifs qui indiquent la localisation : | Mot | Lecture | Signification | Utilisation | |-----|---------|---------------|------------|",
+    "example_jp": "ここにあります。",
+    "example_fr": "C'est ici."
+  },
+  {
+    "id": 1187,
+    "lesson_id": "lecon-35",
+    "pattern": "Structure « Nom + は + Localisation + です »",
+    "explanation": "**説明**: Pour indiquer où se trouve quelque chose, on utilise la structure suivante : **Objet wa + Localisation + desu.** - **のりはここにあります。** (Nori wa koko ni arimasu.) — La colle est ici.",
+    "example_jp": "本はここです。",
+    "example_fr": "Le livre est ici."
+  },
+  {
+    "id": 1188,
+    "lesson_id": "lecon-36",
+    "pattern": "これ・それ・あれ・どれ — Demonstratives pour les objets (Pronoms)",
+    "explanation": "**説明**: Ces mots servent à désigner un objet spécifique sans le nommer. Ils fonctionnent comme des pronoms. | Mot | Lecture | Signification | Utilisation | |-----|---------|---------------|------------|",
+    "example_jp": "これは何ですか。",
+    "example_fr": "Qu'est-ce que c'est (ceci) ?"
+  },
+  {
+    "id": 1189,
+    "lesson_id": "lecon-36",
+    "pattern": "この・その・あの・どの — Demonstratives avec noms (Adjectifs)",
+    "explanation": "**説明**: Ces mots s'utilisent devant un nom pour désigner quelque chose de spécifique. Ils fonctionnent comme des adjectifs. | Mot + Nom | Lecture | Signification | Utilisation | |-----------|---------|---------------|------------|",
+    "example_jp": "この本はおもしろいです。",
+    "example_fr": "Ce livre est intéressant."
+  },
+  {
+    "id": 1190,
+    "lesson_id": "lecon-36",
+    "pattern": "Structure « N + は + いくら + です + か »",
+    "explanation": "**説明**: Pour demander le prix de quelque chose : **Objet wa ikura desu ka?** — Combien coûte cet objet ? **Réponse** : **[Objet] wa [prix] + desu.**",
+    "example_jp": "このかばんはいくらですか。",
+    "example_fr": "Combien coûte ce sac ?"
+  },
+  {
+    "id": 1191,
+    "lesson_id": "lecon-36",
+    "pattern": "Structure « い + Adjectif + です »",
+    "explanation": "**説明**: Pour décrire la qualité d'un objet : **N + wa + [Adjectif-i] + desu.** - **このかばんはいいですね。** (Kono kaban wa ii desu ne.) — Ce sac est bon, n'est-ce pas ?",
+    "example_jp": "このケーキはおいしいです。",
+    "example_fr": "Ce gâteau est délicieux."
+  },
+  {
+    "id": 1192,
+    "lesson_id": "lecon-37",
+    "pattern": "Particules essentielles (しゅうじゅつ)",
+    "explanation": "**説明** : Révision des six particules principales utilisées dans les Leçons 2-3. | Particule | Fonction | Exemple | |-----------|----------|---------|",
+    "example_jp": "わたしは東京にすんでいます。",
+    "example_fr": "J"
+  },
+  {
+    "id": 1193,
+    "lesson_id": "lecon-37",
+    "pattern": "千 (sen) et 万 (man)",
+    "explanation": "**説明** : Les deux caractères représentant les nombres en milliers. - **千 (sen)** : mille (1,000) - **万 (man)** : dix mille (10,000)",
+    "example_jp": "千円です。",
+    "example_fr": "Mille yens."
+  },
+  {
+    "id": 1194,
+    "lesson_id": "lecon-37",
+    "pattern": "Structure négative (ひていけい)",
+    "explanation": "**説明** : Pour exprimer ce qui n'existe pas ou ce qu'on n'aime pas. **Adjectif-i négatif** : - あたらしい → あたらしくない (pas neuf)",
+    "example_jp": "あたらしくない。",
+    "example_fr": "Ce n"
+  },
+  {
+    "id": 1195,
+    "lesson_id": "lecon-38",
+    "pattern": "Expression des préférences alimentaires",
+    "explanation": "**説明** : Pour exprimer ce qu'on aime manger et boire. **Structure** : - **N + が + すきです。** (J'aime N.)",
+    "example_jp": "コーヒーがすきです。",
+    "example_fr": "J'aime le café."
+  },
+  {
+    "id": 1196,
+    "lesson_id": "lecon-38",
+    "pattern": "Description de ce qu'on mange et boit",
+    "explanation": "**説明** : Pour parler de ses habitudes alimentaires. **Structure** : - **N + を + たべます。** (Je mange N.)",
+    "example_jp": "ご飯と野菜を食べます。",
+    "example_fr": "Je mange du riz et des légumes."
+  },
+  {
+    "id": 1197,
+    "lesson_id": "lecon-38",
+    "pattern": "Description de la maison (いえの説明)",
+    "explanation": "**説明** : Pour décrire le type, la localisation et les caractéristiques de sa maison. **Structures** : - **N + は + [タイプ] + です。** (La maison est de type N.)",
+    "example_jp": "わたしの家はマンションです。",
+    "example_fr": "Ma maison est un immeuble."
+  },
+  {
+    "id": 1198,
+    "lesson_id": "lecon-38",
+    "pattern": "Énumération (と pour relier plusieurs éléments)",
+    "explanation": "**説明** : Pour énumérer plusieurs éléments avec \"et\". **Structure** : - **N1 + と + N2 + と + N3 + ... (と) + N_final**",
+    "example_jp": "父と母とわたしがいます。",
+    "example_fr": "Mon père, ma mère et moi."
+  },
+  {
+    "id": 1199,
+    "lesson_id": "lecon-44",
+    "pattern": "[moment] は なに を しますか。\n→ [activité] を します。",
+    "explanation": "**Poser une question sur une activité selon le moment de la journée** [moment] は なに を しますか。 → [activité] を します。",
+    "example_jp": "あさはなにをしますか。→あさごはんをたべます。",
+    "example_fr": "Que fais-tu le matin ? → Je mange le petit-déjeuner."
+  },
+  {
+    "id": 1200,
+    "lesson_id": "lecon-44",
+    "pattern": "[action 1]。そして、[action 2]。それから、[action 3]。",
+    "explanation": "**Pour décrire une routine en séquence :** [action 1]。そして、[action 2]。それから、[action 3]。 - ごはん を たべます。**そして**、おんがく を ききます。**それから**、ねます。",
+    "example_jp": "ばんごはんをたべます。そして、テレビをみます。",
+    "example_fr": "Je mange le dîner. Ensuite, je regarde la télévision."
+  },
+  {
+    "id": 1201,
+    "lesson_id": "lecon-44",
+    "pattern": "[sujet] は [adverbe négatif] ～ません。",
+    "explanation": "[sujet] は [adverbe négatif] ～ません。 - わたし は あまり べんきょう **しません**。 *(Je n'étudie pas beaucoup.)*",
+    "example_jp": "わたしはあまりにくをたべません。",
+    "example_fr": "Je ne mange pas beaucoup de viande."
+  },
+  {
+    "id": 1202,
+    "lesson_id": "lecon-44",
+    "pattern": "Particule で vs に (rappel)",
+    "explanation": "| Particule | Usage | Exemple | |-----------|-------|---------| | **に** | destination, direction | かいしゃ **に** いきます |",
+    "example_jp": "がっこうにいきます。",
+    "example_fr": "Je vais à l'école."
+  },
+  {
+    "id": 1203,
+    "lesson_id": "lecon-45",
+    "pattern": "[heure] に [verbe]",
+    "explanation": "**Règle :** Pour indiquer une heure précise à laquelle on fait quelque chose, on utilise **に** après l'heure. [heure] に [verbe] - ５じ **に** おきます。*(Je me lève à 5h.)*",
+    "example_jp": "あさ７じにおきます。",
+    "example_fr": "Je me lève à 7h du matin."
+  },
+  {
+    "id": 1204,
+    "lesson_id": "lecon-45",
+    "pattern": "いま、なんじ ですか。\n→ [heure] です。",
+    "explanation": "いま、なんじ ですか。 → [heure] です。 - いま、なんじ ですか。→ ごご にじはん です。*(Il est 14h30.)*",
+    "example_jp": "いま、なんじ ですか。",
+    "example_fr": "Quelle heure est-il ?"
+  },
+  {
+    "id": 1205,
+    "lesson_id": "lecon-45",
+    "pattern": "**に** avec le temps",
+    "explanation": "| Type de temps | Utilisation de に | Exemple | |--------------|-------------------|---------| | Heure précise | ✅ に obligatoire | ７じ **に** おきます |",
+    "example_jp": "８じにがっこうにいきます。",
+    "example_fr": "Je vais à l'école à 8h."
+  },
+  {
+    "id": 1206,
+    "lesson_id": "lecon-46",
+    "pattern": "[heure]じ [minutes]ふん/ぷん です。\nいま、なんじ なんぷん ですか。\n→ じゅうじ さんじゅうごふん です。 (10h35)",
+    "explanation": "[heure]じ [minutes]ふん/ぷん です。 いま、なんじ なんぷん ですか。 → じゅうじ さんじゅうごふん です。 (10h35)",
+    "example_jp": "いま、じゅうじ にじゅっぷん です。",
+    "example_fr": "Il est maintenant 10h20."
+  },
+  {
+    "id": 1207,
+    "lesson_id": "lecon-46",
+    "pattern": "[heure]じ [minutes]ふん/ぷん に [verbe]",
+    "explanation": "La particule **に** fonctionne exactement de la même façon avec les minutes : [heure]じ [minutes]ふん/ぷん に [verbe] - アンナさん は **しちじ** に おきます。*(7h00)*",
+    "example_jp": "はちじ じゅうごふん に がっこう に いきます。",
+    "example_fr": "Je vais à l'école à 8h15."
+  },
+  {
+    "id": 1208,
+    "lesson_id": "lecon-46",
+    "pattern": "[nom] の あとで、[verbe]",
+    "explanation": "[nom] の あとで、[verbe] - ばんごはん の あとで なに を しますか。*(Que fais-tu après le dîner ?)* - → おふろ に はいります。そして、ねます。",
+    "example_jp": "宿題のあとで、テレビを見ます。",
+    "example_fr": "Après les devoirs, je regarde la télévision."
+  },
+  {
+    "id": 1209,
+    "lesson_id": "lecon-46",
+    "pattern": "Texte de lecture — routine type (ペアでよみましょう)",
+    "explanation": "*Phrases vues en cours (slide かんがえましょう) :* 💡 **Observation** : deux particules **に** dans la même phrase ! - **７じはん に** → に de l'heure (moment précis)",
+    "example_jp": "七時半に起きます。",
+    "example_fr": "Je me lève à sept heures et demie."
+  },
+  {
+    "id": 1210,
+    "lesson_id": "lecon-47",
+    "pattern": "les 4 marqueurs temporels",
+    "explanation": "---",
+    "example_jp": "---",
+    "example_fr": "---"
+  },
+  {
+    "id": 1211,
+    "lesson_id": "lecon-47",
+    "pattern": "[heure/moment précis] に [verbe]",
+    "explanation": "**Règle :** Marque un moment **précis et défini** auquel une action a lieu. [heure/moment précis] に [verbe] - わたし は **６じはん に** おきます。*(Je me lève à 6h30 précise.)*",
+    "example_jp": "まいにち しちじ に あさごはん を たべます。",
+    "example_fr": "Je prends le petit-déjeuner à 7h tous les jours."
+  },
+  {
+    "id": 1212,
+    "lesson_id": "lecon-47",
+    "pattern": "[heure de début] から [verbe]",
+    "explanation": "**Règle :** Marque le **début** d'une période ou d'une action. [heure de début] から [verbe] - ごぜん ８じ **から** しごと を します。*(Je travaille à partir de 8h du matin.)*",
+    "example_jp": "くじ から べんきょう を はじめます。",
+    "example_fr": "Je commence à étudier à partir de 9h."
+  },
+  {
+    "id": 1213,
+    "lesson_id": "lecon-47",
+    "pattern": "[heure de fin] まで [verbe]",
+    "explanation": "**Règle :** Marque la **fin** d'une période ou d'une action. [heure de fin] まで [verbe] - ごご ５じ **まで** しごと を します。*(Je travaille jusqu'à 17h.)*",
+    "example_jp": "じゅうじ まで としょかん に います。",
+    "example_fr": "Je reste à la bibliothèque jusqu'à 10h."
+  },
+  {
+    "id": 1214,
+    "lesson_id": "lecon-47",
+    "pattern": "[début] から [fin] まで [verbe]",
+    "explanation": "**Règle :** Utilisés **ensemble** pour exprimer une plage horaire complète. [début] から [fin] まで [verbe] - **ごぜん ８じ から ごご ５じ まで** しごと を します。*(Je travaille de 8h à 17h.)*",
+    "example_jp": "くじ から じゅうにじ まで にほんご を べんきょう します。",
+    "example_fr": "J'étudie le japonais de 9h à 12h."
+  },
+  {
+    "id": 1215,
+    "lesson_id": "lecon-47",
+    "pattern": "[heure approximative] ごろ [verbe]",
+    "explanation": "**Règle :** Indique une heure **approximative**, quand on n'est pas certain ou qu'on ne veut pas être précis. S'utilise **SANS に**. [heure approximative] ごろ [verbe] - １１じ **ごろ** ねます。*(Je me couche vers 23h.)*",
+    "example_jp": "ともだち は ろくじ ごろ きます。",
+    "example_fr": "Mon ami vient vers 6h."
+  },
+  {
+    "id": 1216,
+    "lesson_id": "lecon-49",
+    "pattern": "[jour] の [heure] に [verbe]",
+    "explanation": "**Règle :** Quand on veut préciser UNE heure à un jour précis, on utilise **の** entre le jour et l'heure. [jour] の [heure] に [verbe] | Japonais | Traduction | Analyse |",
+    "example_jp": "にちようび の はちじ に えいが を みます。",
+    "example_fr": "Je regarde un film dimanche à 8h."
+  },
+  {
+    "id": 1218,
+    "lesson_id": "lecon-50",
+    "pattern": "Durée en heures → ～時かん (jikan)",
+    "explanation": "Pour exprimer **combien d'heures** dure une action, on ajoute **かん** après le nombre d'heures. **Structure :** `[nombre]時かん + [verbe]` | Japonais | Français |",
+    "example_jp": "まいにち さんじかん べんきょう します。",
+    "example_fr": "J'étudie trois heures tous les jours."
+  },
+  {
+    "id": 1219,
+    "lesson_id": "lecon-50",
+    "pattern": "Combiner heures et minutes → ～時かん～分",
+    "explanation": "Après **かん**, on peut ajouter les **分 (ふん / ぷん)** pour préciser. **Structure :** `[heures]時かん[minutes]分 + [verbe]` | Japonais | Français |",
+    "example_jp": "にじかん さんじゅっぷん しごと を しました。",
+    "example_fr": "J'ai travaillé pendant 2h30."
+  },
+  {
+    "id": 1220,
+    "lesson_id": "lecon-50",
+    "pattern": "Durée approximative → ～時かんぐらい",
+    "explanation": "Pour exprimer une durée **approximative**, on ajoute **ぐらい** après le bloc de durée. **Structure :** `[durée]時かん(ぐらい) + [verbe]` | Japonais | Français |",
+    "example_jp": "いちじかん ぐらい あるきました。",
+    "example_fr": "J'ai marché environ une heure."
+  },
+  {
+    "id": 1221,
+    "lesson_id": "lecon-50",
+    "pattern": "Demander une durée → なんじかん",
+    "explanation": "Pour poser la question \"combien d'heures ?\", on utilise **なんじかん**. | Question | Réponse | |----------|---------|",
+    "example_jp": "まいにち なんじかん ねますか。",
+    "example_fr": "Combien d'heures dors-tu chaque jour ?"
+  },
+  {
+    "id": 1222,
+    "lesson_id": "lecon-50",
+    "pattern": "De... à... → から...まで",
+    "explanation": "Pour exprimer **de... jusqu'à...** (plage horaire ou durée délimitée). **Structure :** `[début]から [fin]まで [verbe]` | Japonais | Français |",
+    "example_jp": "げつようび から きんようび まで がっこう に いきます。",
+    "example_fr": "Je vais à l'école du lundi au vendredi."
+  },
+  {
+    "id": 1223,
+    "lesson_id": "lecon-51",
+    "pattern": "～時（じ）に...（Heure spécifique）",
+    "explanation": "**Explication** : Pour indiquer à quelle heure on fait une action, on utilise la particule 「に」après l'heure. **Formation** : - [Nombre] + 時 + に + [verbe]",
+    "example_jp": "三時に図書館に行きます。",
+    "example_fr": "Je vais à la bibliothèque à trois heures."
+  },
+  {
+    "id": 1224,
+    "lesson_id": "lecon-51",
+    "pattern": "～から～まで（De... à...）",
+    "explanation": "**Explication** : Pour exprimer une durée ou une plage horaire (de X à Y). **Formation** : - [Heure/Jour] + から + [Heure/Jour] + まで + [verbe]",
+    "example_jp": "九時から五時まで働きます。",
+    "example_fr": "Je travaille de neuf heures à cinq heures."
+  },
+  {
+    "id": 1225,
+    "lesson_id": "lecon-51",
+    "pattern": "～時間（じかん）（Durée en heures）",
+    "explanation": "**Explication** : Pour exprimer la durée d'une action. Ne pas confondre avec 「時（じ）」(heure du jour). **Formation** : - [Nombre] + 時間 + [verbe] / [Nom]",
+    "example_jp": "二時間勉強しました。",
+    "example_fr": "J'ai étudié pendant deux heures."
+  },
+  {
+    "id": 1226,
+    "lesson_id": "lecon-51",
+    "pattern": "～ぐらい / ～ぐらい（Environ, à peu près）",
+    "explanation": "**Explication** : Indique une approximation. **Formation** : - [Nombre] + [Unité] + ぐらい + [verbe]",
+    "example_jp": "十分ぐらいかかります。",
+    "example_fr": "Cela prend environ dix minutes."
+  },
+  {
+    "id": 1227,
+    "lesson_id": "lecon-51",
+    "pattern": "曜日の使い方（Utilisation des jours de la semaine）",
+    "explanation": "**Explication** : Les jours de la semaine peuvent être utilisés avec ou sans 「に」selon le contexte. **Formation** : - [曜日] + に + [verbe] = le [jour] on fait une action",
+    "example_jp": "月曜日に買い物に行きます。",
+    "example_fr": "Je vais faire les courses lundi."
+  },
+  {
+    "id": 1228,
+    "lesson_id": "lecon-52",
+    "pattern": "いつが良いですか（Quelle date convient）",
+    "explanation": "**Explication** : Pour demander poliment quel jour ou quelle date convient à quelqu'un. **Formation** : - いつが良いですか？ / Quel jour/moment convient ?",
+    "example_jp": "いつが良いですか。",
+    "example_fr": "Quel jour vous convient ?"
+  },
+  {
+    "id": 1229,
+    "lesson_id": "lecon-52",
+    "pattern": "～は良いですか（Est-ce que ce jour convient）",
+    "explanation": "**Explication** : Pour demander si un jour spécifique convient. **Formation** : - [Jour] + は + 良いですか？ / [Ce jour] convient-il ?",
+    "example_jp": "土曜日は良いですか。",
+    "example_fr": "Est-ce que samedi vous convient ?"
+  },
+  {
+    "id": 1230,
+    "lesson_id": "lecon-52",
+    "pattern": "いつでも良いです（N'importe quel jour convient）",
+    "explanation": "**Explication** : Pour dire que n'importe quel moment convient. **Formation** : - いつでも良いです / N'importe quel jour me convient",
+    "example_jp": "いつでも良いです。",
+    "example_fr": "N'importe quel jour me convient."
+  },
+  {
+    "id": 1231,
+    "lesson_id": "lecon-52",
+    "pattern": "～は駄目です / ～はちょっと…（Ce jour ne convient pas）",
+    "explanation": "**Explication** : Pour exprimer qu'un jour ne convient pas, avec différents niveaux de politesse. **Formation** : - [Jour] + は + 駄目です / [Ce jour] ne va pas (directe)",
+    "example_jp": "火曜日は駄目です。",
+    "example_fr": "Mardi ne me convient pas."
+  },
+  {
+    "id": 1232,
+    "lesson_id": "lecon-52",
+    "pattern": "Proposer une alternative",
+    "explanation": "**Explication** : Après avoir dit qu'un jour ne convient pas, on peut proposer une alternative avec 「では」ou 「じゃ」. **Formation** : - [Jour1] は 駄目ですが、[Jour2] は？ / [Jour1] ne va pas, mais [Jour2] ?",
+    "example_jp": "日曜日は駄目ですが、月曜日はどうですか。",
+    "example_fr": "Dimanche ne me convient pas, mais que diriez-vous de lundi ?"
+  },
+  {
+    "id": 1233,
+    "lesson_id": "lecon-53",
+    "pattern": "いつが良いですか / ～は大丈夫ですか",
+    "explanation": "**Explication** : Récapitulatif des structures apprises dans la leçon 52. **Formation** : - Question : いつが良いですか / Quel jour convient ?",
+    "example_jp": "金曜日は大丈夫ですか。",
+    "example_fr": "Est-ce que vendredi ça va ?"
+  },
+  {
+    "id": 1234,
+    "lesson_id": "lecon-53",
+    "pattern": "～でもいい（Aussi possible, acceptable）",
+    "explanation": "**Explication** : Indique qu'une chose est aussi possible ou acceptable. **Formation** : - [Jour/Moment] + でも + いい / Même [ce jour/ce moment] convient",
+    "example_jp": "水曜日でもいいです。",
+    "example_fr": "Mercredi me convient aussi."
+  },
+  {
+    "id": 1235,
+    "lesson_id": "lecon-53",
+    "pattern": "Proposer plusieurs options",
+    "explanation": "**Explication** : Quand on demande à plusieurs personnes, on peut proposer plusieurs jours. **Formation** : - A: ①プール / ②ごはん / ③映画 — 「いつ行きますか」",
+    "example_jp": "映画はいつ見ますか。",
+    "example_fr": "Quand allons-nous voir le film ?"
+  },
+  {
+    "id": 1236,
+    "lesson_id": "lecon-55",
+    "pattern": "[chose aimée] が すき です。→ J'aime [chose].\n[chose] は すき じゃない です。→ Je n'aime pas [chose].\nどんな [catégorie] が すき ですか。→ Quel(le) [catégorie] aimez-vous ?",
+    "explanation": "`すき` est un adjectif-na qui exprime le goût, l'appréciation. La particule **が** marque l'objet aimé. Attention, on n'utilise **pas** を mais bien **が** ! [chose aimée] が すき です。→ J'aime [chose]. [chose] は すき じゃない です。→ Je n'aime pas [chose].",
+    "example_jp": "ホラー が すき です。",
+    "example_fr": "(J'aime les films d'horreur.)"
+  },
+  {
+    "id": 1237,
+    "lesson_id": "lecon-55",
+    "pattern": "だいすき です → J'adore (vraiment beaucoup)\nすき です → J'aime bien\nあまり すき じゃない です → Je n'aime pas tellement (nuancé)\nぜんぜん できません → Je ne sais pas du tout faire (catégorique)",
+    "explanation": "Les adverbes permettent de nuancer l'intensité de l'appréciation ou de la capacité. だいすき です → J'adore (vraiment beaucoup) すき です → J'aime bien",
+    "example_jp": "アニメ が だいすき です。",
+    "example_fr": "(J'adore les anime.)"
+  },
+  {
+    "id": 1238,
+    "lesson_id": "lecon-55",
+    "pattern": "[activité/chose] が できます。→ Je sais / peux faire [chose].\n[activité/chose] は できません。→ Je ne sais pas / peux pas faire [chose].\nどんな [catégorie] が できますか。→ Qu'est-ce que vous savez faire en [catégorie] ?",
+    "explanation": "`できます` exprime la capacité à faire quelque chose (savoir faire / pouvoir faire). La particule est **が**, pas **を**. [activité/chose] が できます。→ Je sais / peux faire [chose]. [activité/chose] は できません。→ Je ne sais pas / peux pas faire [chose].",
+    "example_jp": "やきゅう が できます。",
+    "example_fr": "(Je sais jouer au baseball.)"
+  },
+  {
+    "id": 1239,
+    "lesson_id": "lecon-55",
+    "pattern": "どんな [nom] が [すき/できます]か。→ Quel genre de [nom]... ?",
+    "explanation": "`どんな` est un adjectif interrogatif qui signifie \"quel genre de / quel type de\". Il se place directement avant le nom, sans particule. どんな [nom] が [すき/できます]か。→ Quel genre de [nom]... ? - どんな スポーツ が すき ですか。→ *(Quel genre de sport aimez-vous ?)*",
+    "example_jp": "どんな スポーツ が すき ですか。",
+    "example_fr": "(Quel genre de sport aimez-vous ?)"
+  },
+  {
+    "id": 1240,
+    "lesson_id": "lecon-56",
+    "pattern": "[Lieu] で [Verbe] ます。\n→ On fait [action] à [lieu].",
+    "explanation": "La particule で indique le lieu où se déroule une action. Elle répond à la question **どこ で ～ますか** (où est-ce que tu fais ~?). [Lieu] で [Verbe] ます。 → On fait [action] à [lieu].",
+    "example_jp": "リビング で おんがく を ききます。",
+    "example_fr": "(J'écoute de la musique dans le salon.)"
+  },
+  {
+    "id": 1241,
+    "lesson_id": "lecon-56",
+    "pattern": "いつも (toujours)   → + V ます\nよく (souvent)      → + V ます\nときどき (parfois)  → + V ます\nあまり (pas tellement) → + V ません ⚠️\nぜんぜん (jamais)   → + V ません ⚠️",
+    "explanation": "Ces adverbes se placent **avant le verbe** pour indiquer la fréquence. Ils fonctionnent sur une échelle : いつも (toujours)   → + V ます よく (souvent)      → + V ます",
+    "example_jp": "アクション えいが を よく みます。",
+    "example_fr": "(Je regarde souvent des films d'action.)"
+  },
+  {
+    "id": 1242,
+    "lesson_id": "lecon-56",
+    "pattern": "[Chose] が すき です。→ J'aime [chose].\n[Chose] は すき じゃない です。→ Je n'aime pas [chose].\n[Chose] が だいすき です。→ J'adore [chose].",
+    "explanation": "Cette structure, déjà vue, permet d'exprimer ses goûts. [Chose] が すき です。→ J'aime [chose]. [Chose] は すき じゃない です。→ Je n'aime pas [chose].",
+    "example_jp": "わたし は スポーツ が すき です。",
+    "example_fr": "(J'aime le sport.)"
+  },
+  {
+    "id": 1396,
+    "lesson_id": "lecon-57",
+    "pattern": "[Compétence / Activité] が できます。\n→ Je sais / peux faire [chose].\n[Compétence / Activité] が できません。\n→ Je ne sais pas / ne peux pas faire [chose].",
+    "explanation": "Cette structure indique ce qu'on sait faire, une capacité ou une compétence. [Compétence / Activité] が できます。 → Je sais / peux faire [chose].",
+    "example_jp": "ピアノ が できます。",
+    "example_fr": "(Je joue du piano. / Je sais jouer du piano.)"
+  },
+  {
+    "id": 1397,
+    "lesson_id": "lecon-57",
+    "pattern": "わたし の しゅみ は [loisir] です。\n→ Mon loisir c'est [loisir].\n\n[Chose] が すき です。/ すき じゃない です。\n→ J'aime / Je n'aime pas [chose].",
+    "explanation": "Structure déjà vue, utilisée dans les exercices de cette leçon pour se présenter. わたし の しゅみ は [loisir] です。 → Mon loisir c'est [loisir].",
+    "example_jp": "わたし の しゅみ は どくしょ です。",
+    "example_fr": "(Mon loisir c"
+  },
+  {
+    "id": 1398,
+    "lesson_id": "lecon-57",
+    "pattern": "よく + V ます      → souvent\nときどき + V ます  → parfois\nあまり + V ません  → pas tellement (+ négatif obligatoire)\nぜんぜん + V ません → jamais (+ négatif obligatoire)",
+    "explanation": "Révision directe du cours précédent (leçon 56), appliquée dans les exercices Marugoto p.107. よく + V ます      → souvent ときどき + V ます  → parfois",
+    "example_jp": "よく えいが を みます。",
+    "example_fr": "(Je regarde souvent des films.)"
+  }
+]

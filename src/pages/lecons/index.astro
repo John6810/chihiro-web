@@ -2,9 +2,9 @@
 import Layout from '../../layouts/Layout.astro';
 import { getLessons, getVocab, getGrammar } from '../../lib/supabase';
 
-const lessons = await getLessons();
-const vocab = await getVocab();
-const grammar = await getGrammar();
+const lessons = getLessons();
+const vocab = getVocab();
+const grammar = getGrammar();
 
 // Count per lesson
 const vocabCount = new Map<string, number>();

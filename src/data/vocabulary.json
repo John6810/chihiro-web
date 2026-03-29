@@ -1,0 +1,8282 @@
+[
+  {
+    "id": 7630,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "こんばんは",
+    "romaji": "Komban wa",
+    "french": "Bonsoir"
+  },
+  {
+    "id": 7631,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "french": "je, moi"
+  },
+  {
+    "id": 7632,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "です",
+    "romaji": "desu",
+    "french": "être (copule)"
+  },
+  {
+    "id": 7633,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "よろしく",
+    "romaji": "yoroshiku",
+    "french": "cordialement"
+  },
+  {
+    "id": 7634,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "french": "s'il vous plaît"
+  },
+  {
+    "id": 7635,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "おなまえ",
+    "romaji": "o-namae",
+    "french": "votre nom"
+  },
+  {
+    "id": 7636,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "あ",
+    "romaji": "a",
+    "french": "a"
+  },
+  {
+    "id": 7637,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "い",
+    "romaji": "i",
+    "french": "i"
+  },
+  {
+    "id": 7638,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "う",
+    "romaji": "u",
+    "french": "u"
+  },
+  {
+    "id": 7639,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "え",
+    "romaji": "e",
+    "french": "e"
+  },
+  {
+    "id": 7640,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "お",
+    "romaji": "o",
+    "french": "o"
+  },
+  {
+    "id": 7641,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "か",
+    "romaji": "ka",
+    "french": "ka"
+  },
+  {
+    "id": 7642,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "き",
+    "romaji": "ki",
+    "french": "ki"
+  },
+  {
+    "id": 7643,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "く",
+    "romaji": "ku",
+    "french": "ku"
+  },
+  {
+    "id": 7644,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "け",
+    "romaji": "ke",
+    "french": "ke"
+  },
+  {
+    "id": 7645,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "こ",
+    "romaji": "ko",
+    "french": "ko"
+  },
+  {
+    "id": 7646,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "さ",
+    "romaji": "sa",
+    "french": "sa"
+  },
+  {
+    "id": 7647,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "し",
+    "romaji": "shi",
+    "french": "shi (し)"
+  },
+  {
+    "id": 7648,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "す",
+    "romaji": "su",
+    "french": "su"
+  },
+  {
+    "id": 7649,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "せ",
+    "romaji": "se",
+    "french": "se"
+  },
+  {
+    "id": 7650,
+    "lesson_id": "lecon-01",
+    "kanji": null,
+    "hiragana": "そ",
+    "romaji": "so",
+    "french": "so"
+  },
+  {
+    "id": 7651,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "た",
+    "romaji": "ta",
+    "french": "ta"
+  },
+  {
+    "id": 7652,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "ち",
+    "romaji": "chi",
+    "french": "chi (ち)"
+  },
+  {
+    "id": 7653,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "つ",
+    "romaji": "tsu",
+    "french": "tsu (つ)"
+  },
+  {
+    "id": 7654,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "て",
+    "romaji": "te",
+    "french": "te"
+  },
+  {
+    "id": 7655,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "と",
+    "romaji": "to",
+    "french": "to"
+  },
+  {
+    "id": 7656,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "な",
+    "romaji": "na",
+    "french": "na"
+  },
+  {
+    "id": 7657,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "に",
+    "romaji": "ni",
+    "french": "ni"
+  },
+  {
+    "id": 7658,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "ぬ",
+    "romaji": "nu",
+    "french": "nu"
+  },
+  {
+    "id": 7659,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "ね",
+    "romaji": "ne",
+    "french": "ne"
+  },
+  {
+    "id": 7660,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "の",
+    "romaji": "no",
+    "french": "no"
+  },
+  {
+    "id": 7661,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "だ",
+    "romaji": "da",
+    "french": "da"
+  },
+  {
+    "id": 7662,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "ぢ",
+    "romaji": "ji",
+    "french": "ji (rare)"
+  },
+  {
+    "id": 7663,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "づ",
+    "romaji": "zu",
+    "french": "zu (rare)"
+  },
+  {
+    "id": 7664,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "で",
+    "romaji": "de",
+    "french": "de"
+  },
+  {
+    "id": 7665,
+    "lesson_id": "lecon-02",
+    "kanji": null,
+    "hiragana": "ど",
+    "romaji": "do",
+    "french": "do"
+  },
+  {
+    "id": 7666,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "はじめまして",
+    "romaji": "hajimemashite",
+    "french": "enchanté (première rencontre)"
+  },
+  {
+    "id": 7667,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "よろしく",
+    "romaji": "yoroshiku",
+    "french": "cordialement"
+  },
+  {
+    "id": 7668,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "おねがいします",
+    "romaji": "onegaishimasu",
+    "french": "s'il vous plaît"
+  },
+  {
+    "id": 7669,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "おなまえ",
+    "romaji": "o-namae",
+    "french": "votre nom (hon.)"
+  },
+  {
+    "id": 7670,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "さん",
+    "romaji": "san",
+    "french": "(suffixe honorifique)"
+  },
+  {
+    "id": 7671,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ですね",
+    "romaji": "desu ne",
+    "french": "n'est-ce pas ? (confirmation)"
+  },
+  {
+    "id": 7672,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "もういちど",
+    "romaji": "mou ichido",
+    "french": "encore une fois"
+  },
+  {
+    "id": 7673,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "いう",
+    "romaji": "iu",
+    "french": "dire"
+  },
+  {
+    "id": 7674,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ききます",
+    "romaji": "kikimasu",
+    "french": "écouter"
+  },
+  {
+    "id": 7675,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "いいます",
+    "romaji": "iimasu",
+    "french": "dire"
+  },
+  {
+    "id": 7676,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "おぼえます",
+    "romaji": "oboemasu",
+    "french": "mémoriser"
+  },
+  {
+    "id": 7677,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "は",
+    "romaji": "ha",
+    "french": "ha"
+  },
+  {
+    "id": 7678,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ひ",
+    "romaji": "hi",
+    "french": "hi"
+  },
+  {
+    "id": 7679,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ふ",
+    "romaji": "fu",
+    "french": "fu"
+  },
+  {
+    "id": 7680,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "へ",
+    "romaji": "he",
+    "french": "he"
+  },
+  {
+    "id": 7681,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ほ",
+    "romaji": "ho",
+    "french": "ho"
+  },
+  {
+    "id": 7682,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "ま",
+    "romaji": "ma",
+    "french": "ma"
+  },
+  {
+    "id": 7683,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "み",
+    "romaji": "mi",
+    "french": "mi"
+  },
+  {
+    "id": 7684,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "む",
+    "romaji": "mu",
+    "french": "mu"
+  },
+  {
+    "id": 7685,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "め",
+    "romaji": "me",
+    "french": "me"
+  },
+  {
+    "id": 7686,
+    "lesson_id": "lecon-03",
+    "kanji": null,
+    "hiragana": "も",
+    "romaji": "mo",
+    "french": "mo"
+  },
+  {
+    "id": 7687,
+    "lesson_id": "lecon-04",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "romaji": "Nihon",
+    "french": "Japon"
+  },
+  {
+    "id": 7688,
+    "lesson_id": "lecon-04",
+    "kanji": "日本人",
+    "hiragana": "にほんじん",
+    "romaji": "Nihonjin",
+    "french": "Japonais (peuple)"
+  },
+  {
+    "id": 7689,
+    "lesson_id": "lecon-04",
+    "kanji": "ベルギー",
+    "hiragana": "—",
+    "romaji": "Berugii",
+    "french": "Belgique"
+  },
+  {
+    "id": 7690,
+    "lesson_id": "lecon-04",
+    "kanji": "ベルギー人",
+    "hiragana": "—",
+    "romaji": "Berugii-jin",
+    "french": "Belge (peuple)"
+  },
+  {
+    "id": 7691,
+    "lesson_id": "lecon-04",
+    "kanji": "フランス",
+    "hiragana": "—",
+    "romaji": "Furansu",
+    "french": "France"
+  },
+  {
+    "id": 7692,
+    "lesson_id": "lecon-04",
+    "kanji": "フランス人",
+    "hiragana": "—",
+    "romaji": "Furansu-jin",
+    "french": "Français (peuple)"
+  },
+  {
+    "id": 7693,
+    "lesson_id": "lecon-04",
+    "kanji": "アメリカ",
+    "hiragana": "—",
+    "romaji": "Amerika",
+    "french": "États-Unis"
+  },
+  {
+    "id": 7694,
+    "lesson_id": "lecon-04",
+    "kanji": "アメリカ人",
+    "hiragana": "—",
+    "romaji": "Amerika-jin",
+    "french": "Américain (peuple)"
+  },
+  {
+    "id": 7695,
+    "lesson_id": "lecon-04",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "french": "pays"
+  },
+  {
+    "id": 7696,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "どちら",
+    "romaji": "dochira",
+    "french": "d'où (poli)"
+  },
+  {
+    "id": 7697,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "から",
+    "romaji": "kara",
+    "french": "de (direction/origine)"
+  },
+  {
+    "id": 7698,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "です",
+    "romaji": "desu",
+    "french": "être"
+  },
+  {
+    "id": 7699,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "どちらから (ですか)？",
+    "romaji": "dochira kara (desu ka)?",
+    "french": "D'où venez-vous ?"
+  },
+  {
+    "id": 7700,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "おくには？",
+    "romaji": "o-kuni wa",
+    "french": "Quel est votre pays ?"
+  },
+  {
+    "id": 7701,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "わたしは … じんです",
+    "romaji": "watashi wa … -jin desu",
+    "french": "Je suis … (nationalité)"
+  },
+  {
+    "id": 7702,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "… です",
+    "romaji": "… desu",
+    "french": "Je suis de … (pays)"
+  },
+  {
+    "id": 7703,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "や",
+    "romaji": "ya",
+    "french": "ya"
+  },
+  {
+    "id": 7704,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "ゆ",
+    "romaji": "yu",
+    "french": "yu"
+  },
+  {
+    "id": 7705,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "よ",
+    "romaji": "yo",
+    "french": "syllabe yo"
+  },
+  {
+    "id": 7706,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "ら",
+    "romaji": "ra",
+    "french": "syllabe ra"
+  },
+  {
+    "id": 7707,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "り",
+    "romaji": "ri",
+    "french": "syllabe ri"
+  },
+  {
+    "id": 7708,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "る",
+    "romaji": "ru",
+    "french": "syllabe ru"
+  },
+  {
+    "id": 7709,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "れ",
+    "romaji": "re",
+    "french": "syllabe re"
+  },
+  {
+    "id": 7710,
+    "lesson_id": "lecon-04",
+    "kanji": null,
+    "hiragana": "ろ",
+    "romaji": "ro",
+    "french": "syllabe ro"
+  },
+  {
+    "id": 7711,
+    "lesson_id": "lecon-06",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "romaji": "nihongo",
+    "french": "Japonais"
+  },
+  {
+    "id": 7712,
+    "lesson_id": "lecon-06",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "french": "Anglais"
+  },
+  {
+    "id": 7713,
+    "lesson_id": "lecon-06",
+    "kanji": "フランス語",
+    "hiragana": "—",
+    "romaji": "furansugo",
+    "french": "Français"
+  },
+  {
+    "id": 7714,
+    "lesson_id": "lecon-06",
+    "kanji": "ドイツ語",
+    "hiragana": "—",
+    "romaji": "doitsugo",
+    "french": "Allemand"
+  },
+  {
+    "id": 7715,
+    "lesson_id": "lecon-06",
+    "kanji": "スペイン語",
+    "hiragana": "—",
+    "romaji": "supeingo",
+    "french": "Espagnol"
+  },
+  {
+    "id": 7716,
+    "lesson_id": "lecon-06",
+    "kanji": "中国語",
+    "hiragana": "ちゅうごくご",
+    "romaji": "chuugokugo",
+    "french": "Chinois"
+  },
+  {
+    "id": 7717,
+    "lesson_id": "lecon-06",
+    "kanji": "韓国語",
+    "hiragana": "かんこくご",
+    "romaji": "kankokugo",
+    "french": "Coréen"
+  },
+  {
+    "id": 7718,
+    "lesson_id": "lecon-06",
+    "kanji": "言語",
+    "hiragana": "げんご",
+    "romaji": "gengo",
+    "french": "langue (terme général)"
+  },
+  {
+    "id": 7719,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "できます",
+    "romaji": "dekimasu",
+    "french": "pouvoir/savoir faire"
+  },
+  {
+    "id": 7720,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "できません",
+    "romaji": "dekimasen",
+    "french": "ne pas pouvoir"
+  },
+  {
+    "id": 7721,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "すこし",
+    "romaji": "sukoshi",
+    "french": "un peu"
+  },
+  {
+    "id": 7722,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "french": "bien"
+  },
+  {
+    "id": 7723,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "french": "pas du tout"
+  },
+  {
+    "id": 7724,
+    "lesson_id": "lecon-06",
+    "kanji": null,
+    "hiragana": "ちょっと",
+    "romaji": "chotto",
+    "french": "un peu (familier)"
+  },
+  {
+    "id": 7725,
+    "lesson_id": "lecon-06",
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "french": "parler"
+  },
+  {
+    "id": 7726,
+    "lesson_id": "lecon-06",
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "french": "écouter"
+  },
+  {
+    "id": 7727,
+    "lesson_id": "lecon-06",
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "romaji": "yomu",
+    "french": "lire"
+  },
+  {
+    "id": 7728,
+    "lesson_id": "lecon-06",
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "french": "écrire"
+  },
+  {
+    "id": 7729,
+    "lesson_id": "lecon-06",
+    "kanji": "理解",
+    "hiragana": "りかい",
+    "romaji": "rikai",
+    "french": "comprendre"
+  },
+  {
+    "id": 7730,
+    "lesson_id": "lecon-07",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "french": "étudiant"
+  },
+  {
+    "id": 7731,
+    "lesson_id": "lecon-07",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "french": "professeur"
+  },
+  {
+    "id": 7732,
+    "lesson_id": "lecon-07",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "french": "médecin"
+  },
+  {
+    "id": 7733,
+    "lesson_id": "lecon-07",
+    "kanji": "看護師",
+    "hiragana": "かんごし",
+    "romaji": "kangoshi",
+    "french": "infirmière"
+  },
+  {
+    "id": 7734,
+    "lesson_id": "lecon-07",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "romaji": "kaishain",
+    "french": "employé de bureau"
+  },
+  {
+    "id": 7735,
+    "lesson_id": "lecon-07",
+    "kanji": "エンジニア",
+    "hiragana": "—",
+    "romaji": "enjinia",
+    "french": "ingénieur"
+  },
+  {
+    "id": 7736,
+    "lesson_id": "lecon-07",
+    "kanji": "デザイナー",
+    "hiragana": "—",
+    "romaji": "dezain",
+    "french": "designer"
+  },
+  {
+    "id": 7737,
+    "lesson_id": "lecon-07",
+    "kanji": "プログラマー",
+    "hiragana": "—",
+    "romaji": "puroguram",
+    "french": "programmeur"
+  },
+  {
+    "id": 7738,
+    "lesson_id": "lecon-07",
+    "kanji": "画家",
+    "hiragana": "がか",
+    "romaji": "gaka",
+    "french": "peintre"
+  },
+  {
+    "id": 7739,
+    "lesson_id": "lecon-07",
+    "kanji": "音楽家",
+    "hiragana": "おんがくか",
+    "romaji": "ongakuka",
+    "french": "musicien"
+  },
+  {
+    "id": 7740,
+    "lesson_id": "lecon-07",
+    "kanji": "シェフ",
+    "hiragana": "—",
+    "romaji": "shefu",
+    "french": "chef"
+  },
+  {
+    "id": 7741,
+    "lesson_id": "lecon-07",
+    "kanji": "ウェイター",
+    "hiragana": "—",
+    "romaji": "weitā",
+    "french": "serveur"
+  },
+  {
+    "id": 7742,
+    "lesson_id": "lecon-07",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "french": "travail / profession"
+  },
+  {
+    "id": 7743,
+    "lesson_id": "lecon-07",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byōin",
+    "french": "hôpital"
+  },
+  {
+    "id": 7744,
+    "lesson_id": "lecon-07",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkō",
+    "french": "école"
+  },
+  {
+    "id": 7745,
+    "lesson_id": "lecon-07",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "french": "entreprise"
+  },
+  {
+    "id": 7746,
+    "lesson_id": "lecon-07",
+    "kanji": "オフィス",
+    "hiragana": "—",
+    "romaji": "ofisu",
+    "french": "bureau"
+  },
+  {
+    "id": 7747,
+    "lesson_id": "lecon-07",
+    "kanji": "レストラン",
+    "hiragana": "—",
+    "romaji": "resutoran",
+    "french": "restaurant"
+  },
+  {
+    "id": 7748,
+    "lesson_id": "lecon-07",
+    "kanji": null,
+    "hiragana": "です",
+    "romaji": "desu",
+    "french": "être"
+  },
+  {
+    "id": 7749,
+    "lesson_id": "lecon-07",
+    "kanji": null,
+    "hiragana": "をしています",
+    "romaji": "o shite imasu",
+    "french": "travailler comme / faire"
+  },
+  {
+    "id": 7750,
+    "lesson_id": "lecon-07",
+    "kanji": null,
+    "hiragana": "しごとは",
+    "romaji": "shigoto wa",
+    "french": "Quel est votre travail / profession ?"
+  },
+  {
+    "id": 7751,
+    "lesson_id": "lecon-07",
+    "kanji": null,
+    "hiragana": "なんですか",
+    "romaji": "nan desu ka",
+    "french": "Qu'est-ce que c'est ?"
+  },
+  {
+    "id": 7752,
+    "lesson_id": "lecon-08",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "french": "nom"
+  },
+  {
+    "id": 7753,
+    "lesson_id": "lecon-08",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "french": "pays"
+  },
+  {
+    "id": 7754,
+    "lesson_id": "lecon-08",
+    "kanji": "言語",
+    "hiragana": "げんご",
+    "romaji": "gengo",
+    "french": "langue"
+  },
+  {
+    "id": 7755,
+    "lesson_id": "lecon-08",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "french": "travail"
+  },
+  {
+    "id": 7756,
+    "lesson_id": "lecon-08",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "french": "étudiant"
+  },
+  {
+    "id": 7757,
+    "lesson_id": "lecon-08",
+    "kanji": "年齢",
+    "hiragana": "ねんれい",
+    "romaji": "nenrei",
+    "french": "âge"
+  },
+  {
+    "id": 7758,
+    "lesson_id": "lecon-08",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "romaji": "shumi",
+    "french": "loisir"
+  },
+  {
+    "id": 7759,
+    "lesson_id": "lecon-08",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "suki",
+    "french": "aimer"
+  },
+  {
+    "id": 7760,
+    "lesson_id": "lecon-08",
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "romaji": "kirai",
+    "french": "détester"
+  },
+  {
+    "id": 7761,
+    "lesson_id": "lecon-08",
+    "kanji": "わたしは",
+    "hiragana": "—",
+    "romaji": "watashi wa",
+    "french": "je"
+  },
+  {
+    "id": 7762,
+    "lesson_id": "lecon-08",
+    "kanji": "です",
+    "hiragana": "—",
+    "romaji": "desu",
+    "french": "être"
+  },
+  {
+    "id": 7763,
+    "lesson_id": "lecon-08",
+    "kanji": "ベルギー人",
+    "hiragana": "—",
+    "romaji": "berugii-jin",
+    "french": "belge"
+  },
+  {
+    "id": 7764,
+    "lesson_id": "lecon-08",
+    "kanji": "日本語 ができます",
+    "hiragana": "—",
+    "romaji": "Nihongo ga dekimasu",
+    "french": "je peux parler japonais"
+  },
+  {
+    "id": 7765,
+    "lesson_id": "lecon-08",
+    "kanji": "よろしくおねがいします",
+    "hiragana": "—",
+    "romaji": "yoroshiku onegaishimasu",
+    "french": "enchanté"
+  },
+  {
+    "id": 7766,
+    "lesson_id": "lecon-09",
+    "kanji": "0",
+    "hiragana": "ゼロ/零",
+    "romaji": "—",
+    "french": "zéro"
+  },
+  {
+    "id": 7767,
+    "lesson_id": "lecon-09",
+    "kanji": "1",
+    "hiragana": "一",
+    "romaji": "いち",
+    "french": "un"
+  },
+  {
+    "id": 7768,
+    "lesson_id": "lecon-09",
+    "kanji": "2",
+    "hiragana": "二",
+    "romaji": "に",
+    "french": "deux"
+  },
+  {
+    "id": 7769,
+    "lesson_id": "lecon-09",
+    "kanji": "3",
+    "hiragana": "三",
+    "romaji": "さん",
+    "french": "trois"
+  },
+  {
+    "id": 7770,
+    "lesson_id": "lecon-09",
+    "kanji": "4",
+    "hiragana": "四",
+    "romaji": "し/よん",
+    "french": "quatre"
+  },
+  {
+    "id": 7771,
+    "lesson_id": "lecon-09",
+    "kanji": "5",
+    "hiragana": "五",
+    "romaji": "ご",
+    "french": "cinq"
+  },
+  {
+    "id": 7772,
+    "lesson_id": "lecon-09",
+    "kanji": "6",
+    "hiragana": "六",
+    "romaji": "ろく",
+    "french": "six"
+  },
+  {
+    "id": 7773,
+    "lesson_id": "lecon-09",
+    "kanji": "7",
+    "hiragana": "七",
+    "romaji": "しち/なな",
+    "french": "sept"
+  },
+  {
+    "id": 7774,
+    "lesson_id": "lecon-09",
+    "kanji": "8",
+    "hiragana": "八",
+    "romaji": "はち",
+    "french": "huit"
+  },
+  {
+    "id": 7775,
+    "lesson_id": "lecon-09",
+    "kanji": "9",
+    "hiragana": "九",
+    "romaji": "きゅう",
+    "french": "neuf"
+  },
+  {
+    "id": 7776,
+    "lesson_id": "lecon-09",
+    "kanji": "10",
+    "hiragana": "十",
+    "romaji": "じゅう",
+    "french": "dix"
+  },
+  {
+    "id": 7777,
+    "lesson_id": "lecon-09",
+    "kanji": "11",
+    "hiragana": "十一",
+    "romaji": "—",
+    "french": "onze"
+  },
+  {
+    "id": 7778,
+    "lesson_id": "lecon-09",
+    "kanji": "20",
+    "hiragana": "二十",
+    "romaji": "—",
+    "french": "vingt"
+  },
+  {
+    "id": 7779,
+    "lesson_id": "lecon-09",
+    "kanji": "30",
+    "hiragana": "三十",
+    "romaji": "—",
+    "french": "trente"
+  },
+  {
+    "id": 7780,
+    "lesson_id": "lecon-09",
+    "kanji": "40",
+    "hiragana": "四十",
+    "romaji": "—",
+    "french": "40"
+  },
+  {
+    "id": 7781,
+    "lesson_id": "lecon-09",
+    "kanji": "50",
+    "hiragana": "五十",
+    "romaji": "—",
+    "french": "50"
+  },
+  {
+    "id": 7782,
+    "lesson_id": "lecon-09",
+    "kanji": "60",
+    "hiragana": "六十",
+    "romaji": "—",
+    "french": "60"
+  },
+  {
+    "id": 7783,
+    "lesson_id": "lecon-09",
+    "kanji": "70",
+    "hiragana": "七十",
+    "romaji": "—",
+    "french": "70"
+  },
+  {
+    "id": 7784,
+    "lesson_id": "lecon-09",
+    "kanji": "80",
+    "hiragana": "八十",
+    "romaji": "—",
+    "french": "80"
+  },
+  {
+    "id": 7785,
+    "lesson_id": "lecon-09",
+    "kanji": "90",
+    "hiragana": "九十",
+    "romaji": "—",
+    "french": "90"
+  },
+  {
+    "id": 7786,
+    "lesson_id": "lecon-09",
+    "kanji": "100",
+    "hiragana": "百",
+    "romaji": "hyaku",
+    "french": "hyaku"
+  },
+  {
+    "id": 7787,
+    "lesson_id": "lecon-09",
+    "kanji": null,
+    "hiragana": "かず",
+    "romaji": "kazu",
+    "french": "nombre"
+  },
+  {
+    "id": 7788,
+    "lesson_id": "lecon-09",
+    "kanji": null,
+    "hiragana": "いくつ",
+    "romaji": "ikutsu",
+    "french": "combien (objets)"
+  },
+  {
+    "id": 7789,
+    "lesson_id": "lecon-09",
+    "kanji": null,
+    "hiragana": "なんこ",
+    "romaji": "nanko",
+    "french": "combien de... (compteur)"
+  },
+  {
+    "id": 7790,
+    "lesson_id": "lecon-09",
+    "kanji": null,
+    "hiragana": "ねんれい",
+    "romaji": "nenrei",
+    "french": "âge"
+  },
+  {
+    "id": 7791,
+    "lesson_id": "lecon-09",
+    "kanji": "年",
+    "hiragana": "ねん",
+    "romaji": "nen",
+    "french": "année"
+  },
+  {
+    "id": 7792,
+    "lesson_id": "lecon-09",
+    "kanji": null,
+    "hiragana": "さい",
+    "romaji": "sai",
+    "french": "ans (d'âge)"
+  },
+  {
+    "id": 7793,
+    "lesson_id": "lecon-09",
+    "kanji": "個",
+    "hiragana": "こ",
+    "romaji": "ko",
+    "french": "objets petits/généraux"
+  },
+  {
+    "id": 7794,
+    "lesson_id": "lecon-09",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "french": "objets longs (stylos, baguettes)"
+  },
+  {
+    "id": 7795,
+    "lesson_id": "lecon-09",
+    "kanji": "枚",
+    "hiragana": "まい",
+    "romaji": "mai",
+    "french": "objets plats (papier, assiettes)"
+  },
+  {
+    "id": 7796,
+    "lesson_id": "lecon-09",
+    "kanji": "冊",
+    "hiragana": "さつ",
+    "romaji": "satsu",
+    "french": "livres"
+  },
+  {
+    "id": 7797,
+    "lesson_id": "lecon-09",
+    "kanji": "台",
+    "hiragana": "だい",
+    "romaji": "dai",
+    "french": "machines, véhicules"
+  },
+  {
+    "id": 7798,
+    "lesson_id": "lecon-09",
+    "kanji": "人",
+    "hiragana": "にん",
+    "romaji": "nin",
+    "french": "personnes"
+  },
+  {
+    "id": 7799,
+    "lesson_id": "lecon-10",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "french": "nom"
+  },
+  {
+    "id": 7800,
+    "lesson_id": "lecon-10",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "french": "pays"
+  },
+  {
+    "id": 7801,
+    "lesson_id": "lecon-10",
+    "kanji": "年齢",
+    "hiragana": "ねんれい",
+    "romaji": "nenrei",
+    "french": "âge"
+  },
+  {
+    "id": 7802,
+    "lesson_id": "lecon-11",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "mon père (familier)"
+  },
+  {
+    "id": 7803,
+    "lesson_id": "lecon-11",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "ma mère (familier)"
+  },
+  {
+    "id": 7804,
+    "lesson_id": "lecon-11",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "french": "mon frère aîné (familier)"
+  },
+  {
+    "id": 7805,
+    "lesson_id": "lecon-11",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "french": "ma sœur aînée (familier)"
+  },
+  {
+    "id": 7806,
+    "lesson_id": "lecon-11",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "french": "moi"
+  },
+  {
+    "id": 7807,
+    "lesson_id": "lecon-11",
+    "kanji": "妹",
+    "hiragana": "いもと",
+    "romaji": "imooto",
+    "french": "ma jeune sœur (familier)"
+  },
+  {
+    "id": 7808,
+    "lesson_id": "lecon-11",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otooto",
+    "french": "mon jeune frère (familier)"
+  },
+  {
+    "id": 7809,
+    "lesson_id": "lecon-11",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "french": "enfant(s)"
+  },
+  {
+    "id": 7810,
+    "lesson_id": "lecon-11",
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "french": "crayon"
+  },
+  {
+    "id": 7811,
+    "lesson_id": "lecon-11",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "french": "papier"
+  },
+  {
+    "id": 7812,
+    "lesson_id": "lecon-11",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusee",
+    "french": "étudiant"
+  },
+  {
+    "id": 7813,
+    "lesson_id": "lecon-11",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensee",
+    "french": "professeur"
+  },
+  {
+    "id": 7814,
+    "lesson_id": "lecon-11",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkoo",
+    "french": "école"
+  },
+  {
+    "id": 7815,
+    "lesson_id": "lecon-11",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "romaji": "kakimasu",
+    "french": "écrire"
+  },
+  {
+    "id": 7816,
+    "lesson_id": "lecon-11",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "romaji": "yomimasu",
+    "french": "lire"
+  },
+  {
+    "id": 7817,
+    "lesson_id": "lecon-11",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "romaji": "hanashimasu",
+    "french": "parler"
+  },
+  {
+    "id": 7818,
+    "lesson_id": "lecon-12",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "mon père"
+  },
+  {
+    "id": 7819,
+    "lesson_id": "lecon-12",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "ma mère"
+  },
+  {
+    "id": 7820,
+    "lesson_id": "lecon-12",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "french": "mon frère aîné"
+  },
+  {
+    "id": 7821,
+    "lesson_id": "lecon-12",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "french": "ma sœur aînée"
+  },
+  {
+    "id": 7822,
+    "lesson_id": "lecon-12",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "french": "moi"
+  },
+  {
+    "id": 7823,
+    "lesson_id": "lecon-12",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otooto",
+    "french": "mon jeune frère"
+  },
+  {
+    "id": 7824,
+    "lesson_id": "lecon-12",
+    "kanji": "妹",
+    "hiragana": "いもと",
+    "romaji": "imooto",
+    "french": "ma jeune sœur"
+  },
+  {
+    "id": 7825,
+    "lesson_id": "lecon-13",
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "french": "qui"
+  },
+  {
+    "id": 7826,
+    "lesson_id": "lecon-13",
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "french": "où"
+  },
+  {
+    "id": 7827,
+    "lesson_id": "lecon-13",
+    "kanji": "何",
+    "hiragana": "なに",
+    "romaji": "nani",
+    "french": "quoi"
+  },
+  {
+    "id": 7828,
+    "lesson_id": "lecon-13",
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "romaji": "itsu",
+    "french": "quand"
+  },
+  {
+    "id": 7829,
+    "lesson_id": "lecon-13",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "french": "pourquoi"
+  },
+  {
+    "id": 7830,
+    "lesson_id": "lecon-13",
+    "kanji": "どの",
+    "hiragana": "どの",
+    "romaji": "dono",
+    "french": "quel(le)"
+  },
+  {
+    "id": 7831,
+    "lesson_id": "lecon-13",
+    "kanji": "どれ",
+    "hiragana": "どれ",
+    "romaji": "dore",
+    "french": "lequel"
+  },
+  {
+    "id": 7832,
+    "lesson_id": "lecon-13",
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "french": "habiter"
+  },
+  {
+    "id": 7833,
+    "lesson_id": "lecon-13",
+    "kanji": "ところ",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "french": "endroit, lieu"
+  },
+  {
+    "id": 7834,
+    "lesson_id": "lecon-13",
+    "kanji": "どこに",
+    "hiragana": "どこに",
+    "romaji": "doko ni",
+    "french": "où (locatif)"
+  },
+  {
+    "id": 7835,
+    "lesson_id": "lecon-13",
+    "kanji": "住んでいます",
+    "hiragana": "すんでいます",
+    "romaji": "sunde imasu",
+    "french": "j'habite"
+  },
+  {
+    "id": 7836,
+    "lesson_id": "lecon-13",
+    "kanji": "兄の子ども",
+    "hiragana": "あにのこども",
+    "romaji": "ani no kodomo",
+    "french": "enfant de mon frère aîné"
+  },
+  {
+    "id": 7837,
+    "lesson_id": "lecon-13",
+    "kanji": "妹",
+    "hiragana": "いもと",
+    "romaji": "imouto",
+    "french": "ma jeune sœur"
+  },
+  {
+    "id": 7838,
+    "lesson_id": "lecon-13",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "romaji": "ryoushin",
+    "french": "mes parents"
+  },
+  {
+    "id": 7839,
+    "lesson_id": "lecon-14",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "mon père"
+  },
+  {
+    "id": 7840,
+    "lesson_id": "lecon-14",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "ma mère"
+  },
+  {
+    "id": 7841,
+    "lesson_id": "lecon-14",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "french": "mon frère aîné"
+  },
+  {
+    "id": 7842,
+    "lesson_id": "lecon-14",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "french": "ma sœur aînée"
+  },
+  {
+    "id": 7843,
+    "lesson_id": "lecon-14",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otouto",
+    "french": "mon jeune frère"
+  },
+  {
+    "id": 7844,
+    "lesson_id": "lecon-14",
+    "kanji": "妹",
+    "hiragana": "いもと",
+    "romaji": "imouto",
+    "french": "ma jeune sœur"
+  },
+  {
+    "id": 7845,
+    "lesson_id": "lecon-14",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "romaji": "ryoushin",
+    "french": "parents"
+  },
+  {
+    "id": 7846,
+    "lesson_id": "lecon-14",
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "romaji": "kyoudai",
+    "french": "frères et sœurs"
+  },
+  {
+    "id": 7847,
+    "lesson_id": "lecon-14",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "french": "enfant(s)"
+  },
+  {
+    "id": 7848,
+    "lesson_id": "lecon-14",
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "french": "qui"
+  },
+  {
+    "id": 7849,
+    "lesson_id": "lecon-14",
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "romaji": "doko",
+    "french": "où"
+  },
+  {
+    "id": 7850,
+    "lesson_id": "lecon-14",
+    "kanji": "おいくつ",
+    "hiragana": "おいくつ",
+    "romaji": "oikutsu",
+    "french": "quel âge (poli)"
+  },
+  {
+    "id": 7851,
+    "lesson_id": "lecon-14",
+    "kanji": "どうして",
+    "hiragana": "どうして",
+    "romaji": "doushite",
+    "french": "pourquoi"
+  },
+  {
+    "id": 7852,
+    "lesson_id": "lecon-15",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "french": "nom"
+  },
+  {
+    "id": 7853,
+    "lesson_id": "lecon-15",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "french": "pays"
+  },
+  {
+    "id": 7854,
+    "lesson_id": "lecon-15",
+    "kanji": "年齢",
+    "hiragana": "ねんれい",
+    "romaji": "nenrei",
+    "french": "âge"
+  },
+  {
+    "id": 7855,
+    "lesson_id": "lecon-15",
+    "kanji": "職業",
+    "hiragana": "しょくぎょう",
+    "romaji": "shokugyou",
+    "french": "profession"
+  },
+  {
+    "id": 7856,
+    "lesson_id": "lecon-15",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "suki",
+    "french": "aimer"
+  },
+  {
+    "id": 7857,
+    "lesson_id": "lecon-15",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "mon père"
+  },
+  {
+    "id": 7858,
+    "lesson_id": "lecon-15",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "ma mère"
+  },
+  {
+    "id": 7859,
+    "lesson_id": "lecon-15",
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "romaji": "kyoudai",
+    "french": "frères et sœurs"
+  },
+  {
+    "id": 7860,
+    "lesson_id": "lecon-15",
+    "kanji": "子ども",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "french": "enfant(s)"
+  },
+  {
+    "id": 7861,
+    "lesson_id": "lecon-16",
+    "kanji": "ゲーム",
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "french": "jeu vidéo"
+  },
+  {
+    "id": 7862,
+    "lesson_id": "lecon-16",
+    "kanji": "マンガ",
+    "hiragana": "マンガ",
+    "romaji": "manga",
+    "french": "manga"
+  },
+  {
+    "id": 7863,
+    "lesson_id": "lecon-16",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "romaji": "ryokou",
+    "french": "voyage"
+  },
+  {
+    "id": 7864,
+    "lesson_id": "lecon-16",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "french": "film"
+  },
+  {
+    "id": 7865,
+    "lesson_id": "lecon-16",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "french": "musique"
+  },
+  {
+    "id": 7866,
+    "lesson_id": "lecon-16",
+    "kanji": "スポーツ",
+    "hiragana": "スポーツ",
+    "romaji": "supoutsu",
+    "french": "sport"
+  },
+  {
+    "id": 7867,
+    "lesson_id": "lecon-16",
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "romaji": "dokusho",
+    "french": "lecture"
+  },
+  {
+    "id": 7868,
+    "lesson_id": "lecon-16",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "romaji": "ryouri",
+    "french": "cuisine"
+  },
+  {
+    "id": 7869,
+    "lesson_id": "lecon-16",
+    "kanji": "絵を描く",
+    "hiragana": "えをかく",
+    "romaji": "e wo kaku",
+    "french": "dessiner"
+  },
+  {
+    "id": 7870,
+    "lesson_id": "lecon-16",
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "french": "chanter"
+  },
+  {
+    "id": 7871,
+    "lesson_id": "lecon-16",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "suki",
+    "french": "aimer (aimer bien)"
+  },
+  {
+    "id": 7872,
+    "lesson_id": "lecon-16",
+    "kanji": "好きじゃない",
+    "hiragana": "すきじゃない",
+    "romaji": "suki janai",
+    "french": "ne pas aimer"
+  },
+  {
+    "id": 7873,
+    "lesson_id": "lecon-16",
+    "kanji": "好き",
+    "hiragana": "す き",
+    "romaji": "suki",
+    "french": "préféré"
+  },
+  {
+    "id": 7874,
+    "lesson_id": "lecon-16",
+    "kanji": "大好き",
+    "hiragana": "だいすき",
+    "romaji": "daisuki",
+    "french": "adorer (beaucoup aimer)"
+  },
+  {
+    "id": 7875,
+    "lesson_id": "lecon-16",
+    "kanji": "好きではありません",
+    "hiragana": "すきではありません",
+    "romaji": "suki dewa arimasen",
+    "french": "ne pas aimer (formel)"
+  },
+  {
+    "id": 7876,
+    "lesson_id": "lecon-19",
+    "kanji": "刺身",
+    "hiragana": "さしみ",
+    "romaji": "sashimi",
+    "french": "sashimi (poisson cru tranché)"
+  },
+  {
+    "id": 7877,
+    "lesson_id": "lecon-19",
+    "kanji": "寿司",
+    "hiragana": "すし",
+    "romaji": "sushi",
+    "french": "sushi"
+  },
+  {
+    "id": 7878,
+    "lesson_id": "lecon-19",
+    "kanji": "天ぷら",
+    "hiragana": "てんぷら",
+    "romaji": "tenpura",
+    "french": "tempura (beignets frits)"
+  },
+  {
+    "id": 7879,
+    "lesson_id": "lecon-19",
+    "kanji": "牛丼",
+    "hiragana": "ぎゅうどん",
+    "romaji": "gyuudon",
+    "french": "riz avec viande bovine"
+  },
+  {
+    "id": 7880,
+    "lesson_id": "lecon-19",
+    "kanji": "カレー",
+    "hiragana": "カレー",
+    "romaji": "karee",
+    "french": "curry"
+  },
+  {
+    "id": 7881,
+    "lesson_id": "lecon-19",
+    "kanji": "ラーメン",
+    "hiragana": "ラーメン",
+    "romaji": "raamen",
+    "french": "ramen (nouilles)"
+  },
+  {
+    "id": 7882,
+    "lesson_id": "lecon-19",
+    "kanji": "うどん",
+    "hiragana": "うどん",
+    "romaji": "udon",
+    "french": "udon (nouilles épaisses)"
+  },
+  {
+    "id": 7883,
+    "lesson_id": "lecon-19",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "french": "soba (nouilles fines)"
+  },
+  {
+    "id": 7884,
+    "lesson_id": "lecon-19",
+    "kanji": "納豆",
+    "hiragana": "なっとう",
+    "romaji": "nattoo",
+    "french": "natto (fèves fermentées)"
+  },
+  {
+    "id": 7885,
+    "lesson_id": "lecon-19",
+    "kanji": "梅干し",
+    "hiragana": "うめぼし",
+    "romaji": "umeboshi",
+    "french": "prune marinée"
+  },
+  {
+    "id": 7886,
+    "lesson_id": "lecon-19",
+    "kanji": "わさび",
+    "hiragana": "わさび",
+    "romaji": "wasabi",
+    "french": "wasabi (raifort épicé)"
+  },
+  {
+    "id": 7887,
+    "lesson_id": "lecon-19",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "french": "aliment"
+  },
+  {
+    "id": 7888,
+    "lesson_id": "lecon-19",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "poisson"
+  },
+  {
+    "id": 7889,
+    "lesson_id": "lecon-19",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "viande"
+  },
+  {
+    "id": 7890,
+    "lesson_id": "lecon-19",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "french": "légumes"
+  },
+  {
+    "id": 7891,
+    "lesson_id": "lecon-19",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "french": "fruits"
+  },
+  {
+    "id": 7892,
+    "lesson_id": "lecon-20",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "romaji": "hyaku",
+    "french": "100"
+  },
+  {
+    "id": 7893,
+    "lesson_id": "lecon-20",
+    "kanji": "二百",
+    "hiragana": "にひゃく",
+    "romaji": "nihyaku",
+    "french": "200"
+  },
+  {
+    "id": 7894,
+    "lesson_id": "lecon-20",
+    "kanji": "三百",
+    "hiragana": "さんびゃく",
+    "romaji": "sanbyaku",
+    "french": "300"
+  },
+  {
+    "id": 7895,
+    "lesson_id": "lecon-20",
+    "kanji": "四百",
+    "hiragana": "よんひゃく",
+    "romaji": "yonhyaku",
+    "french": "400"
+  },
+  {
+    "id": 7896,
+    "lesson_id": "lecon-20",
+    "kanji": "五百",
+    "hiragana": "ごひゃく",
+    "romaji": "gohyaku",
+    "french": "500"
+  },
+  {
+    "id": 7897,
+    "lesson_id": "lecon-20",
+    "kanji": "六百",
+    "hiragana": "ろっぴゃく",
+    "romaji": "roppyaku",
+    "french": "600"
+  },
+  {
+    "id": 7898,
+    "lesson_id": "lecon-20",
+    "kanji": "七百",
+    "hiragana": "ななひゃく",
+    "romaji": "nanahyaku",
+    "french": "700"
+  },
+  {
+    "id": 7899,
+    "lesson_id": "lecon-20",
+    "kanji": "八百",
+    "hiragana": "はっぴゃく",
+    "romaji": "happyaku",
+    "french": "800"
+  },
+  {
+    "id": 7900,
+    "lesson_id": "lecon-20",
+    "kanji": "九百",
+    "hiragana": "きゅうひゃく",
+    "romaji": "kyuuhyaku",
+    "french": "900"
+  },
+  {
+    "id": 7901,
+    "lesson_id": "lecon-20",
+    "kanji": "千",
+    "hiragana": "せん",
+    "romaji": "sen",
+    "french": "1000"
+  },
+  {
+    "id": 7902,
+    "lesson_id": "lecon-20",
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "romaji": "hitotsu",
+    "french": "1 objet"
+  },
+  {
+    "id": 7903,
+    "lesson_id": "lecon-20",
+    "kanji": "二つ",
+    "hiragana": "ふたつ",
+    "romaji": "futatsu",
+    "french": "2 objets"
+  },
+  {
+    "id": 7904,
+    "lesson_id": "lecon-20",
+    "kanji": "三つ",
+    "hiragana": "みっつ",
+    "romaji": "mittsu",
+    "french": "3 objets"
+  },
+  {
+    "id": 7905,
+    "lesson_id": "lecon-20",
+    "kanji": "四つ",
+    "hiragana": "よっつ",
+    "romaji": "yottsu",
+    "french": "4 objets"
+  },
+  {
+    "id": 7906,
+    "lesson_id": "lecon-20",
+    "kanji": "五つ",
+    "hiragana": "いつつ",
+    "romaji": "itsutsu",
+    "french": "5 objets"
+  },
+  {
+    "id": 7907,
+    "lesson_id": "lecon-20",
+    "kanji": "六つ",
+    "hiragana": "むっつ",
+    "romaji": "muttsu",
+    "french": "6 objets"
+  },
+  {
+    "id": 7908,
+    "lesson_id": "lecon-20",
+    "kanji": "七つ",
+    "hiragana": "ななつ",
+    "romaji": "nanatsu",
+    "french": "7 objets"
+  },
+  {
+    "id": 7909,
+    "lesson_id": "lecon-20",
+    "kanji": "八つ",
+    "hiragana": "やっつ",
+    "romaji": "yattsu",
+    "french": "8 objets"
+  },
+  {
+    "id": 7910,
+    "lesson_id": "lecon-20",
+    "kanji": "九つ",
+    "hiragana": "ここのつ",
+    "romaji": "kokonotsu",
+    "french": "9 objets"
+  },
+  {
+    "id": 7911,
+    "lesson_id": "lecon-20",
+    "kanji": "十",
+    "hiragana": "とお",
+    "romaji": "tou",
+    "french": "10 objets"
+  },
+  {
+    "id": 7912,
+    "lesson_id": "lecon-20",
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "romaji": "kaimono",
+    "french": "courses"
+  },
+  {
+    "id": 7913,
+    "lesson_id": "lecon-20",
+    "kanji": "野菜屋",
+    "hiragana": "やおや",
+    "romaji": "yaoya",
+    "french": "marchand de fruits et légumes"
+  },
+  {
+    "id": 7914,
+    "lesson_id": "lecon-20",
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "romaji": "ten'in",
+    "french": "vendeur"
+  },
+  {
+    "id": 7915,
+    "lesson_id": "lecon-20",
+    "kanji": "値段",
+    "hiragana": "ねだん",
+    "romaji": "nedan",
+    "french": "prix"
+  },
+  {
+    "id": 7916,
+    "lesson_id": "lecon-20",
+    "kanji": "円",
+    "hiragana": "えん",
+    "romaji": "en",
+    "french": "yen (monnaie)"
+  },
+  {
+    "id": 7917,
+    "lesson_id": "lecon-20",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "romaji": "zenbu",
+    "french": "tout, en total"
+  },
+  {
+    "id": 7918,
+    "lesson_id": "lecon-20",
+    "kanji": "いくら",
+    "hiragana": "いくら",
+    "romaji": "ikura",
+    "french": "combien"
+  },
+  {
+    "id": 7919,
+    "lesson_id": "lecon-20",
+    "kanji": "林檎",
+    "hiragana": "りんご",
+    "romaji": "ringo",
+    "french": "pomme"
+  },
+  {
+    "id": 7920,
+    "lesson_id": "lecon-20",
+    "kanji": "トマト",
+    "hiragana": "トマト",
+    "romaji": "tomato",
+    "french": "tomate"
+  },
+  {
+    "id": 7921,
+    "lesson_id": "lecon-20",
+    "kanji": "ブドウ",
+    "hiragana": "ぶどう",
+    "romaji": "budoo",
+    "french": "raisin"
+  },
+  {
+    "id": 7922,
+    "lesson_id": "lecon-20",
+    "kanji": "スイカ",
+    "hiragana": "すいか",
+    "romaji": "suika",
+    "french": "pastèque"
+  },
+  {
+    "id": 7923,
+    "lesson_id": "lecon-20",
+    "kanji": "みかん",
+    "hiragana": "みかん",
+    "romaji": "mikan",
+    "french": "mandarine"
+  },
+  {
+    "id": 7924,
+    "lesson_id": "lecon-20",
+    "kanji": "桃",
+    "hiragana": "もも",
+    "romaji": "momo",
+    "french": "pêche"
+  },
+  {
+    "id": 7925,
+    "lesson_id": "lecon-21",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "french": "café"
+  },
+  {
+    "id": 7926,
+    "lesson_id": "lecon-21",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "romaji": "juusu",
+    "french": "jus"
+  },
+  {
+    "id": 7927,
+    "lesson_id": "lecon-21",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "koucha",
+    "french": "thé noir"
+  },
+  {
+    "id": 7928,
+    "lesson_id": "lecon-21",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "french": "thé vert"
+  },
+  {
+    "id": 7929,
+    "lesson_id": "lecon-21",
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "french": "eau"
+  },
+  {
+    "id": 7930,
+    "lesson_id": "lecon-21",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "romaji": "biiru",
+    "french": "bière"
+  },
+  {
+    "id": 7931,
+    "lesson_id": "lecon-21",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "romaji": "wain",
+    "french": "vin"
+  },
+  {
+    "id": 7932,
+    "lesson_id": "lecon-21",
+    "kanji": "カクテル",
+    "hiragana": "カクテル",
+    "romaji": "kakuteru",
+    "french": "cocktail"
+  },
+  {
+    "id": 7933,
+    "lesson_id": "lecon-21",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "viande"
+  },
+  {
+    "id": 7934,
+    "lesson_id": "lecon-21",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "poisson"
+  },
+  {
+    "id": 7935,
+    "lesson_id": "lecon-21",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "french": "œuf"
+  },
+  {
+    "id": 7936,
+    "lesson_id": "lecon-21",
+    "kanji": "米",
+    "hiragana": "ご飯",
+    "romaji": "gohan",
+    "french": "riz/repas"
+  },
+  {
+    "id": 7937,
+    "lesson_id": "lecon-21",
+    "kanji": "すし",
+    "hiragana": "すし",
+    "romaji": "sushi",
+    "french": "sushi"
+  },
+  {
+    "id": 7938,
+    "lesson_id": "lecon-21",
+    "kanji": "パスタ",
+    "hiragana": "パスタ",
+    "romaji": "pasuta",
+    "french": "pâtes"
+  },
+  {
+    "id": 7939,
+    "lesson_id": "lecon-21",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "french": "pain"
+  },
+  {
+    "id": 7940,
+    "lesson_id": "lecon-21",
+    "kanji": "ハンバーガー",
+    "hiragana": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "french": "hamburger"
+  },
+  {
+    "id": 7941,
+    "lesson_id": "lecon-21",
+    "kanji": "ポテト",
+    "hiragana": "ポテト",
+    "romaji": "poteto",
+    "french": "frites"
+  },
+  {
+    "id": 7942,
+    "lesson_id": "lecon-21",
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "french": "boire"
+  },
+  {
+    "id": 7943,
+    "lesson_id": "lecon-21",
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "french": "manger"
+  },
+  {
+    "id": 7944,
+    "lesson_id": "lecon-22",
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "romaji": "asagohan",
+    "french": "petit-déjeuner"
+  },
+  {
+    "id": 7945,
+    "lesson_id": "lecon-22",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "french": "pain"
+  },
+  {
+    "id": 7946,
+    "lesson_id": "lecon-22",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "french": "œuf"
+  },
+  {
+    "id": 7947,
+    "lesson_id": "lecon-22",
+    "kanji": "ベーコン",
+    "hiragana": "ベーコン",
+    "romaji": "beekon",
+    "french": "lard/bacon"
+  },
+  {
+    "id": 7948,
+    "lesson_id": "lecon-22",
+    "kanji": "ジャム",
+    "hiragana": "ジャム",
+    "romaji": "jamu",
+    "french": "confiture"
+  },
+  {
+    "id": 7949,
+    "lesson_id": "lecon-22",
+    "kanji": "バター",
+    "hiragana": "バター",
+    "romaji": "bataa",
+    "french": "beurre"
+  },
+  {
+    "id": 7950,
+    "lesson_id": "lecon-22",
+    "kanji": "パンケーキ",
+    "hiragana": "パンケーキ",
+    "romaji": "pankeeki",
+    "french": "crêpe américaine"
+  },
+  {
+    "id": 7951,
+    "lesson_id": "lecon-22",
+    "kanji": "はちみつ",
+    "hiragana": "はちみつ",
+    "romaji": "hachimitsu",
+    "french": "miel"
+  },
+  {
+    "id": 7952,
+    "lesson_id": "lecon-22",
+    "kanji": "シリアル",
+    "hiragana": "シリアル",
+    "romaji": "shiriaru",
+    "french": "céréales"
+  },
+  {
+    "id": 7953,
+    "lesson_id": "lecon-22",
+    "kanji": "ヨーグルト",
+    "hiragana": "ヨーグルト",
+    "romaji": "yoogurutu",
+    "french": "yaourt"
+  },
+  {
+    "id": 7954,
+    "lesson_id": "lecon-22",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "french": "fruits"
+  },
+  {
+    "id": 7955,
+    "lesson_id": "lecon-22",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "french": "café"
+  },
+  {
+    "id": 7956,
+    "lesson_id": "lecon-22",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "french": "thé"
+  },
+  {
+    "id": 7957,
+    "lesson_id": "lecon-22",
+    "kanji": "味噌汁",
+    "hiragana": "みそしる",
+    "romaji": "misoshiru",
+    "french": "soupe miso"
+  },
+  {
+    "id": 7958,
+    "lesson_id": "lecon-22",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "french": "lait"
+  },
+  {
+    "id": 7959,
+    "lesson_id": "lecon-22",
+    "kanji": null,
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "french": "toujours (100%)"
+  },
+  {
+    "id": 7960,
+    "lesson_id": "lecon-22",
+    "kanji": null,
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "french": "souvent (70-80%)"
+  },
+  {
+    "id": 7961,
+    "lesson_id": "lecon-22",
+    "kanji": null,
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "french": "parfois (30-50%)"
+  },
+  {
+    "id": 7962,
+    "lesson_id": "lecon-22",
+    "kanji": null,
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "french": "ne... pas beaucoup (20-30%)"
+  },
+  {
+    "id": 7963,
+    "lesson_id": "lecon-22",
+    "kanji": null,
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "french": "ne... pas du tout (0-5%)"
+  },
+  {
+    "id": 7964,
+    "lesson_id": "lecon-23",
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "romaji": "asagohan",
+    "french": "petit-déjeuner"
+  },
+  {
+    "id": 7965,
+    "lesson_id": "lecon-23",
+    "kanji": "米",
+    "hiragana": "ご飯",
+    "romaji": "gohan",
+    "french": "riz/repas"
+  },
+  {
+    "id": 7966,
+    "lesson_id": "lecon-23",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "french": "pain"
+  },
+  {
+    "id": 7967,
+    "lesson_id": "lecon-23",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "french": "œuf"
+  },
+  {
+    "id": 7968,
+    "lesson_id": "lecon-23",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "viande"
+  },
+  {
+    "id": 7969,
+    "lesson_id": "lecon-23",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "poisson"
+  },
+  {
+    "id": 7970,
+    "lesson_id": "lecon-23",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "french": "légume"
+  },
+  {
+    "id": 7971,
+    "lesson_id": "lecon-23",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "french": "fruit"
+  },
+  {
+    "id": 7972,
+    "lesson_id": "lecon-23",
+    "kanji": "ベーコン",
+    "hiragana": "ベーコン",
+    "romaji": "beekon",
+    "french": "bacon"
+  },
+  {
+    "id": 7973,
+    "lesson_id": "lecon-23",
+    "kanji": "ジャム",
+    "hiragana": "ジャム",
+    "romaji": "jamu",
+    "french": "confiture"
+  },
+  {
+    "id": 7974,
+    "lesson_id": "lecon-23",
+    "kanji": "バター",
+    "hiragana": "バター",
+    "romaji": "bataa",
+    "french": "beurre"
+  },
+  {
+    "id": 7975,
+    "lesson_id": "lecon-23",
+    "kanji": "味噌汁",
+    "hiragana": "みそしる",
+    "romaji": "misoshiru",
+    "french": "soupe miso"
+  },
+  {
+    "id": 7976,
+    "lesson_id": "lecon-23",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "french": "café"
+  },
+  {
+    "id": 7977,
+    "lesson_id": "lecon-23",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "french": "thé"
+  },
+  {
+    "id": 7978,
+    "lesson_id": "lecon-23",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "french": "lait"
+  },
+  {
+    "id": 7979,
+    "lesson_id": "lecon-23",
+    "kanji": null,
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "french": "toujours"
+  },
+  {
+    "id": 7980,
+    "lesson_id": "lecon-23",
+    "kanji": null,
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "french": "souvent"
+  },
+  {
+    "id": 7981,
+    "lesson_id": "lecon-23",
+    "kanji": null,
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "french": "parfois"
+  },
+  {
+    "id": 7982,
+    "lesson_id": "lecon-23",
+    "kanji": null,
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "french": "ne...pas beaucoup"
+  },
+  {
+    "id": 7983,
+    "lesson_id": "lecon-23",
+    "kanji": null,
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "french": "ne...pas du tout"
+  },
+  {
+    "id": 7984,
+    "lesson_id": "lecon-24",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "romaji": "mise",
+    "french": "magasin, petit restaurant"
+  },
+  {
+    "id": 7985,
+    "lesson_id": "lecon-24",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "french": "restaurant"
+  },
+  {
+    "id": 7986,
+    "lesson_id": "lecon-24",
+    "kanji": "カフェ",
+    "hiragana": "カフェ",
+    "romaji": "kafe",
+    "french": "café"
+  },
+  {
+    "id": 7987,
+    "lesson_id": "lecon-24",
+    "kanji": "ラーメン",
+    "hiragana": "ラーメン",
+    "romaji": "raamen",
+    "french": "ramen"
+  },
+  {
+    "id": 7988,
+    "lesson_id": "lecon-24",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "french": "nouilles fines"
+  },
+  {
+    "id": 7989,
+    "lesson_id": "lecon-24",
+    "kanji": "うどん",
+    "hiragana": "うどん",
+    "romaji": "udon",
+    "french": "nouilles épaisses"
+  },
+  {
+    "id": 7990,
+    "lesson_id": "lecon-24",
+    "kanji": "カレー",
+    "hiragana": "カレー",
+    "romaji": "karee",
+    "french": "curry"
+  },
+  {
+    "id": 7991,
+    "lesson_id": "lecon-24",
+    "kanji": "ハンバーガー",
+    "hiragana": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "french": "hamburger"
+  },
+  {
+    "id": 7992,
+    "lesson_id": "lecon-24",
+    "kanji": "ピザ",
+    "hiragana": "ピザ",
+    "romaji": "piza",
+    "french": "pizza"
+  },
+  {
+    "id": 7993,
+    "lesson_id": "lecon-24",
+    "kanji": "すし",
+    "hiragana": "すし",
+    "romaji": "sushi",
+    "french": "sushi"
+  },
+  {
+    "id": 7994,
+    "lesson_id": "lecon-24",
+    "kanji": "刺身",
+    "hiragana": "さしみ",
+    "romaji": "sashimi",
+    "french": "sashimi"
+  },
+  {
+    "id": 7995,
+    "lesson_id": "lecon-24",
+    "kanji": "美味しい",
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "french": "délicieux"
+  },
+  {
+    "id": 7996,
+    "lesson_id": "lecon-24",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "french": "cher"
+  },
+  {
+    "id": 7997,
+    "lesson_id": "lecon-24",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "french": "bon marché"
+  },
+  {
+    "id": 7998,
+    "lesson_id": "lecon-24",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "french": "rapide"
+  },
+  {
+    "id": 7999,
+    "lesson_id": "lecon-24",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "french": "nouveau"
+  },
+  {
+    "id": 8000,
+    "lesson_id": "lecon-24",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "french": "vieux"
+  },
+  {
+    "id": 8001,
+    "lesson_id": "lecon-24",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ookii",
+    "french": "grand"
+  },
+  {
+    "id": 8002,
+    "lesson_id": "lecon-24",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "french": "petit"
+  },
+  {
+    "id": 8003,
+    "lesson_id": "lecon-24",
+    "kanji": "良い",
+    "hiragana": "いい",
+    "romaji": "ii",
+    "french": "bon"
+  },
+  {
+    "id": 8004,
+    "lesson_id": "lecon-24",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "french": "mauvais"
+  },
+  {
+    "id": 8005,
+    "lesson_id": "lecon-25",
+    "kanji": "メニュー",
+    "hiragana": "メニュー",
+    "romaji": "menyuu",
+    "french": "menu"
+  },
+  {
+    "id": 8006,
+    "lesson_id": "lecon-25",
+    "kanji": "注文",
+    "hiragana": "ちゅうもん",
+    "romaji": "chuumon",
+    "french": "commande"
+  },
+  {
+    "id": 8007,
+    "lesson_id": "lecon-25",
+    "kanji": "注文する",
+    "hiragana": "ちゅうもん する",
+    "romaji": "chuumon suru",
+    "french": "commander"
+  },
+  {
+    "id": 8008,
+    "lesson_id": "lecon-25",
+    "kanji": "いただく",
+    "hiragana": "いただく",
+    "romaji": "itadaku",
+    "french": "manger/recevoir (honorifique)"
+  },
+  {
+    "id": 8009,
+    "lesson_id": "lecon-25",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "romaji": "tabemasu",
+    "french": "manger"
+  },
+  {
+    "id": 8010,
+    "lesson_id": "lecon-25",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "romaji": "nomimasu",
+    "french": "boire"
+  },
+  {
+    "id": 8011,
+    "lesson_id": "lecon-25",
+    "kanji": "ハンバーガー",
+    "hiragana": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "french": "hamburger"
+  },
+  {
+    "id": 8012,
+    "lesson_id": "lecon-25",
+    "kanji": "チーズバーガー",
+    "hiragana": "チーズバーガー",
+    "romaji": "chiizubaagaa",
+    "french": "burger au fromage"
+  },
+  {
+    "id": 8013,
+    "lesson_id": "lecon-25",
+    "kanji": "フィッシュバーガー",
+    "hiragana": "フィッシュバーガー",
+    "romaji": "fisshubaagaa",
+    "french": "burger au poisson"
+  },
+  {
+    "id": 8014,
+    "lesson_id": "lecon-25",
+    "kanji": "チキンバーガー",
+    "hiragana": "チキンバーガー",
+    "romaji": "chikin baagaa",
+    "french": "burger au poulet"
+  },
+  {
+    "id": 8015,
+    "lesson_id": "lecon-25",
+    "kanji": "テリヤキバーガー",
+    "hiragana": "テリヤキバーガー",
+    "romaji": "teriyaki baagaa",
+    "french": "burger teriyaki"
+  },
+  {
+    "id": 8016,
+    "lesson_id": "lecon-25",
+    "kanji": "ホットドッグ",
+    "hiragana": "ホットドッグ",
+    "romaji": "hotto doggu",
+    "french": "hot-dog"
+  },
+  {
+    "id": 8017,
+    "lesson_id": "lecon-25",
+    "kanji": "ポテト",
+    "hiragana": "ポテト",
+    "romaji": "poteto",
+    "french": "frites"
+  },
+  {
+    "id": 8018,
+    "lesson_id": "lecon-25",
+    "kanji": "セット",
+    "hiragana": "セット",
+    "romaji": "setto",
+    "french": "set/menu"
+  },
+  {
+    "id": 8019,
+    "lesson_id": "lecon-25",
+    "kanji": "ホットコーヒー",
+    "hiragana": "ホットコーヒー",
+    "romaji": "hotto koohii",
+    "french": "café chaud"
+  },
+  {
+    "id": 8020,
+    "lesson_id": "lecon-25",
+    "kanji": "アイスコーヒー",
+    "hiragana": "アイスコーヒー",
+    "romaji": "aisu koohii",
+    "french": "café glacé"
+  },
+  {
+    "id": 8021,
+    "lesson_id": "lecon-25",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "romaji": "juusu",
+    "french": "jus"
+  },
+  {
+    "id": 8022,
+    "lesson_id": "lecon-25",
+    "kanji": "コーラ",
+    "hiragana": "コーラ",
+    "romaji": "koora",
+    "french": "cola"
+  },
+  {
+    "id": 8023,
+    "lesson_id": "lecon-25",
+    "kanji": "ウーロン茶",
+    "hiragana": "ウーロン茶",
+    "romaji": "uuron cha",
+    "french": "thé oolong"
+  },
+  {
+    "id": 8024,
+    "lesson_id": "lecon-25",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "koocha",
+    "french": "thé noir"
+  },
+  {
+    "id": 8025,
+    "lesson_id": "lecon-25",
+    "kanji": "S サイズ",
+    "hiragana": "エスサイズ",
+    "romaji": "esu saizu",
+    "french": "petite taille"
+  },
+  {
+    "id": 8026,
+    "lesson_id": "lecon-25",
+    "kanji": "M サイズ",
+    "hiragana": "エムサイズ",
+    "romaji": "emu saizu",
+    "french": "taille moyenne"
+  },
+  {
+    "id": 8027,
+    "lesson_id": "lecon-25",
+    "kanji": "L サイズ",
+    "hiragana": "エルサイズ",
+    "romaji": "eru saizu",
+    "french": "grande taille"
+  },
+  {
+    "id": 8028,
+    "lesson_id": "lecon-25",
+    "kanji": "ここで",
+    "hiragana": "ここで",
+    "romaji": "koko de",
+    "french": "ici (sur place)"
+  },
+  {
+    "id": 8029,
+    "lesson_id": "lecon-25",
+    "kanji": "テイクアウト",
+    "hiragana": "テイクアウト",
+    "romaji": "teikuauto",
+    "french": "à emporter"
+  },
+  {
+    "id": 8030,
+    "lesson_id": "lecon-26",
+    "kanji": "そば屋",
+    "hiragana": "そばや",
+    "romaji": "sobaya",
+    "french": "restaurant de soba"
+  },
+  {
+    "id": 8031,
+    "lesson_id": "lecon-26",
+    "kanji": "寿司屋",
+    "hiragana": "すしや",
+    "romaji": "sushiya",
+    "french": "restaurant de sushi"
+  },
+  {
+    "id": 8032,
+    "lesson_id": "lecon-26",
+    "kanji": "ラーメン屋",
+    "hiragana": "ラーメンや",
+    "romaji": "raamenya",
+    "french": "restaurant de ramen"
+  },
+  {
+    "id": 8033,
+    "lesson_id": "lecon-26",
+    "kanji": "ピザ屋",
+    "hiragana": "ピザや",
+    "romaji": "pizaya",
+    "french": "pizzeria"
+  },
+  {
+    "id": 8034,
+    "lesson_id": "lecon-26",
+    "kanji": "カレー屋",
+    "hiragana": "カレーや",
+    "romaji": "kareeya",
+    "french": "restaurant de curry"
+  },
+  {
+    "id": 8035,
+    "lesson_id": "lecon-26",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "french": "nourriture"
+  },
+  {
+    "id": 8036,
+    "lesson_id": "lecon-26",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "french": "boisson"
+  },
+  {
+    "id": 8037,
+    "lesson_id": "lecon-26",
+    "kanji": "好きな",
+    "hiragana": "すきな",
+    "romaji": "sukina",
+    "french": "préféré"
+  },
+  {
+    "id": 8038,
+    "lesson_id": "lecon-26",
+    "kanji": "嫌いな",
+    "hiragana": "きらいな",
+    "romaji": "kiraina",
+    "french": "détesté"
+  },
+  {
+    "id": 8039,
+    "lesson_id": "lecon-26",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "suki",
+    "french": "aimer"
+  },
+  {
+    "id": 8040,
+    "lesson_id": "lecon-26",
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "romaji": "kirai",
+    "french": "détester"
+  },
+  {
+    "id": 8041,
+    "lesson_id": "lecon-26",
+    "kanji": "美味しい",
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "french": "délicieux"
+  },
+  {
+    "id": 8042,
+    "lesson_id": "lecon-26",
+    "kanji": "美味しくない",
+    "hiragana": "おいしくない",
+    "romaji": "oishikunai",
+    "french": "pas délicieux"
+  },
+  {
+    "id": 8043,
+    "lesson_id": "lecon-26",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "french": "cher"
+  },
+  {
+    "id": 8044,
+    "lesson_id": "lecon-26",
+    "kanji": "高くない",
+    "hiragana": "たかくない",
+    "romaji": "takakunai",
+    "french": "pas cher"
+  },
+  {
+    "id": 8045,
+    "lesson_id": "lecon-26",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "french": "bon marché"
+  },
+  {
+    "id": 8046,
+    "lesson_id": "lecon-26",
+    "kanji": "安くない",
+    "hiragana": "やすくない",
+    "romaji": "yasukunai",
+    "french": "pas bon marché"
+  },
+  {
+    "id": 8047,
+    "lesson_id": "lecon-26",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "french": "rapide"
+  },
+  {
+    "id": 8048,
+    "lesson_id": "lecon-26",
+    "kanji": "速くない",
+    "hiragana": "はやくない",
+    "romaji": "hayakunai",
+    "french": "pas rapide"
+  },
+  {
+    "id": 8049,
+    "lesson_id": "lecon-26",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "romaji": "osoi",
+    "french": "lent"
+  },
+  {
+    "id": 8050,
+    "lesson_id": "lecon-27",
+    "kanji": "家",
+    "hiragana": "いえ / うち",
+    "romaji": "ie / uchi",
+    "french": "Maison, foyer"
+  },
+  {
+    "id": 8051,
+    "lesson_id": "lecon-27",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "romaji": "tatemono",
+    "french": "Bâtiment"
+  },
+  {
+    "id": 8052,
+    "lesson_id": "lecon-27",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "romaji": "manshon",
+    "french": "Appartement, condominium"
+  },
+  {
+    "id": 8053,
+    "lesson_id": "lecon-27",
+    "kanji": "アパート",
+    "hiragana": "アパート",
+    "romaji": "apāto",
+    "french": "Petit immeuble résidentiel"
+  },
+  {
+    "id": 8054,
+    "lesson_id": "lecon-27",
+    "kanji": "一戸建て",
+    "hiragana": "いっこたて",
+    "romaji": "ikkodate",
+    "french": "Maison individuelle"
+  },
+  {
+    "id": 8055,
+    "lesson_id": "lecon-27",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "romaji": "Tōkyō",
+    "french": "Tokyo"
+  },
+  {
+    "id": 8056,
+    "lesson_id": "lecon-27",
+    "kanji": "都市",
+    "hiragana": "としい",
+    "romaji": "toshi",
+    "french": "Ville"
+  },
+  {
+    "id": 8057,
+    "lesson_id": "lecon-27",
+    "kanji": "郊外",
+    "hiragana": "こうがい",
+    "romaji": "kōgai",
+    "french": "Banlieue"
+  },
+  {
+    "id": 8058,
+    "lesson_id": "lecon-27",
+    "kanji": "一人",
+    "hiragana": "ひとり",
+    "romaji": "hitori",
+    "french": "Seul(e)"
+  },
+  {
+    "id": 8059,
+    "lesson_id": "lecon-27",
+    "kanji": "妻",
+    "hiragana": "つま",
+    "romaji": "tsuma",
+    "french": "Épouse"
+  },
+  {
+    "id": 8060,
+    "lesson_id": "lecon-27",
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "romaji": "otto",
+    "french": "Époux"
+  },
+  {
+    "id": 8061,
+    "lesson_id": "lecon-27",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "romaji": "kazoku",
+    "french": "Famille"
+  },
+  {
+    "id": 8062,
+    "lesson_id": "lecon-27",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "romaji": "ryōshin",
+    "french": "Parents"
+  },
+  {
+    "id": 8063,
+    "lesson_id": "lecon-27",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "french": "Ami(e)"
+  },
+  {
+    "id": 8064,
+    "lesson_id": "lecon-27",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ōkii",
+    "french": "Grand"
+  },
+  {
+    "id": 8065,
+    "lesson_id": "lecon-27",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "french": "Petit"
+  },
+  {
+    "id": 8066,
+    "lesson_id": "lecon-27",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "french": "Ancien"
+  },
+  {
+    "id": 8067,
+    "lesson_id": "lecon-27",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "french": "Neuf"
+  },
+  {
+    "id": 8068,
+    "lesson_id": "lecon-27",
+    "kanji": "綺麗",
+    "hiragana": "きれい",
+    "romaji": "kirei",
+    "french": "Beau, propre"
+  },
+  {
+    "id": 8069,
+    "lesson_id": "lecon-27",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "romaji": "hiroi",
+    "french": "Spacieux"
+  },
+  {
+    "id": 8070,
+    "lesson_id": "lecon-27",
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "romaji": "semai",
+    "french": "Étroit"
+  },
+  {
+    "id": 8071,
+    "lesson_id": "lecon-28",
+    "kanji": "テーブル",
+    "hiragana": "テーブル",
+    "romaji": "tēburu",
+    "french": "Table"
+  },
+  {
+    "id": 8072,
+    "lesson_id": "lecon-28",
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "french": "Chaise"
+  },
+  {
+    "id": 8073,
+    "lesson_id": "lecon-28",
+    "kanji": "ソファ",
+    "hiragana": "ソファ",
+    "romaji": "sofā",
+    "french": "Canapé"
+  },
+  {
+    "id": 8074,
+    "lesson_id": "lecon-28",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "french": "Télévision"
+  },
+  {
+    "id": 8075,
+    "lesson_id": "lecon-28",
+    "kanji": "ベッド",
+    "hiragana": "ベッド",
+    "romaji": "beddo",
+    "french": "Lit"
+  },
+  {
+    "id": 8076,
+    "lesson_id": "lecon-28",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "french": "Bureau, pupitre"
+  },
+  {
+    "id": 8077,
+    "lesson_id": "lecon-28",
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "romaji": "hondana",
+    "french": "Étagère à livres"
+  },
+  {
+    "id": 8078,
+    "lesson_id": "lecon-28",
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "romaji": "reizōko",
+    "french": "Réfrigérateur"
+  },
+  {
+    "id": 8079,
+    "lesson_id": "lecon-28",
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "romaji": "sentakuki",
+    "french": "Machine à laver"
+  },
+  {
+    "id": 8080,
+    "lesson_id": "lecon-28",
+    "kanji": "植物",
+    "hiragana": "しょくぶつ",
+    "romaji": "shokubutsu",
+    "french": "Plante"
+  },
+  {
+    "id": 8081,
+    "lesson_id": "lecon-28",
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "romaji": "inu",
+    "french": "Chien"
+  },
+  {
+    "id": 8082,
+    "lesson_id": "lecon-28",
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "romaji": "neko",
+    "french": "Chat"
+  },
+  {
+    "id": 8083,
+    "lesson_id": "lecon-28",
+    "kanji": "ウサギ",
+    "hiragana": "ウサギ",
+    "romaji": "usagi",
+    "french": "Lapin"
+  },
+  {
+    "id": 8084,
+    "lesson_id": "lecon-28",
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "french": "Oiseau"
+  },
+  {
+    "id": 8085,
+    "lesson_id": "lecon-28",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "romaji": "hito",
+    "french": "Personne"
+  },
+  {
+    "id": 8086,
+    "lesson_id": "lecon-28",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "french": "Ami(e)"
+  },
+  {
+    "id": 8087,
+    "lesson_id": "lecon-29",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kōen",
+    "french": "Parc"
+  },
+  {
+    "id": 8088,
+    "lesson_id": "lecon-29",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "french": "Restaurant"
+  },
+  {
+    "id": 8089,
+    "lesson_id": "lecon-29",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "romaji": "depāto",
+    "french": "Grand magasin, centre commercial"
+  },
+  {
+    "id": 8090,
+    "lesson_id": "lecon-29",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkō",
+    "french": "École"
+  },
+  {
+    "id": 8091,
+    "lesson_id": "lecon-29",
+    "kanji": "スーパー",
+    "hiragana": "スーパー",
+    "romaji": "supā",
+    "french": "Supermarché"
+  },
+  {
+    "id": 8092,
+    "lesson_id": "lecon-29",
+    "kanji": "教会",
+    "hiragana": "きょうかい",
+    "romaji": "kyōkai",
+    "french": "Église"
+  },
+  {
+    "id": 8093,
+    "lesson_id": "lecon-29",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "french": "Gare"
+  },
+  {
+    "id": 8094,
+    "lesson_id": "lecon-29",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byōin",
+    "french": "Hôpital"
+  },
+  {
+    "id": 8095,
+    "lesson_id": "lecon-29",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "french": "Bibliothèque"
+  },
+  {
+    "id": 8096,
+    "lesson_id": "lecon-29",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkō",
+    "french": "Banque"
+  },
+  {
+    "id": 8097,
+    "lesson_id": "lecon-29",
+    "kanji": "近く",
+    "hiragana": "ちかく",
+    "romaji": "chikaku",
+    "french": "Proximité, près"
+  },
+  {
+    "id": 8098,
+    "lesson_id": "lecon-29",
+    "kanji": "隣",
+    "hiragana": "となり",
+    "romaji": "tonari",
+    "french": "À côté"
+  },
+  {
+    "id": 8099,
+    "lesson_id": "lecon-29",
+    "kanji": "向かい",
+    "hiragana": "むかい",
+    "romaji": "mukai",
+    "french": "En face"
+  },
+  {
+    "id": 8100,
+    "lesson_id": "lecon-29",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "romaji": "arimasu",
+    "french": "Il y a (objet inanimé)"
+  },
+  {
+    "id": 8101,
+    "lesson_id": "lecon-29",
+    "kanji": "います",
+    "hiragana": "います",
+    "romaji": "imasu",
+    "french": "Il y a (être animé)"
+  },
+  {
+    "id": 8102,
+    "lesson_id": "lecon-29",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "french": "À côté de, près de"
+  },
+  {
+    "id": 8103,
+    "lesson_id": "lecon-29",
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "romaji": "chikai",
+    "french": "Proche"
+  },
+  {
+    "id": 8104,
+    "lesson_id": "lecon-29",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "romaji": "tōi",
+    "french": "Lointain"
+  },
+  {
+    "id": 8105,
+    "lesson_id": "lecon-29",
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "romaji": "benri",
+    "french": "Pratique, commode"
+  },
+  {
+    "id": 8106,
+    "lesson_id": "lecon-29",
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "romaji": "shizuka",
+    "french": "Calme, silencieux"
+  },
+  {
+    "id": 8107,
+    "lesson_id": "lecon-29",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "french": "Amusant, agréable"
+  },
+  {
+    "id": 8108,
+    "lesson_id": "lecon-30",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "french": "Dessus, au-dessus"
+  },
+  {
+    "id": 8109,
+    "lesson_id": "lecon-30",
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "french": "Dessous, en-dessous"
+  },
+  {
+    "id": 8110,
+    "lesson_id": "lecon-30",
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "romaji": "hidari",
+    "french": "Gauche"
+  },
+  {
+    "id": 8111,
+    "lesson_id": "lecon-30",
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "romaji": "migi",
+    "french": "Droite"
+  },
+  {
+    "id": 8112,
+    "lesson_id": "lecon-30",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "french": "Devant, avant"
+  },
+  {
+    "id": 8113,
+    "lesson_id": "lecon-30",
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "romaji": "ushiro",
+    "french": "Derrière, arrière"
+  },
+  {
+    "id": 8114,
+    "lesson_id": "lecon-30",
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "french": "Intérieur, dedans"
+  },
+  {
+    "id": 8115,
+    "lesson_id": "lecon-30",
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "french": "Extérieur, dehors"
+  },
+  {
+    "id": 8116,
+    "lesson_id": "lecon-30",
+    "kanji": "隣",
+    "hiragana": "となり",
+    "romaji": "tonari",
+    "french": "À côté"
+  },
+  {
+    "id": 8117,
+    "lesson_id": "lecon-30",
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "romaji": "aida",
+    "french": "Entre"
+  },
+  {
+    "id": 8118,
+    "lesson_id": "lecon-30",
+    "kanji": "角",
+    "hiragana": "かど",
+    "romaji": "kado",
+    "french": "Coin"
+  },
+  {
+    "id": 8119,
+    "lesson_id": "lecon-30",
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "romaji": "kabe",
+    "french": "Mur"
+  },
+  {
+    "id": 8120,
+    "lesson_id": "lecon-30",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "french": "À côté de, près de"
+  },
+  {
+    "id": 8121,
+    "lesson_id": "lecon-30",
+    "kanji": "ベッド",
+    "hiragana": "ベッド",
+    "romaji": "beddo",
+    "french": "Lit"
+  },
+  {
+    "id": 8122,
+    "lesson_id": "lecon-30",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "french": "Bureau"
+  },
+  {
+    "id": 8123,
+    "lesson_id": "lecon-30",
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "french": "Chaise"
+  },
+  {
+    "id": 8124,
+    "lesson_id": "lecon-30",
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "romaji": "hondana",
+    "french": "Étagère à livres"
+  },
+  {
+    "id": 8125,
+    "lesson_id": "lecon-30",
+    "kanji": "棚",
+    "hiragana": "たな",
+    "romaji": "tana",
+    "french": "Étagère, rayon"
+  },
+  {
+    "id": 8126,
+    "lesson_id": "lecon-30",
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "french": "Porte"
+  },
+  {
+    "id": 8127,
+    "lesson_id": "lecon-30",
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "french": "Fenêtre"
+  },
+  {
+    "id": 8128,
+    "lesson_id": "lecon-30",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "french": "Télévision"
+  },
+  {
+    "id": 8129,
+    "lesson_id": "lecon-30",
+    "kanji": "ランプ",
+    "hiragana": "ランプ",
+    "romaji": "ranpu",
+    "french": "Lampe"
+  },
+  {
+    "id": 8130,
+    "lesson_id": "lecon-30",
+    "kanji": "ポスター",
+    "hiragana": "ポスター",
+    "romaji": "posutā",
+    "french": "Affiche, poster"
+  },
+  {
+    "id": 8131,
+    "lesson_id": "lecon-30",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "french": "Livre"
+  },
+  {
+    "id": 8132,
+    "lesson_id": "lecon-30",
+    "kanji": "人形",
+    "hiragana": "にんぎょう",
+    "romaji": "ningyō",
+    "french": "Poupée, figurine"
+  },
+  {
+    "id": 8133,
+    "lesson_id": "lecon-30",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "french": "Horloge, montre"
+  },
+  {
+    "id": 8134,
+    "lesson_id": "lecon-31",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "french": "Chambre, pièce"
+  },
+  {
+    "id": 8135,
+    "lesson_id": "lecon-31",
+    "kanji": "居間",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "french": "Salon, séjour"
+  },
+  {
+    "id": 8136,
+    "lesson_id": "lecon-31",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "french": "Cuisine"
+  },
+  {
+    "id": 8137,
+    "lesson_id": "lecon-31",
+    "kanji": "浴室",
+    "hiragana": "よくしつ",
+    "romaji": "yokushitsu",
+    "french": "Salle de bains"
+  },
+  {
+    "id": 8138,
+    "lesson_id": "lecon-31",
+    "kanji": "風呂",
+    "hiragana": "ふろ",
+    "romaji": "furo",
+    "french": "Baignoire, bain"
+  },
+  {
+    "id": 8139,
+    "lesson_id": "lecon-31",
+    "kanji": "トイレ",
+    "hiragana": "トイレ",
+    "romaji": "toire",
+    "french": "Toilettes, WC"
+  },
+  {
+    "id": 8140,
+    "lesson_id": "lecon-31",
+    "kanji": "寝室",
+    "hiragana": "しんしつ",
+    "romaji": "shinshitsu",
+    "french": "Chambre à coucher"
+  },
+  {
+    "id": 8141,
+    "lesson_id": "lecon-31",
+    "kanji": "玄関",
+    "hiragana": "げんかん",
+    "romaji": "genkan",
+    "french": "Entrée"
+  },
+  {
+    "id": 8142,
+    "lesson_id": "lecon-31",
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "romaji": "kaidan",
+    "french": "Escalier"
+  },
+  {
+    "id": 8143,
+    "lesson_id": "lecon-31",
+    "kanji": "リビング",
+    "hiragana": "リビング",
+    "romaji": "ribingu",
+    "french": "Living room, salon"
+  },
+  {
+    "id": 8144,
+    "lesson_id": "lecon-31",
+    "kanji": "ダイニング",
+    "hiragana": "ダイニング",
+    "romaji": "dainingu",
+    "french": "Salle à manger"
+  },
+  {
+    "id": 8145,
+    "lesson_id": "lecon-31",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ōkii",
+    "french": "Grand"
+  },
+  {
+    "id": 8146,
+    "lesson_id": "lecon-31",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "french": "Petit"
+  },
+  {
+    "id": 8147,
+    "lesson_id": "lecon-31",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "romaji": "hiroi",
+    "french": "Spacieux"
+  },
+  {
+    "id": 8148,
+    "lesson_id": "lecon-31",
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "romaji": "semai",
+    "french": "Étroit"
+  },
+  {
+    "id": 8149,
+    "lesson_id": "lecon-31",
+    "kanji": "綺麗",
+    "hiragana": "きれい",
+    "romaji": "kirei",
+    "french": "Beau, propre"
+  },
+  {
+    "id": 8150,
+    "lesson_id": "lecon-31",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "romaji": "akarui",
+    "french": "Clair, lumineux"
+  },
+  {
+    "id": 8151,
+    "lesson_id": "lecon-31",
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "romaji": "kurai",
+    "french": "Sombre"
+  },
+  {
+    "id": 8152,
+    "lesson_id": "lecon-31",
+    "kanji": "快適",
+    "hiragana": "かいてき",
+    "romaji": "kaiteki",
+    "french": "Confortable"
+  },
+  {
+    "id": 8153,
+    "lesson_id": "lecon-31",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "french": "Ancien"
+  },
+  {
+    "id": 8154,
+    "lesson_id": "lecon-31",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "french": "Neuf"
+  },
+  {
+    "id": 8155,
+    "lesson_id": "lecon-32",
+    "kanji": "ごめんください",
+    "hiragana": "ごめんください",
+    "romaji": "gomenkudasai",
+    "french": "Excuse-moi / Est-ce que tu es là?"
+  },
+  {
+    "id": 8156,
+    "lesson_id": "lecon-32",
+    "kanji": "いらっしゃい",
+    "hiragana": "いらっしゃい",
+    "romaji": "irasshai",
+    "french": "Bienvenue! (accueil)"
+  },
+  {
+    "id": 8157,
+    "lesson_id": "lecon-32",
+    "kanji": "どうぞ",
+    "hiragana": "どうぞ",
+    "romaji": "dōzo",
+    "french": "S'il vous/te plaît, allez-y"
+  },
+  {
+    "id": 8158,
+    "lesson_id": "lecon-32",
+    "kanji": "あがってください",
+    "hiragana": "あがってください",
+    "romaji": "agatte kudasai",
+    "french": "Montez, s'il vous plaît"
+  },
+  {
+    "id": 8159,
+    "lesson_id": "lecon-32",
+    "kanji": "おじゃまします",
+    "hiragana": "おじゃまします",
+    "romaji": "ojamashimasu",
+    "french": "Excusez-moi de vous déranger"
+  },
+  {
+    "id": 8160,
+    "lesson_id": "lecon-32",
+    "kanji": "おじゃまします",
+    "hiragana": "おじゃましました",
+    "romaji": "ojamashimashita",
+    "french": "J'ai eu le plaisir de vous visiter"
+  },
+  {
+    "id": 8161,
+    "lesson_id": "lecon-32",
+    "kanji": "いただきます",
+    "hiragana": "いただきます",
+    "romaji": "itadakimasu",
+    "french": "Expression de gratitude avant manger"
+  },
+  {
+    "id": 8162,
+    "lesson_id": "lecon-32",
+    "kanji": "ごちそうさま",
+    "hiragana": "ごちそうさま",
+    "romaji": "gochisōsama",
+    "french": "Expression de gratitude après manger"
+  },
+  {
+    "id": 8163,
+    "lesson_id": "lecon-32",
+    "kanji": "どうも",
+    "hiragana": "どうも",
+    "romaji": "dōmo",
+    "french": "Merci beaucoup"
+  },
+  {
+    "id": 8164,
+    "lesson_id": "lecon-32",
+    "kanji": "ありがとう",
+    "hiragana": "ありがとう",
+    "romaji": "arigatō",
+    "french": "Merci"
+  },
+  {
+    "id": 8165,
+    "lesson_id": "lecon-32",
+    "kanji": "いい",
+    "hiragana": "いい",
+    "romaji": "ii",
+    "french": "Beau, bon, joli"
+  },
+  {
+    "id": 8166,
+    "lesson_id": "lecon-32",
+    "kanji": "へや",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "french": "Chambre, pièce"
+  },
+  {
+    "id": 8167,
+    "lesson_id": "lecon-32",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "french": "Thé vert (offert aux invités)"
+  },
+  {
+    "id": 8168,
+    "lesson_id": "lecon-32",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "kōhī",
+    "french": "Café"
+  },
+  {
+    "id": 8169,
+    "lesson_id": "lecon-32",
+    "kanji": "お菓子",
+    "hiragana": "おかし",
+    "romaji": "okashi",
+    "french": "Gâteau, bonbon"
+  },
+  {
+    "id": 8170,
+    "lesson_id": "lecon-32",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "romaji": "osake",
+    "french": "Alcool, sake"
+  },
+  {
+    "id": 8171,
+    "lesson_id": "lecon-32",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "romaji": "bīru",
+    "french": "Bière"
+  },
+  {
+    "id": 8172,
+    "lesson_id": "lecon-32",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "romaji": "wain",
+    "french": "Vin"
+  },
+  {
+    "id": 8173,
+    "lesson_id": "lecon-32",
+    "kanji": "人形",
+    "hiragana": "にんぎょう",
+    "romaji": "ningyō",
+    "french": "Poupée, figurine"
+  },
+  {
+    "id": 8174,
+    "lesson_id": "lecon-32",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "french": "Dessin, image"
+  },
+  {
+    "id": 8175,
+    "lesson_id": "lecon-32",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "french": "Photographie, photo"
+  },
+  {
+    "id": 8176,
+    "lesson_id": "lecon-33",
+    "kanji": "寿司",
+    "hiragana": "すし",
+    "romaji": "sushi",
+    "french": "Sushi"
+  },
+  {
+    "id": 8177,
+    "lesson_id": "lecon-33",
+    "kanji": "ラーメン",
+    "hiragana": "ラーメン",
+    "romaji": "rāmen",
+    "french": "Ramen"
+  },
+  {
+    "id": 8178,
+    "lesson_id": "lecon-33",
+    "kanji": "天ぷら",
+    "hiragana": "てんぷら",
+    "romaji": "tenpura",
+    "french": "Tempura"
+  },
+  {
+    "id": 8179,
+    "lesson_id": "lecon-33",
+    "kanji": "味噌汁",
+    "hiragana": "みそしる",
+    "romaji": "misoshiru",
+    "french": "Soupe miso"
+  },
+  {
+    "id": 8180,
+    "lesson_id": "lecon-33",
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "french": "Riz cuit, repas"
+  },
+  {
+    "id": 8181,
+    "lesson_id": "lecon-33",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "french": "Pain"
+  },
+  {
+    "id": 8182,
+    "lesson_id": "lecon-33",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "Viande"
+  },
+  {
+    "id": 8183,
+    "lesson_id": "lecon-33",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "Poisson"
+  },
+  {
+    "id": 8184,
+    "lesson_id": "lecon-33",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "french": "Légume"
+  },
+  {
+    "id": 8185,
+    "lesson_id": "lecon-33",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "french": "Fruit"
+  },
+  {
+    "id": 8186,
+    "lesson_id": "lecon-33",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyūnyū",
+    "french": "Lait"
+  },
+  {
+    "id": 8187,
+    "lesson_id": "lecon-33",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "romaji": "kōhī",
+    "french": "Café"
+  },
+  {
+    "id": 8188,
+    "lesson_id": "lecon-33",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "romaji": "bīru",
+    "french": "Bière"
+  },
+  {
+    "id": 8189,
+    "lesson_id": "lecon-33",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "romaji": "wain",
+    "french": "Vin"
+  },
+  {
+    "id": 8190,
+    "lesson_id": "lecon-33",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "suki",
+    "french": "Aimer (adjectif -na)"
+  },
+  {
+    "id": 8191,
+    "lesson_id": "lecon-33",
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "romaji": "kirai",
+    "french": "Détester (adjectif -na)"
+  },
+  {
+    "id": 8192,
+    "lesson_id": "lecon-33",
+    "kanji": "好みます",
+    "hiragana": "このみます",
+    "romaji": "konomimasu",
+    "french": "Préférer"
+  },
+  {
+    "id": 8193,
+    "lesson_id": "lecon-33",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "french": "Maison"
+  },
+  {
+    "id": 8194,
+    "lesson_id": "lecon-33",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "romaji": "manshon",
+    "french": "Appartement"
+  },
+  {
+    "id": 8195,
+    "lesson_id": "lecon-33",
+    "kanji": "アパート",
+    "hiragana": "アパート",
+    "romaji": "apāto",
+    "french": "Petit immeuble"
+  },
+  {
+    "id": 8196,
+    "lesson_id": "lecon-33",
+    "kanji": "一戸建て",
+    "hiragana": "いっこたて",
+    "romaji": "ikko tate",
+    "french": "Maison individuelle"
+  },
+  {
+    "id": 8197,
+    "lesson_id": "lecon-33",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "french": "Chambre, pièce"
+  },
+  {
+    "id": 8198,
+    "lesson_id": "lecon-33",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "french": "Cuisine"
+  },
+  {
+    "id": 8199,
+    "lesson_id": "lecon-33",
+    "kanji": "浴室",
+    "hiragana": "よくしつ",
+    "romaji": "yokushitsu",
+    "french": "Salle de bains"
+  },
+  {
+    "id": 8200,
+    "lesson_id": "lecon-33",
+    "kanji": "トイレ",
+    "hiragana": "トイレ",
+    "romaji": "toile",
+    "french": "Toilettes"
+  },
+  {
+    "id": 8201,
+    "lesson_id": "lecon-33",
+    "kanji": "玄関",
+    "hiragana": "げんかん",
+    "romaji": "genkan",
+    "french": "Entrée"
+  },
+  {
+    "id": 8202,
+    "lesson_id": "lecon-33",
+    "kanji": "居間",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "french": "Salon"
+  },
+  {
+    "id": 8203,
+    "lesson_id": "lecon-33",
+    "kanji": "寝室",
+    "hiragana": "しんしつ",
+    "romaji": "shinshitsu",
+    "french": "Chambre à coucher"
+  },
+  {
+    "id": 8204,
+    "lesson_id": "lecon-33",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kōen",
+    "french": "Parc"
+  },
+  {
+    "id": 8205,
+    "lesson_id": "lecon-33",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "french": "Restaurant"
+  },
+  {
+    "id": 8206,
+    "lesson_id": "lecon-33",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "romaji": "depāto",
+    "french": "Grand magasin"
+  },
+  {
+    "id": 8207,
+    "lesson_id": "lecon-33",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkō",
+    "french": "École"
+  },
+  {
+    "id": 8208,
+    "lesson_id": "lecon-33",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "french": "Gare"
+  },
+  {
+    "id": 8209,
+    "lesson_id": "lecon-35",
+    "kanji": "ファックス",
+    "hiragana": "ふぁっくす",
+    "romaji": "fakkusu",
+    "french": "machine à fax"
+  },
+  {
+    "id": 8210,
+    "lesson_id": "lecon-35",
+    "kanji": "ガムテープ",
+    "hiragana": "がむてーぷ",
+    "romaji": "gamuteēpu",
+    "french": "ruban adhésif / scotch"
+  },
+  {
+    "id": 8211,
+    "lesson_id": "lecon-35",
+    "kanji": "はさみ",
+    "hiragana": "はさみ",
+    "romaji": "hasami",
+    "french": "ciseaux"
+  },
+  {
+    "id": 8212,
+    "lesson_id": "lecon-35",
+    "kanji": "のり",
+    "hiragana": "のり",
+    "romaji": "nori",
+    "french": "colle"
+  },
+  {
+    "id": 8213,
+    "lesson_id": "lecon-35",
+    "kanji": "ごみばこ",
+    "hiragana": "ごみばこ",
+    "romaji": "gomibako",
+    "french": "corbeille à papier"
+  },
+  {
+    "id": 8214,
+    "lesson_id": "lecon-35",
+    "kanji": "コピーき",
+    "hiragana": "こぴーき",
+    "romaji": "kopīki",
+    "french": "photocopieuse"
+  },
+  {
+    "id": 8215,
+    "lesson_id": "lecon-35",
+    "kanji": "コンピューター",
+    "hiragana": "こんぴゅーたー",
+    "romaji": "konpyūtā",
+    "french": "ordinateur"
+  },
+  {
+    "id": 8216,
+    "lesson_id": "lecon-35",
+    "kanji": "ひきだし",
+    "hiragana": "ひきだし",
+    "romaji": "hikidashi",
+    "french": "tiroir"
+  },
+  {
+    "id": 8217,
+    "lesson_id": "lecon-35",
+    "kanji": "つくえ",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "french": "bureau / pupitre"
+  },
+  {
+    "id": 8218,
+    "lesson_id": "lecon-35",
+    "kanji": "マンション",
+    "hiragana": "まんしょん",
+    "romaji": "manshon",
+    "french": "immeuble / appartement (moderne)"
+  },
+  {
+    "id": 8219,
+    "lesson_id": "lecon-35",
+    "kanji": "こんびに",
+    "hiragana": "こんびに",
+    "romaji": "konbini",
+    "french": "magasin de proximité"
+  },
+  {
+    "id": 8220,
+    "lesson_id": "lecon-35",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "romaji": "otera",
+    "french": "temple bouddhiste"
+  },
+  {
+    "id": 8221,
+    "lesson_id": "lecon-35",
+    "kanji": "おばあさん",
+    "hiragana": "おばあさん",
+    "romaji": "obāsan",
+    "french": "grand-mère"
+  },
+  {
+    "id": 8222,
+    "lesson_id": "lecon-35",
+    "kanji": "へや",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "french": "chambre / pièce"
+  },
+  {
+    "id": 8223,
+    "lesson_id": "lecon-35",
+    "kanji": "だいどころ",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "french": "cuisine"
+  },
+  {
+    "id": 8224,
+    "lesson_id": "lecon-35",
+    "kanji": "おふろ",
+    "hiragana": "おふろ",
+    "romaji": "ofuro",
+    "french": "bain / baignoire"
+  },
+  {
+    "id": 8225,
+    "lesson_id": "lecon-35",
+    "kanji": "リビング",
+    "hiragana": "りびんぐ",
+    "romaji": "ribingu",
+    "french": "salon / séjour"
+  },
+  {
+    "id": 8226,
+    "lesson_id": "lecon-36",
+    "kanji": "かばん",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "french": "sac"
+  },
+  {
+    "id": 8227,
+    "lesson_id": "lecon-36",
+    "kanji": "くつ",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "french": "chaussures"
+  },
+  {
+    "id": 8228,
+    "lesson_id": "lecon-36",
+    "kanji": "ドレス",
+    "hiragana": "どれす",
+    "romaji": "doresu",
+    "french": "robe"
+  },
+  {
+    "id": 8229,
+    "lesson_id": "lecon-36",
+    "kanji": "ゲーム",
+    "hiragana": "げーむ",
+    "romaji": "gēmu",
+    "french": "jeu vidéo"
+  },
+  {
+    "id": 8230,
+    "lesson_id": "lecon-36",
+    "kanji": "CD",
+    "hiragana": "しーでぃ",
+    "romaji": "CD",
+    "french": "disque"
+  },
+  {
+    "id": 8231,
+    "lesson_id": "lecon-36",
+    "kanji": "ほん",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "french": "livre"
+  },
+  {
+    "id": 8232,
+    "lesson_id": "lecon-36",
+    "kanji": "とけい",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "french": "montre / horloge"
+  },
+  {
+    "id": 8233,
+    "lesson_id": "lecon-36",
+    "kanji": "いい",
+    "hiragana": "いい",
+    "romaji": "ii",
+    "french": "bon"
+  },
+  {
+    "id": 8234,
+    "lesson_id": "lecon-36",
+    "kanji": "わるい",
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "french": "mauvais"
+  },
+  {
+    "id": 8235,
+    "lesson_id": "lecon-36",
+    "kanji": "あたらしい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "french": "neuf"
+  },
+  {
+    "id": 8236,
+    "lesson_id": "lecon-36",
+    "kanji": "ふるい",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "french": "vieux"
+  },
+  {
+    "id": 8237,
+    "lesson_id": "lecon-36",
+    "kanji": "やすい",
+    "hiragana": "やすい",
+    "romaji": "yasui",
+    "french": "bon marché"
+  },
+  {
+    "id": 8238,
+    "lesson_id": "lecon-36",
+    "kanji": "たかい",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "french": "cher / élevé"
+  },
+  {
+    "id": 8239,
+    "lesson_id": "lecon-36",
+    "kanji": "きれい",
+    "hiragana": "きれい",
+    "romaji": "kirei",
+    "french": "beau / propre"
+  },
+  {
+    "id": 8240,
+    "lesson_id": "lecon-36",
+    "kanji": "にく",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "difficile"
+  },
+  {
+    "id": 8241,
+    "lesson_id": "lecon-37",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "père"
+  },
+  {
+    "id": 8242,
+    "lesson_id": "lecon-37",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "mère"
+  },
+  {
+    "id": 8243,
+    "lesson_id": "lecon-37",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "french": "frère aîné"
+  },
+  {
+    "id": 8244,
+    "lesson_id": "lecon-37",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "french": "soeur aînée"
+  },
+  {
+    "id": 8245,
+    "lesson_id": "lecon-37",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otouto",
+    "french": "frère cadet"
+  },
+  {
+    "id": 8246,
+    "lesson_id": "lecon-37",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "romaji": "imouto",
+    "french": "soeur cadette"
+  },
+  {
+    "id": 8247,
+    "lesson_id": "lecon-37",
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "romaji": "otto",
+    "french": "mari"
+  },
+  {
+    "id": 8248,
+    "lesson_id": "lecon-37",
+    "kanji": "妻",
+    "hiragana": "つま",
+    "romaji": "tsuma",
+    "french": "épouse"
+  },
+  {
+    "id": 8249,
+    "lesson_id": "lecon-37",
+    "kanji": "おじ",
+    "hiragana": "おじ",
+    "romaji": "oji",
+    "french": "oncle"
+  },
+  {
+    "id": 8250,
+    "lesson_id": "lecon-37",
+    "kanji": "おば",
+    "hiragana": "おば",
+    "romaji": "oba",
+    "french": "tante"
+  },
+  {
+    "id": 8251,
+    "lesson_id": "lecon-37",
+    "kanji": "おばあさん",
+    "hiragana": "おばあさん",
+    "romaji": "obaasan",
+    "french": "grand-mère"
+  },
+  {
+    "id": 8252,
+    "lesson_id": "lecon-37",
+    "kanji": "おじいさん",
+    "hiragana": "おじいさん",
+    "romaji": "ojiisan",
+    "french": "grand-père"
+  },
+  {
+    "id": 8253,
+    "lesson_id": "lecon-37",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "french": "maison"
+  },
+  {
+    "id": 8254,
+    "lesson_id": "lecon-37",
+    "kanji": "マンション",
+    "hiragana": "まんしょん",
+    "romaji": "manshon",
+    "french": "immeuble / appartement"
+  },
+  {
+    "id": 8255,
+    "lesson_id": "lecon-37",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kôen",
+    "french": "parc"
+  },
+  {
+    "id": 8256,
+    "lesson_id": "lecon-37",
+    "kanji": "スーパー",
+    "hiragana": "すーぱー",
+    "romaji": "sûpâ",
+    "french": "supermarché"
+  },
+  {
+    "id": 8257,
+    "lesson_id": "lecon-37",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "romaji": "tôkyô",
+    "french": "Tokyo"
+  },
+  {
+    "id": 8258,
+    "lesson_id": "lecon-37",
+    "kanji": "パリ",
+    "hiragana": "ぱり",
+    "romaji": "pari",
+    "french": "Paris"
+  },
+  {
+    "id": 8259,
+    "lesson_id": "lecon-37",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "romaji": "kaishain",
+    "french": "employé de bureau"
+  },
+  {
+    "id": 8260,
+    "lesson_id": "lecon-37",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "french": "professeur"
+  },
+  {
+    "id": 8261,
+    "lesson_id": "lecon-37",
+    "kanji": "警察官",
+    "hiragana": "けいさつかん",
+    "romaji": "keisatsukan",
+    "french": "policier"
+  },
+  {
+    "id": 8262,
+    "lesson_id": "lecon-37",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "french": "médecin"
+  },
+  {
+    "id": 8263,
+    "lesson_id": "lecon-37",
+    "kanji": "美容師",
+    "hiragana": "びようし",
+    "romaji": "biyôshi",
+    "french": "coiffeur / coiffeuse"
+  },
+  {
+    "id": 8264,
+    "lesson_id": "lecon-37",
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "romaji": "ten",
+    "french": "vendeur / vendeuse"
+  },
+  {
+    "id": 8265,
+    "lesson_id": "lecon-37",
+    "kanji": "主婦",
+    "hiragana": "しゅふ",
+    "romaji": "shufu",
+    "french": "femme au foyer"
+  },
+  {
+    "id": 8266,
+    "lesson_id": "lecon-37",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "french": "neuf / nouveau"
+  },
+  {
+    "id": 8267,
+    "lesson_id": "lecon-37",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "furui",
+    "french": "vieux"
+  },
+  {
+    "id": 8268,
+    "lesson_id": "lecon-37",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "ôkii",
+    "french": "grand"
+  },
+  {
+    "id": 8269,
+    "lesson_id": "lecon-37",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "chiisai",
+    "french": "petit"
+  },
+  {
+    "id": 8270,
+    "lesson_id": "lecon-37",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "romaji": "utsukushii",
+    "french": "beau"
+  },
+  {
+    "id": 8271,
+    "lesson_id": "lecon-37",
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "romaji": "kurai",
+    "french": "sombre"
+  },
+  {
+    "id": 8272,
+    "lesson_id": "lecon-37",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "romaji": "akarui",
+    "french": "lumineux"
+  },
+  {
+    "id": 8273,
+    "lesson_id": "lecon-37",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "romaji": "hiroi",
+    "french": "spacieux"
+  },
+  {
+    "id": 8274,
+    "lesson_id": "lecon-37",
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "romaji": "semai",
+    "french": "étroit"
+  },
+  {
+    "id": 8275,
+    "lesson_id": "lecon-37",
+    "kanji": "美味しい",
+    "hiragana": "おいしい",
+    "romaji": "oishii",
+    "french": "savoureux"
+  },
+  {
+    "id": 8276,
+    "lesson_id": "lecon-37",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "french": "rapide"
+  },
+  {
+    "id": 8277,
+    "lesson_id": "lecon-37",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "romaji": "osoi",
+    "french": "lent"
+  },
+  {
+    "id": 8278,
+    "lesson_id": "lecon-38",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "french": "nourriture"
+  },
+  {
+    "id": 8279,
+    "lesson_id": "lecon-38",
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "french": "riz / repas"
+  },
+  {
+    "id": 8280,
+    "lesson_id": "lecon-38",
+    "kanji": "パン",
+    "hiragana": "ぱん",
+    "romaji": "pan",
+    "french": "pain"
+  },
+  {
+    "id": 8281,
+    "lesson_id": "lecon-38",
+    "kanji": "サラダ",
+    "hiragana": "さらだ",
+    "romaji": "sarada",
+    "french": "salade"
+  },
+  {
+    "id": 8282,
+    "lesson_id": "lecon-38",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "french": "légumes"
+  },
+  {
+    "id": 8283,
+    "lesson_id": "lecon-38",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "viande"
+  },
+  {
+    "id": 8284,
+    "lesson_id": "lecon-38",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "poisson"
+  },
+  {
+    "id": 8285,
+    "lesson_id": "lecon-38",
+    "kanji": "ハンバーガー",
+    "hiragana": "はんばーがー",
+    "romaji": "hanbâgâ",
+    "french": "hamburger"
+  },
+  {
+    "id": 8286,
+    "lesson_id": "lecon-38",
+    "kanji": "パスタ",
+    "hiragana": "ぱすた",
+    "romaji": "pasuta",
+    "french": "pâtes"
+  },
+  {
+    "id": 8287,
+    "lesson_id": "lecon-38",
+    "kanji": "チーズ",
+    "hiragana": "ちーず",
+    "romaji": "chîzu",
+    "french": "fromage"
+  },
+  {
+    "id": 8288,
+    "lesson_id": "lecon-38",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "french": "boisson"
+  },
+  {
+    "id": 8289,
+    "lesson_id": "lecon-38",
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "french": "eau"
+  },
+  {
+    "id": 8290,
+    "lesson_id": "lecon-38",
+    "kanji": "コーヒー",
+    "hiragana": "こーひー",
+    "romaji": "kôhî",
+    "french": "café"
+  },
+  {
+    "id": 8291,
+    "lesson_id": "lecon-38",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "kôcha",
+    "french": "thé noir"
+  },
+  {
+    "id": 8292,
+    "lesson_id": "lecon-38",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "french": "thé vert"
+  },
+  {
+    "id": 8293,
+    "lesson_id": "lecon-38",
+    "kanji": "ジュース",
+    "hiragana": "じゅーす",
+    "romaji": "jûsu",
+    "french": "jus"
+  },
+  {
+    "id": 8294,
+    "lesson_id": "lecon-38",
+    "kanji": "コーラ",
+    "hiragana": "こーら",
+    "romaji": "kôra",
+    "french": "cola"
+  },
+  {
+    "id": 8295,
+    "lesson_id": "lecon-38",
+    "kanji": "タイプ",
+    "hiragana": "たいぷ",
+    "romaji": "taipu",
+    "french": "type"
+  },
+  {
+    "id": 8296,
+    "lesson_id": "lecon-38",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kôen",
+    "french": "parc"
+  },
+  {
+    "id": 8297,
+    "lesson_id": "lecon-38",
+    "kanji": "スーパー",
+    "hiragana": "すーぱー",
+    "romaji": "sûpâ",
+    "french": "supermarché"
+  },
+  {
+    "id": 8298,
+    "lesson_id": "lecon-38",
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "romaji": "benri",
+    "french": "pratique"
+  },
+  {
+    "id": 8299,
+    "lesson_id": "lecon-38",
+    "kanji": "リビング",
+    "hiragana": "りびんぐ",
+    "romaji": "ribingu",
+    "french": "salon"
+  },
+  {
+    "id": 8300,
+    "lesson_id": "lecon-38",
+    "kanji": "テーブル",
+    "hiragana": "てーぶる",
+    "romaji": "têburu",
+    "french": "table"
+  },
+  {
+    "id": 8301,
+    "lesson_id": "lecon-38",
+    "kanji": "イス",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "french": "chaise"
+  },
+  {
+    "id": 8302,
+    "lesson_id": "lecon-38",
+    "kanji": "エアコン",
+    "hiragana": "えあこん",
+    "romaji": "eakon",
+    "french": "climatiseur"
+  },
+  {
+    "id": 8303,
+    "lesson_id": "lecon-38",
+    "kanji": "テレビ",
+    "hiragana": "てれび",
+    "romaji": "terebi",
+    "french": "télévision"
+  },
+  {
+    "id": 8304,
+    "lesson_id": "lecon-38",
+    "kanji": "ソファ",
+    "hiragana": "そふぁ",
+    "romaji": "sofa",
+    "french": "canapé"
+  },
+  {
+    "id": 8305,
+    "lesson_id": "lecon-38",
+    "kanji": "ペット",
+    "hiragana": "ぺっと",
+    "romaji": "petto",
+    "french": "animal de compagnie"
+  },
+  {
+    "id": 8306,
+    "lesson_id": "lecon-38",
+    "kanji": "ウサギ",
+    "hiragana": "うさぎ",
+    "romaji": "usagi",
+    "french": "lapin"
+  },
+  {
+    "id": 8307,
+    "lesson_id": "lecon-44",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "french": "matin"
+  },
+  {
+    "id": 8308,
+    "lesson_id": "lecon-44",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "french": "midi / après-midi"
+  },
+  {
+    "id": 8309,
+    "lesson_id": "lecon-44",
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "french": "soir / nuit"
+  },
+  {
+    "id": 8310,
+    "lesson_id": "lecon-44",
+    "kanji": "一日",
+    "hiragana": "いちにち",
+    "romaji": "ichinichi",
+    "french": "une journée entière"
+  },
+  {
+    "id": 8311,
+    "lesson_id": "lecon-44",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "french": "chaque jour / tous les jours"
+  },
+  {
+    "id": 8312,
+    "lesson_id": "lecon-44",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "romaji": "gozen",
+    "french": "matin (AM)"
+  },
+  {
+    "id": 8313,
+    "lesson_id": "lecon-44",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "romaji": "gogo",
+    "french": "après-midi (PM)"
+  },
+  {
+    "id": 8314,
+    "lesson_id": "lecon-45",
+    "kanji": "1時",
+    "hiragana": "いちじ",
+    "romaji": "ichiji",
+    "french": "1h"
+  },
+  {
+    "id": 8315,
+    "lesson_id": "lecon-45",
+    "kanji": "2時",
+    "hiragana": "にじ",
+    "romaji": "niji",
+    "french": "2h"
+  },
+  {
+    "id": 8316,
+    "lesson_id": "lecon-45",
+    "kanji": "3時",
+    "hiragana": "さんじ",
+    "romaji": "sanji",
+    "french": "3h"
+  },
+  {
+    "id": 8317,
+    "lesson_id": "lecon-45",
+    "kanji": "**4時**",
+    "hiragana": "**よじ**",
+    "romaji": "**yoji**",
+    "french": "**4h (PAS しじ)**"
+  },
+  {
+    "id": 8318,
+    "lesson_id": "lecon-45",
+    "kanji": "5時",
+    "hiragana": "ごじ",
+    "romaji": "goji",
+    "french": "5h"
+  },
+  {
+    "id": 8319,
+    "lesson_id": "lecon-45",
+    "kanji": "6時",
+    "hiragana": "ろくじ",
+    "romaji": "rokuji",
+    "french": "6h"
+  },
+  {
+    "id": 8320,
+    "lesson_id": "lecon-45",
+    "kanji": "7時",
+    "hiragana": "しちじ",
+    "romaji": "shichiji",
+    "french": "7h"
+  },
+  {
+    "id": 8321,
+    "lesson_id": "lecon-45",
+    "kanji": "**8時**",
+    "hiragana": "**はちじ**",
+    "romaji": "**hachiji**",
+    "french": "**8h**"
+  },
+  {
+    "id": 8322,
+    "lesson_id": "lecon-45",
+    "kanji": "**9時**",
+    "hiragana": "**くじ**",
+    "romaji": "**kuji**",
+    "french": "**9h (PAS きゅうじ)**"
+  },
+  {
+    "id": 8323,
+    "lesson_id": "lecon-45",
+    "kanji": "10時",
+    "hiragana": "じゅうじ",
+    "romaji": "juuji",
+    "french": "10h"
+  },
+  {
+    "id": 8324,
+    "lesson_id": "lecon-45",
+    "kanji": "11時",
+    "hiragana": "じゅういちじ",
+    "romaji": "juuichiji",
+    "french": "11h"
+  },
+  {
+    "id": 8325,
+    "lesson_id": "lecon-45",
+    "kanji": "12時",
+    "hiragana": "じゅうにじ",
+    "romaji": "juuniji",
+    "french": "12h"
+  },
+  {
+    "id": 8326,
+    "lesson_id": "lecon-46",
+    "kanji": "1分",
+    "hiragana": "いっぷん",
+    "romaji": "ippun",
+    "french": "1 min (っぷん)"
+  },
+  {
+    "id": 8327,
+    "lesson_id": "lecon-46",
+    "kanji": "2分",
+    "hiragana": "にふん",
+    "romaji": "nifun",
+    "french": "2 min"
+  },
+  {
+    "id": 8328,
+    "lesson_id": "lecon-46",
+    "kanji": "3分",
+    "hiragana": "さんぷん",
+    "romaji": "sanpun",
+    "french": "3 min (ぷん)"
+  },
+  {
+    "id": 8329,
+    "lesson_id": "lecon-46",
+    "kanji": "4分",
+    "hiragana": "よんぷん",
+    "romaji": "yonpun",
+    "french": "4 min (ぷん)"
+  },
+  {
+    "id": 8330,
+    "lesson_id": "lecon-46",
+    "kanji": "5分",
+    "hiragana": "ごふん",
+    "romaji": "gofun",
+    "french": "5 min"
+  },
+  {
+    "id": 8331,
+    "lesson_id": "lecon-46",
+    "kanji": "6分",
+    "hiragana": "ろっぷん",
+    "romaji": "roppun",
+    "french": "6 min (っぷん)"
+  },
+  {
+    "id": 8332,
+    "lesson_id": "lecon-46",
+    "kanji": "7分",
+    "hiragana": "ななふん",
+    "romaji": "nanafun",
+    "french": "7 min"
+  },
+  {
+    "id": 8333,
+    "lesson_id": "lecon-46",
+    "kanji": "8分",
+    "hiragana": "はっぷん",
+    "romaji": "happun",
+    "french": "8 min (っぷん)"
+  },
+  {
+    "id": 8334,
+    "lesson_id": "lecon-46",
+    "kanji": "9分",
+    "hiragana": "きゅうふん",
+    "romaji": "kyuufun",
+    "french": "9 min"
+  },
+  {
+    "id": 8335,
+    "lesson_id": "lecon-46",
+    "kanji": "10分",
+    "hiragana": "じゅっぷん",
+    "romaji": "juppun",
+    "french": "10 min (っぷん)"
+  },
+  {
+    "id": 8336,
+    "lesson_id": "lecon-46",
+    "kanji": "15分",
+    "hiragana": "じゅうごふん",
+    "romaji": "juugofun",
+    "french": "15 min"
+  },
+  {
+    "id": 8337,
+    "lesson_id": "lecon-46",
+    "kanji": "20分",
+    "hiragana": "にじゅっぷん",
+    "romaji": "nijuppun",
+    "french": "20 min (っぷん)"
+  },
+  {
+    "id": 8338,
+    "lesson_id": "lecon-46",
+    "kanji": "30分",
+    "hiragana": "さんじゅっぷん / はん",
+    "romaji": "sanjuppun / han",
+    "french": "30 min / et demie"
+  },
+  {
+    "id": 8339,
+    "lesson_id": "lecon-46",
+    "kanji": "40分",
+    "hiragana": "よんじゅっぷん",
+    "romaji": "yonjuppun",
+    "french": "40 min (っぷん)"
+  },
+  {
+    "id": 8340,
+    "lesson_id": "lecon-46",
+    "kanji": "45分",
+    "hiragana": "よんじゅうごふん",
+    "romaji": "yonjuugofun",
+    "french": "45 min"
+  },
+  {
+    "id": 8341,
+    "lesson_id": "lecon-46",
+    "kanji": "50分",
+    "hiragana": "ごじゅっぷん",
+    "romaji": "gojuppun",
+    "french": "50 min (っぷん)"
+  },
+  {
+    "id": 8342,
+    "lesson_id": "lecon-47",
+    "kanji": "**時**",
+    "hiragana": "じ",
+    "romaji": "ji",
+    "french": "heure (-h)"
+  },
+  {
+    "id": 8343,
+    "lesson_id": "lecon-47",
+    "kanji": "**分**",
+    "hiragana": "ふん / ぷん",
+    "romaji": "fun / pun",
+    "french": "minute"
+  },
+  {
+    "id": 8344,
+    "lesson_id": "lecon-47",
+    "kanji": "**半**",
+    "hiragana": "はん",
+    "romaji": "han",
+    "french": "demi / et demie"
+  },
+  {
+    "id": 8345,
+    "lesson_id": "lecon-48",
+    "kanji": null,
+    "hiragana": "**そして**",
+    "romaji": "soshite",
+    "french": "et (puis) — simple enchaînement"
+  },
+  {
+    "id": 8346,
+    "lesson_id": "lecon-48",
+    "kanji": null,
+    "hiragana": "**それから**",
+    "romaji": "sorekara",
+    "french": "et ensuite / après ça — séquence temporelle"
+  },
+  {
+    "id": 8347,
+    "lesson_id": "lecon-48",
+    "kanji": null,
+    "hiragana": "**でも**",
+    "romaji": "demo",
+    "french": "mais — contraste"
+  },
+  {
+    "id": 8348,
+    "lesson_id": "lecon-49",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoobi",
+    "french": "lundi"
+  },
+  {
+    "id": 8349,
+    "lesson_id": "lecon-49",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoobi",
+    "french": "mardi"
+  },
+  {
+    "id": 8350,
+    "lesson_id": "lecon-49",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoobi",
+    "french": "mercredi"
+  },
+  {
+    "id": 8351,
+    "lesson_id": "lecon-49",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoobi",
+    "french": "jeudi"
+  },
+  {
+    "id": 8352,
+    "lesson_id": "lecon-49",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kin'yoobi",
+    "french": "vendredi"
+  },
+  {
+    "id": 8353,
+    "lesson_id": "lecon-49",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoobi",
+    "french": "samedi"
+  },
+  {
+    "id": 8354,
+    "lesson_id": "lecon-49",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoobi",
+    "french": "dimanche"
+  },
+  {
+    "id": 8355,
+    "lesson_id": "lecon-50",
+    "kanji": "メール を 書きます",
+    "hiragana": "メール を かきます",
+    "romaji": "meeru wo kakimasu",
+    "french": "écrire un e-mail"
+  },
+  {
+    "id": 8356,
+    "lesson_id": "lecon-50",
+    "kanji": "電話 を します",
+    "hiragana": "でんわ を します",
+    "romaji": "denwa wo shimasu",
+    "french": "passer un coup de téléphone"
+  },
+  {
+    "id": 8357,
+    "lesson_id": "lecon-50",
+    "kanji": "レポートを 書きます",
+    "hiragana": "レポートを かきます",
+    "romaji": "repooto wo kakimasu",
+    "french": "écrire un rapport"
+  },
+  {
+    "id": 8358,
+    "lesson_id": "lecon-50",
+    "kanji": "会議 に 行きます",
+    "hiragana": "かいぎ に いきます",
+    "romaji": "kaigi ni ikimasu",
+    "french": "aller à une réunion"
+  },
+  {
+    "id": 8359,
+    "lesson_id": "lecon-50",
+    "kanji": "同僚 と 話します",
+    "hiragana": "どうりょう と はなします",
+    "romaji": "douryou to hanashimasu",
+    "french": "parler avec un(e) collègue"
+  },
+  {
+    "id": 8360,
+    "lesson_id": "lecon-50",
+    "kanji": "残業 を します",
+    "hiragana": "ざんぎょう を します",
+    "romaji": "zangyou wo shimasu",
+    "french": "faire des heures supplémentaires"
+  },
+  {
+    "id": 8361,
+    "lesson_id": "lecon-50",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoubi",
+    "french": "Lundi"
+  },
+  {
+    "id": 8362,
+    "lesson_id": "lecon-50",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoubi",
+    "french": "Mardi"
+  },
+  {
+    "id": 8363,
+    "lesson_id": "lecon-50",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoubi",
+    "french": "Mercredi"
+  },
+  {
+    "id": 8364,
+    "lesson_id": "lecon-50",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "french": "Jeudi"
+  },
+  {
+    "id": 8365,
+    "lesson_id": "lecon-50",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "french": "Vendredi"
+  },
+  {
+    "id": 8366,
+    "lesson_id": "lecon-50",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoubi",
+    "french": "Samedi"
+  },
+  {
+    "id": 8367,
+    "lesson_id": "lecon-50",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoubi",
+    "french": "Dimanche"
+  },
+  {
+    "id": 8368,
+    "lesson_id": "lecon-50",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "french": "entreprise / société"
+  },
+  {
+    "id": 8369,
+    "lesson_id": "lecon-50",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "french": "chaque jour / tous les jours"
+  },
+  {
+    "id": 8370,
+    "lesson_id": "lecon-50",
+    "kanji": "時々",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "french": "parfois"
+  },
+  {
+    "id": 8371,
+    "lesson_id": "lecon-50",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "french": "la semaine prochaine"
+  },
+  {
+    "id": 8372,
+    "lesson_id": "lecon-50",
+    "kanji": "予定",
+    "hiragana": "スケジュール",
+    "romaji": "sukejuuru",
+    "french": "emploi du temps / agenda"
+  },
+  {
+    "id": 8373,
+    "lesson_id": "lecon-50",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "french": "travail / boulot"
+  },
+  {
+    "id": 8374,
+    "lesson_id": "lecon-50",
+    "kanji": "運動",
+    "hiragana": "うんどう",
+    "romaji": "undou",
+    "french": "exercice physique / sport"
+  },
+  {
+    "id": 8375,
+    "lesson_id": "lecon-50",
+    "kanji": "お風呂",
+    "hiragana": "おふろ",
+    "romaji": "ofuro",
+    "french": "bain (baignoire)"
+  },
+  {
+    "id": 8376,
+    "lesson_id": "lecon-50",
+    "kanji": "月曜日",
+    "hiragana": "___",
+    "romaji": "getsuyoubi",
+    "french": "___"
+  },
+  {
+    "id": 8383,
+    "lesson_id": "lecon-50",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoobi",
+    "french": "lundi"
+  },
+  {
+    "id": 8384,
+    "lesson_id": "lecon-50",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoobi",
+    "french": "mardi"
+  },
+  {
+    "id": 8385,
+    "lesson_id": "lecon-50",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoobi",
+    "french": "mercredi"
+  },
+  {
+    "id": 8386,
+    "lesson_id": "lecon-50",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "french": "Bois / Arbre (Thursday) 🌳"
+  },
+  {
+    "id": 8387,
+    "lesson_id": "lecon-50",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "french": "Or / Métal (Friday) ✨"
+  },
+  {
+    "id": 8388,
+    "lesson_id": "lecon-50",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoobi",
+    "french": "samedi"
+  },
+  {
+    "id": 8389,
+    "lesson_id": "lecon-50",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoobi",
+    "french": "dimanche"
+  },
+  {
+    "id": 8390,
+    "lesson_id": "lecon-51",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "romaji": "okimasu",
+    "french": "se lever"
+  },
+  {
+    "id": 8391,
+    "lesson_id": "lecon-51",
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "romaji": "nemasu",
+    "french": "dormir"
+  },
+  {
+    "id": 8392,
+    "lesson_id": "lecon-51",
+    "kanji": "シャワーを浴びます",
+    "hiragana": "しゃわーをあびます",
+    "romaji": "shawaa o abimasu",
+    "french": "prendre une douche"
+  },
+  {
+    "id": 8393,
+    "lesson_id": "lecon-51",
+    "kanji": "お風呂に入ります",
+    "hiragana": "おふろにはいります",
+    "romaji": "ofuro ni hairimasu",
+    "french": "prendre un bain"
+  },
+  {
+    "id": 8394,
+    "lesson_id": "lecon-51",
+    "kanji": "顔を洗います",
+    "hiragana": "かおをあらいます",
+    "romaji": "kao o araimasu",
+    "french": "se laver le visage"
+  },
+  {
+    "id": 8395,
+    "lesson_id": "lecon-51",
+    "kanji": "歯を磨きます",
+    "hiragana": "はをみがきます",
+    "romaji": "ha o migakimasu",
+    "french": "se brosser les dents"
+  },
+  {
+    "id": 8396,
+    "lesson_id": "lecon-51",
+    "kanji": "お化粧をします",
+    "hiragana": "おけしょうをします",
+    "romaji": "okeshou o shimasu",
+    "french": "se maquiller"
+  },
+  {
+    "id": 8397,
+    "lesson_id": "lecon-51",
+    "kanji": "髭を剃ります",
+    "hiragana": "ひげをそります",
+    "romaji": "hige o sorimasu",
+    "french": "se raser"
+  },
+  {
+    "id": 8398,
+    "lesson_id": "lecon-51",
+    "kanji": "服を着ます",
+    "hiragana": "ふくをきます",
+    "romaji": "fuku o kimasu",
+    "french": "s'habiller"
+  },
+  {
+    "id": 8399,
+    "lesson_id": "lecon-51",
+    "kanji": "服を脱ぎます",
+    "hiragana": "ふくをぬぎます",
+    "romaji": "fuku o nugimasu",
+    "french": "se déshabiller"
+  },
+  {
+    "id": 8400,
+    "lesson_id": "lecon-51",
+    "kanji": "会社に行きます",
+    "hiragana": "かいしゃにいきます",
+    "romaji": "kaisha ni ikimasu",
+    "french": "aller au travail"
+  },
+  {
+    "id": 8401,
+    "lesson_id": "lecon-51",
+    "kanji": "家に帰ります",
+    "hiragana": "うちにかえります",
+    "romaji": "uchi ni kaerimasu",
+    "french": "rentrer à la maison"
+  },
+  {
+    "id": 8402,
+    "lesson_id": "lecon-51",
+    "kanji": "学校に行きます",
+    "hiragana": "がっこうにいきます",
+    "romaji": "gakkoo ni ikimasu",
+    "french": "aller à l'école"
+  },
+  {
+    "id": 8403,
+    "lesson_id": "lecon-51",
+    "kanji": "仕事をします",
+    "hiragana": "しごとをします",
+    "romaji": "shigoto o shimasu",
+    "french": "travailler"
+  },
+  {
+    "id": 8404,
+    "lesson_id": "lecon-51",
+    "kanji": "勉強をします",
+    "hiragana": "べんきょうをします",
+    "romaji": "benkyou o shimasu",
+    "french": "étudier"
+  },
+  {
+    "id": 8405,
+    "lesson_id": "lecon-51",
+    "kanji": "残業をします",
+    "hiragana": "ざんぎょうをします",
+    "romaji": "zangyou o shimasu",
+    "french": "faire des heures supplémentaires"
+  },
+  {
+    "id": 8406,
+    "lesson_id": "lecon-51",
+    "kanji": "食事をします",
+    "hiragana": "しょくじをします",
+    "romaji": "shokuji o shimasu",
+    "french": "manger"
+  },
+  {
+    "id": 8407,
+    "lesson_id": "lecon-51",
+    "kanji": "アルバイトをします",
+    "hiragana": "あるばいとをします",
+    "romaji": "arubaito o shimasu",
+    "french": "faire du travail à temps partiel"
+  },
+  {
+    "id": 8408,
+    "lesson_id": "lecon-51",
+    "kanji": "朝/昼/晩ご飯を食べます",
+    "hiragana": "あさ/ひる/ばん-ごはんをたべます",
+    "romaji": "asa/hiru/ban-gohan o tabemasu",
+    "french": "manger le petit-déj/déjeuner/dîner"
+  },
+  {
+    "id": 8409,
+    "lesson_id": "lecon-51",
+    "kanji": "買い物をします",
+    "hiragana": "かいものをします",
+    "romaji": "kaimono o shimasu",
+    "french": "faire les courses"
+  },
+  {
+    "id": 8410,
+    "lesson_id": "lecon-51",
+    "kanji": "洗濯をします",
+    "hiragana": "せんたくをします",
+    "romaji": "sentaku o shimasu",
+    "french": "faire la lessive"
+  },
+  {
+    "id": 8411,
+    "lesson_id": "lecon-51",
+    "kanji": "掃除をします",
+    "hiragana": "そうじをします",
+    "romaji": "sooji (o) shimasu",
+    "french": "nettoyer"
+  },
+  {
+    "id": 8412,
+    "lesson_id": "lecon-51",
+    "kanji": "料理をします",
+    "hiragana": "りょうりをします",
+    "romaji": "ryoori (o) shimasu",
+    "french": "cuisiner"
+  },
+  {
+    "id": 8413,
+    "lesson_id": "lecon-51",
+    "kanji": "家事をします",
+    "hiragana": "かじをします",
+    "romaji": "kaji (o) shimasu",
+    "french": "faire le ménage"
+  },
+  {
+    "id": 8414,
+    "lesson_id": "lecon-51",
+    "kanji": "～の世話をします",
+    "hiragana": "～のせわをします",
+    "romaji": "~ no sewa o shimasu",
+    "french": "s'occuper de ~"
+  },
+  {
+    "id": 8415,
+    "lesson_id": "lecon-51",
+    "kanji": "片付けます",
+    "hiragana": "かたづけます",
+    "romaji": "katazukemasu",
+    "french": "ranger"
+  },
+  {
+    "id": 8416,
+    "lesson_id": "lecon-51",
+    "kanji": "手伝います",
+    "hiragana": "てつだいます",
+    "romaji": "tetsudaimasu",
+    "french": "aider"
+  },
+  {
+    "id": 8417,
+    "lesson_id": "lecon-51",
+    "kanji": "遊びます",
+    "hiragana": "あそびます",
+    "romaji": "asobimasu",
+    "french": "jouer"
+  },
+  {
+    "id": 8418,
+    "lesson_id": "lecon-51",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "romaji": "yasumimasu",
+    "french": "se reposer"
+  },
+  {
+    "id": 8419,
+    "lesson_id": "lecon-51",
+    "kanji": "メールをします",
+    "hiragana": "めーるをします",
+    "romaji": "meeru o shimasu",
+    "french": "envoyer un email"
+  },
+  {
+    "id": 8420,
+    "lesson_id": "lecon-51",
+    "kanji": "インターネット",
+    "hiragana": "いんたーねっと",
+    "romaji": "intaanetto",
+    "french": "internet"
+  },
+  {
+    "id": 8421,
+    "lesson_id": "lecon-51",
+    "kanji": "ゆっくりします",
+    "hiragana": "ゆっくりします",
+    "romaji": "yukkuri-shimasu",
+    "french": "se détendre"
+  },
+  {
+    "id": 8422,
+    "lesson_id": "lecon-51",
+    "kanji": "ゲームをします",
+    "hiragana": "げーむをします",
+    "romaji": "geemu (o) shimasu",
+    "french": "jouer à des jeux vidéo"
+  },
+  {
+    "id": 8423,
+    "lesson_id": "lecon-51",
+    "kanji": "電話をします/かけます",
+    "hiragana": "でんわをします/かけます",
+    "romaji": "denwa (o) shimasu / kakemasu",
+    "french": "téléphoner"
+  },
+  {
+    "id": 8424,
+    "lesson_id": "lecon-51",
+    "kanji": "お祈りをします",
+    "hiragana": "おいのりをします",
+    "romaji": "oinori (o) shimasu",
+    "french": "prier"
+  },
+  {
+    "id": 8425,
+    "lesson_id": "lecon-51",
+    "kanji": "煙草を吸います",
+    "hiragana": "たばこをすいます",
+    "romaji": "tabako o suimasu",
+    "french": "fumer"
+  },
+  {
+    "id": 8426,
+    "lesson_id": "lecon-51",
+    "kanji": "運動をします",
+    "hiragana": "うんどうをします",
+    "romaji": "undoo (o) shimasu",
+    "french": "faire de l'exercice"
+  },
+  {
+    "id": 8427,
+    "lesson_id": "lecon-51",
+    "kanji": "散歩をします",
+    "hiragana": "さんぽをします",
+    "romaji": "sanpo (o) shimasu",
+    "french": "se promener"
+  },
+  {
+    "id": 8428,
+    "lesson_id": "lecon-51",
+    "kanji": "ヨガをします",
+    "hiragana": "ようがをします",
+    "romaji": "yoga (o) shimasu",
+    "french": "faire du yoga"
+  },
+  {
+    "id": 8429,
+    "lesson_id": "lecon-51",
+    "kanji": "友達が来ます",
+    "hiragana": "ともだちがきます",
+    "romaji": "tomodachi ga kimasu",
+    "french": "un ami arrive / des amis arrivent"
+  },
+  {
+    "id": 8430,
+    "lesson_id": "lecon-51",
+    "kanji": "～とおしゃべりをします",
+    "hiragana": "～とおしゃべりをします",
+    "romaji": "~ to oshaberi (o) shimasu",
+    "french": "discuter avec ~"
+  },
+  {
+    "id": 8431,
+    "lesson_id": "lecon-51",
+    "kanji": "本を読みます",
+    "hiragana": "ほんをよみます",
+    "romaji": "hon o yomimasu",
+    "french": "lire un livre"
+  },
+  {
+    "id": 8432,
+    "lesson_id": "lecon-51",
+    "kanji": "新聞を読みます",
+    "hiragana": "しんぶんをよみます",
+    "romaji": "shinbun o yomimasu",
+    "french": "lire le journal"
+  },
+  {
+    "id": 8433,
+    "lesson_id": "lecon-51",
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "romaji": "zasshi",
+    "french": "magazine"
+  },
+  {
+    "id": 8434,
+    "lesson_id": "lecon-51",
+    "kanji": "テレビを見ます",
+    "hiragana": "てれびをみます",
+    "romaji": "terebi o mimasu",
+    "french": "regarder la télévision"
+  },
+  {
+    "id": 8435,
+    "lesson_id": "lecon-51",
+    "kanji": "日記を書きます",
+    "hiragana": "にっきをかきます",
+    "romaji": "nikki o kakimasu",
+    "french": "écrire un journal intime"
+  },
+  {
+    "id": 8436,
+    "lesson_id": "lecon-51",
+    "kanji": "音楽を聞きます",
+    "hiragana": "おんがくをききます",
+    "romaji": "ongaku o kikimasu",
+    "french": "écouter de la musique"
+  },
+  {
+    "id": 8437,
+    "lesson_id": "lecon-51",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyōbi",
+    "french": "lundi"
+  },
+  {
+    "id": 8438,
+    "lesson_id": "lecon-51",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayōbi",
+    "french": "mardi"
+  },
+  {
+    "id": 8439,
+    "lesson_id": "lecon-51",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyōbi",
+    "french": "mercredi"
+  },
+  {
+    "id": 8440,
+    "lesson_id": "lecon-51",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyōbi",
+    "french": "jeudi"
+  },
+  {
+    "id": 8441,
+    "lesson_id": "lecon-51",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyōbi",
+    "french": "vendredi"
+  },
+  {
+    "id": 8442,
+    "lesson_id": "lecon-51",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyōbi",
+    "french": "samedi"
+  },
+  {
+    "id": 8443,
+    "lesson_id": "lecon-51",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyōbi",
+    "french": "dimanche"
+  },
+  {
+    "id": 8444,
+    "lesson_id": "lecon-51",
+    "kanji": "時",
+    "hiragana": "じ",
+    "romaji": "ji",
+    "french": "heure (de l'heure)"
+  },
+  {
+    "id": 8445,
+    "lesson_id": "lecon-51",
+    "kanji": "時半",
+    "hiragana": "じはん",
+    "romaji": "jihan",
+    "french": "demi-heure"
+  },
+  {
+    "id": 8446,
+    "lesson_id": "lecon-51",
+    "kanji": "分",
+    "hiragana": "ふん",
+    "romaji": "fun",
+    "french": "minutes"
+  },
+  {
+    "id": 8447,
+    "lesson_id": "lecon-51",
+    "kanji": "～時間",
+    "hiragana": "～じかん",
+    "romaji": "~jikan",
+    "french": "~ heures (durée)"
+  },
+  {
+    "id": 8448,
+    "lesson_id": "lecon-51",
+    "kanji": "～時間半",
+    "hiragana": "～じかんはん",
+    "romaji": "~jikan han",
+    "french": "~ heures et demie"
+  },
+  {
+    "id": 8449,
+    "lesson_id": "lecon-51",
+    "kanji": "ごろ",
+    "hiragana": "ごろ",
+    "romaji": "goro",
+    "french": "vers, environ"
+  },
+  {
+    "id": 8450,
+    "lesson_id": "lecon-51",
+    "kanji": "ぐらい",
+    "hiragana": "ぐらい",
+    "romaji": "gurai",
+    "french": "environ"
+  },
+  {
+    "id": 8451,
+    "lesson_id": "lecon-51",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "romaji": "isogashii",
+    "french": "occupé, très actif"
+  },
+  {
+    "id": 8452,
+    "lesson_id": "lecon-51",
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "romaji": "nemui",
+    "french": "avoir sommeil, somnolent"
+  },
+  {
+    "id": 8453,
+    "lesson_id": "lecon-51",
+    "kanji": "退屈",
+    "hiragana": "たいくつ",
+    "romaji": "taikutsu",
+    "french": "ennuyeux"
+  },
+  {
+    "id": 8454,
+    "lesson_id": "lecon-51",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "romaji": "hima",
+    "french": "libre"
+  },
+  {
+    "id": 8455,
+    "lesson_id": "lecon-51",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "tanoshii",
+    "french": "amusant"
+  },
+  {
+    "id": 8456,
+    "lesson_id": "lecon-51",
+    "kanji": "大好きです",
+    "hiragana": "だいすきです",
+    "romaji": "daisuki desu",
+    "french": "adorer, j"
+  },
+  {
+    "id": 8457,
+    "lesson_id": "lecon-51",
+    "kanji": "嫌いです",
+    "hiragana": "きらいです",
+    "romaji": "kirai desu",
+    "french": "ne pas aimer, je n"
+  },
+  {
+    "id": 8458,
+    "lesson_id": "lecon-52",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "romaji": "tanjōbi",
+    "french": "anniversaire"
+  },
+  {
+    "id": 8459,
+    "lesson_id": "lecon-52",
+    "kanji": "誕生日パーティー",
+    "hiragana": "たんじょうびぱーてぃー",
+    "romaji": "tanjōbi pāti",
+    "french": "fête d'anniversaire"
+  },
+  {
+    "id": 8460,
+    "lesson_id": "lecon-52",
+    "kanji": "バースデーパーティー",
+    "hiragana": "ばーすでーぱーてぃー",
+    "romaji": "bāsudē pāti",
+    "french": "birthday party (anglicisme)"
+  },
+  {
+    "id": 8461,
+    "lesson_id": "lecon-52",
+    "kanji": "クリスマス",
+    "hiragana": "くりすます",
+    "romaji": "kurisumasu",
+    "french": "Noël"
+  },
+  {
+    "id": 8462,
+    "lesson_id": "lecon-52",
+    "kanji": "クリスマスパーティー",
+    "hiragana": "くりすますぱーてぃー",
+    "romaji": "kurisumasu pāti",
+    "french": "fête de Noël"
+  },
+  {
+    "id": 8463,
+    "lesson_id": "lecon-52",
+    "kanji": "ウェルカム",
+    "hiragana": "うぇるかむ",
+    "romaji": "werukamu",
+    "french": "bienvenue"
+  },
+  {
+    "id": 8464,
+    "lesson_id": "lecon-52",
+    "kanji": "ウェルカムパーティー",
+    "hiragana": "うぇるかむぱーてぃー",
+    "romaji": "werukamu pāti",
+    "french": "fête de bienvenue"
+  },
+  {
+    "id": 8465,
+    "lesson_id": "lecon-52",
+    "kanji": "ホームパーティー",
+    "hiragana": "ほーむぱーてぃー",
+    "romaji": "hōmu pāti",
+    "french": "fête à domicile"
+  },
+  {
+    "id": 8466,
+    "lesson_id": "lecon-52",
+    "kanji": "お花見",
+    "hiragana": "おはなみ",
+    "romaji": "ohanami",
+    "french": "observation des fleurs de cerisier"
+  },
+  {
+    "id": 8467,
+    "lesson_id": "lecon-52",
+    "kanji": "お花見パーティー",
+    "hiragana": "おはなみぱーてぃー",
+    "romaji": "ohanami pāti",
+    "french": "pique-nique en regardant les fleurs de cerisier"
+  },
+  {
+    "id": 8468,
+    "lesson_id": "lecon-52",
+    "kanji": "イベント",
+    "hiragana": "いべんと",
+    "romaji": "ibento",
+    "french": "événement"
+  },
+  {
+    "id": 8469,
+    "lesson_id": "lecon-52",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "romaji": "nomimasu",
+    "french": "boire"
+  },
+  {
+    "id": 8470,
+    "lesson_id": "lecon-52",
+    "kanji": "ワイン",
+    "hiragana": "わいん",
+    "romaji": "wain",
+    "french": "vin"
+  },
+  {
+    "id": 8471,
+    "lesson_id": "lecon-52",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "romaji": "osake",
+    "french": "alcool, sake"
+  },
+  {
+    "id": 8472,
+    "lesson_id": "lecon-52",
+    "kanji": "歩きます",
+    "hiragana": "あるきます",
+    "romaji": "arukimasu",
+    "french": "marcher"
+  },
+  {
+    "id": 8473,
+    "lesson_id": "lecon-52",
+    "kanji": "散歩",
+    "hiragana": "さんぽ",
+    "romaji": "sanpo",
+    "french": "promenade"
+  },
+  {
+    "id": 8474,
+    "lesson_id": "lecon-52",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "romaji": "hanashimasu",
+    "french": "parler, discuter"
+  },
+  {
+    "id": 8475,
+    "lesson_id": "lecon-52",
+    "kanji": "友達と話します",
+    "hiragana": "ともだちとはなします",
+    "romaji": "tomodachi to hanashimasu",
+    "french": "parler avec des amis"
+  },
+  {
+    "id": 8476,
+    "lesson_id": "lecon-52",
+    "kanji": "桜の花を見ます",
+    "hiragana": "さくらのはなをみます",
+    "romaji": "sakura no hana o mimasu",
+    "french": "regarder les fleurs de cerisier"
+  },
+  {
+    "id": 8477,
+    "lesson_id": "lecon-52",
+    "kanji": "ケーキを食べます",
+    "hiragana": "けーきをたべます",
+    "romaji": "kēki o tabemasu",
+    "french": "manger un gâteau"
+  },
+  {
+    "id": 8478,
+    "lesson_id": "lecon-52",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "romaji": "tabemasu",
+    "french": "manger"
+  },
+  {
+    "id": 8479,
+    "lesson_id": "lecon-52",
+    "kanji": "音楽を聞きます",
+    "hiragana": "おんがくをききます",
+    "romaji": "ongaku o kikimasu",
+    "french": "écouter de la musique"
+  },
+  {
+    "id": 8480,
+    "lesson_id": "lecon-52",
+    "kanji": "遊びます",
+    "hiragana": "あそびます",
+    "romaji": "asobimasu",
+    "french": "jouer"
+  },
+  {
+    "id": 8481,
+    "lesson_id": "lecon-52",
+    "kanji": "カラオケ",
+    "hiragana": "からおけ",
+    "romaji": "karaoke",
+    "french": "karaoké"
+  },
+  {
+    "id": 8482,
+    "lesson_id": "lecon-52",
+    "kanji": "カラオケをします",
+    "hiragana": "からおけをします",
+    "romaji": "karaoke o shimasu",
+    "french": "faire du karaoké"
+  },
+  {
+    "id": 8483,
+    "lesson_id": "lecon-52",
+    "kanji": "プレゼント",
+    "hiragana": "ぷれぜんと",
+    "romaji": "purezento",
+    "french": "cadeau"
+  },
+  {
+    "id": 8484,
+    "lesson_id": "lecon-52",
+    "kanji": "プレゼントをあげます",
+    "hiragana": "ぷれぜんとをあげます",
+    "romaji": "purezento o agemasu",
+    "french": "offrir un cadeau"
+  },
+  {
+    "id": 8485,
+    "lesson_id": "lecon-52",
+    "kanji": "プレゼントをもらいます",
+    "hiragana": "ぷれぜんとをもらいます",
+    "romaji": "purezento o moraimasu",
+    "french": "recevoir un cadeau"
+  },
+  {
+    "id": 8486,
+    "lesson_id": "lecon-52",
+    "kanji": "踊ります",
+    "hiragana": "おどります",
+    "romaji": "odorimasu",
+    "french": "danser"
+  },
+  {
+    "id": 8487,
+    "lesson_id": "lecon-52",
+    "kanji": "写真を撮ります",
+    "hiragana": "しゃしんをとります",
+    "romaji": "shashin o torimasu",
+    "french": "prendre une photo"
+  },
+  {
+    "id": 8488,
+    "lesson_id": "lecon-52",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyōbi",
+    "french": "lundi"
+  },
+  {
+    "id": 8489,
+    "lesson_id": "lecon-52",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayōbi",
+    "french": "mardi"
+  },
+  {
+    "id": 8490,
+    "lesson_id": "lecon-52",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyōbi",
+    "french": "mercredi"
+  },
+  {
+    "id": 8491,
+    "lesson_id": "lecon-52",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyōbi",
+    "french": "jeudi"
+  },
+  {
+    "id": 8492,
+    "lesson_id": "lecon-52",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyōbi",
+    "french": "vendredi"
+  },
+  {
+    "id": 8493,
+    "lesson_id": "lecon-52",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyōbi",
+    "french": "samedi"
+  },
+  {
+    "id": 8494,
+    "lesson_id": "lecon-52",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyōbi",
+    "french": "dimanche"
+  },
+  {
+    "id": 8495,
+    "lesson_id": "lecon-52",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "french": "la semaine prochaine"
+  },
+  {
+    "id": 8496,
+    "lesson_id": "lecon-52",
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "french": "le mois prochain"
+  },
+  {
+    "id": 8497,
+    "lesson_id": "lecon-53",
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "french": "confirmation, vérification"
+  },
+  {
+    "id": 8498,
+    "lesson_id": "lecon-53",
+    "kanji": "チェック",
+    "hiragana": "ちぇっく",
+    "romaji": "chekku",
+    "french": "vérifier"
+  },
+  {
+    "id": 8499,
+    "lesson_id": "lecon-53",
+    "kanji": "比較する",
+    "hiragana": "ひかくする",
+    "romaji": "hikaku suru",
+    "french": "comparer"
+  },
+  {
+    "id": 8500,
+    "lesson_id": "lecon-53",
+    "kanji": "ルーレット",
+    "hiragana": "るーれっと",
+    "romaji": "rūretto",
+    "french": "roulette, spinner"
+  },
+  {
+    "id": 8501,
+    "lesson_id": "lecon-53",
+    "kanji": "決めます",
+    "hiragana": "きめます",
+    "romaji": "kimemasu",
+    "french": "décider, choisir"
+  },
+  {
+    "id": 8502,
+    "lesson_id": "lecon-53",
+    "kanji": "カテゴリー",
+    "hiragana": "かてごりー",
+    "romaji": "kategori",
+    "french": "catégorie"
+  },
+  {
+    "id": 8503,
+    "lesson_id": "lecon-53",
+    "kanji": "プール",
+    "hiragana": "ぷーる",
+    "romaji": "pūru",
+    "french": "piscine"
+  },
+  {
+    "id": 8504,
+    "lesson_id": "lecon-53",
+    "kanji": "ごはん",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "french": "riz, repas"
+  },
+  {
+    "id": 8505,
+    "lesson_id": "lecon-53",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "french": "film, cinéma"
+  },
+  {
+    "id": 8506,
+    "lesson_id": "lecon-53",
+    "kanji": "行きます",
+    "hiragana": "いきます",
+    "romaji": "ikimasu",
+    "french": "aller"
+  },
+  {
+    "id": 8507,
+    "lesson_id": "lecon-53",
+    "kanji": "～で食べます",
+    "hiragana": "～でたべます",
+    "romaji": "~ de tabemasu",
+    "french": "manger à/chez ~"
+  },
+  {
+    "id": 8508,
+    "lesson_id": "lecon-53",
+    "kanji": "～でも",
+    "hiragana": "～でも",
+    "romaji": "~ demo",
+    "french": "aussi, également"
+  },
+  {
+    "id": 8509,
+    "lesson_id": "lecon-54",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "french": "nom"
+  },
+  {
+    "id": 8510,
+    "lesson_id": "lecon-54",
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "french": "pays"
+  },
+  {
+    "id": 8511,
+    "lesson_id": "lecon-54",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "french": "université"
+  },
+  {
+    "id": 8512,
+    "lesson_id": "lecon-54",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "french": "étudiant"
+  },
+  {
+    "id": 8513,
+    "lesson_id": "lecon-54",
+    "kanji": "職業",
+    "hiragana": "しょくぎょう",
+    "romaji": "shokugyō",
+    "french": "profession, métier"
+  },
+  {
+    "id": 8514,
+    "lesson_id": "lecon-54",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "french": "professeur"
+  },
+  {
+    "id": 8515,
+    "lesson_id": "lecon-54",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "french": "médecin"
+  },
+  {
+    "id": 8516,
+    "lesson_id": "lecon-54",
+    "kanji": "エンジニア",
+    "hiragana": "えんじにあ",
+    "romaji": "enjinia",
+    "french": "ingénieur"
+  },
+  {
+    "id": 8517,
+    "lesson_id": "lecon-54",
+    "kanji": "好きです",
+    "hiragana": "すきです",
+    "romaji": "suki desu",
+    "french": "on aime"
+  },
+  {
+    "id": 8518,
+    "lesson_id": "lecon-54",
+    "kanji": "嫌いです",
+    "hiragana": "きらいです",
+    "romaji": "kirai desu",
+    "french": "on n'aime pas"
+  },
+  {
+    "id": 8519,
+    "lesson_id": "lecon-54",
+    "kanji": "得意です",
+    "hiragana": "とくいです",
+    "romaji": "tokui desu",
+    "french": "on est doué en"
+  },
+  {
+    "id": 8520,
+    "lesson_id": "lecon-54",
+    "kanji": "苦手です",
+    "hiragana": "にがてです",
+    "romaji": "nigate desu",
+    "french": "on a du mal avec"
+  },
+  {
+    "id": 8521,
+    "lesson_id": "lecon-54",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "french": "aliments"
+  },
+  {
+    "id": 8522,
+    "lesson_id": "lecon-54",
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "french": "boissons"
+  },
+  {
+    "id": 8523,
+    "lesson_id": "lecon-54",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "french": "légumes"
+  },
+  {
+    "id": 8524,
+    "lesson_id": "lecon-54",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "french": "viande"
+  },
+  {
+    "id": 8525,
+    "lesson_id": "lecon-54",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "french": "poisson"
+  },
+  {
+    "id": 8526,
+    "lesson_id": "lecon-54",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "french": "fruits"
+  },
+  {
+    "id": 8527,
+    "lesson_id": "lecon-54",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "romaji": "kazoku",
+    "french": "famille"
+  },
+  {
+    "id": 8528,
+    "lesson_id": "lecon-54",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "romaji": "chichi",
+    "french": "père"
+  },
+  {
+    "id": 8529,
+    "lesson_id": "lecon-54",
+    "kanji": "母",
+    "hiragana": "はは",
+    "romaji": "haha",
+    "french": "mère"
+  },
+  {
+    "id": 8530,
+    "lesson_id": "lecon-54",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "french": "frère aîné"
+  },
+  {
+    "id": 8531,
+    "lesson_id": "lecon-54",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otōto",
+    "french": "frère cadet"
+  },
+  {
+    "id": 8532,
+    "lesson_id": "lecon-54",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "french": "sœur aînée"
+  },
+  {
+    "id": 8533,
+    "lesson_id": "lecon-54",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "romaji": "imōto",
+    "french": "sœur cadette"
+  },
+  {
+    "id": 8534,
+    "lesson_id": "lecon-54",
+    "kanji": "祖父",
+    "hiragana": "そふ",
+    "romaji": "sofu",
+    "french": "grand-père"
+  },
+  {
+    "id": 8535,
+    "lesson_id": "lecon-54",
+    "kanji": "祖母",
+    "hiragana": "そぼ",
+    "romaji": "sobo",
+    "french": "grand-mère"
+  },
+  {
+    "id": 8536,
+    "lesson_id": "lecon-54",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "french": "enfant"
+  },
+  {
+    "id": 8537,
+    "lesson_id": "lecon-54",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "french": "maison"
+  },
+  {
+    "id": 8538,
+    "lesson_id": "lecon-54",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "french": "pièce, chambre"
+  },
+  {
+    "id": 8539,
+    "lesson_id": "lecon-54",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "french": "cuisine"
+  },
+  {
+    "id": 8540,
+    "lesson_id": "lecon-54",
+    "kanji": "リビング",
+    "hiragana": "りびんぐ",
+    "romaji": "ribingu",
+    "french": "salon"
+  },
+  {
+    "id": 8541,
+    "lesson_id": "lecon-54",
+    "kanji": "ベッド",
+    "hiragana": "べっど",
+    "romaji": "beddo",
+    "french": "lit"
+  },
+  {
+    "id": 8542,
+    "lesson_id": "lecon-54",
+    "kanji": "テーブル",
+    "hiragana": "てーぶる",
+    "romaji": "tēburu",
+    "french": "table"
+  },
+  {
+    "id": 8543,
+    "lesson_id": "lecon-54",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "romaji": "hito",
+    "french": "personne"
+  },
+  {
+    "id": 8544,
+    "lesson_id": "lecon-54",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "french": "ami"
+  },
+  {
+    "id": 8545,
+    "lesson_id": "lecon-54",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "romaji": "koibito",
+    "french": "petit ami / petite copine"
+  },
+  {
+    "id": 8546,
+    "lesson_id": "lecon-54",
+    "kanji": "背",
+    "hiragana": "せ",
+    "romaji": "se",
+    "french": "taille (hauteur)"
+  },
+  {
+    "id": 8547,
+    "lesson_id": "lecon-54",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "french": "grand, haut"
+  },
+  {
+    "id": 8548,
+    "lesson_id": "lecon-54",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "romaji": "hikui",
+    "french": "petit, bas"
+  },
+  {
+    "id": 8549,
+    "lesson_id": "lecon-54",
+    "kanji": "太っている",
+    "hiragana": "ふとっている",
+    "romaji": "futotteiru",
+    "french": "gras"
+  },
+  {
+    "id": 8550,
+    "lesson_id": "lecon-54",
+    "kanji": "痩せている",
+    "hiragana": "やせている",
+    "romaji": "yasetteiru",
+    "french": "maigre"
+  },
+  {
+    "id": 8551,
+    "lesson_id": "lecon-54",
+    "kanji": "髪",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "french": "cheveux"
+  },
+  {
+    "id": 8552,
+    "lesson_id": "lecon-54",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "romaji": "nagai",
+    "french": "long"
+  },
+  {
+    "id": 8553,
+    "lesson_id": "lecon-54",
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "romaji": "mijikai",
+    "french": "court"
+  },
+  {
+    "id": 8554,
+    "lesson_id": "lecon-54",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "romaji": "seikatsu",
+    "french": "vie quotidienne"
+  },
+  {
+    "id": 8555,
+    "lesson_id": "lecon-54",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "french": "heure (durée)"
+  },
+  {
+    "id": 8556,
+    "lesson_id": "lecon-54",
+    "kanji": "時",
+    "hiragana": "じ",
+    "romaji": "ji",
+    "french": "heure (du jour)"
+  },
+  {
+    "id": 8557,
+    "lesson_id": "lecon-54",
+    "kanji": "分",
+    "hiragana": "ふん",
+    "romaji": "fun",
+    "french": "minute"
+  },
+  {
+    "id": 8558,
+    "lesson_id": "lecon-54",
+    "kanji": "曜日",
+    "hiragana": "ようび",
+    "romaji": "yōbi",
+    "french": "jour de la semaine"
+  },
+  {
+    "id": 8559,
+    "lesson_id": "lecon-54",
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "romaji": "katsudō",
+    "french": "activité"
+  },
+  {
+    "id": 8560,
+    "lesson_id": "lecon-54",
+    "kanji": "イベント",
+    "hiragana": "いべんと",
+    "romaji": "ibento",
+    "french": "événement"
+  },
+  {
+    "id": 8561,
+    "lesson_id": "lecon-54",
+    "kanji": "パーティー",
+    "hiragana": "ぱーてぃー",
+    "romaji": "pāti",
+    "french": "fête"
+  },
+  {
+    "id": 8562,
+    "lesson_id": "lecon-54",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "romaji": "tanjōbi",
+    "french": "anniversaire"
+  },
+  {
+    "id": 8563,
+    "lesson_id": "lecon-54",
+    "kanji": "駄目です",
+    "hiragana": "だめです",
+    "romaji": "dame desu",
+    "french": "ce n'est pas bon"
+  },
+  {
+    "id": 8564,
+    "lesson_id": "lecon-55",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "romaji": "shumi",
+    "french": "hobby / loisir / passe-temps"
+  },
+  {
+    "id": 8565,
+    "lesson_id": "lecon-55",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "french": "cinéma / film"
+  },
+  {
+    "id": 8566,
+    "lesson_id": "lecon-55",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "french": "musique"
+  },
+  {
+    "id": 8567,
+    "lesson_id": "lecon-55",
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "romaji": "dokusho",
+    "french": "lecture"
+  },
+  {
+    "id": 8568,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "おりがみ",
+    "romaji": "origami",
+    "french": "origami"
+  },
+  {
+    "id": 8569,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "スポーツ",
+    "romaji": "supootsu",
+    "french": "sport"
+  },
+  {
+    "id": 8570,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ゴルフ",
+    "romaji": "gorufu",
+    "french": "golf"
+  },
+  {
+    "id": 8571,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "サッカー",
+    "romaji": "sakkaa",
+    "french": "football"
+  },
+  {
+    "id": 8572,
+    "lesson_id": "lecon-55",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "romaji": "suiei",
+    "french": "natation"
+  },
+  {
+    "id": 8573,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "バスケットボール",
+    "romaji": "basukettobōru",
+    "french": "basketball"
+  },
+  {
+    "id": 8574,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "スケート",
+    "romaji": "sukeeto",
+    "french": "patinage"
+  },
+  {
+    "id": 8575,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ジョギング",
+    "romaji": "jogingu",
+    "french": "jogging"
+  },
+  {
+    "id": 8576,
+    "lesson_id": "lecon-55",
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "romaji": "juudoo",
+    "french": "judo"
+  },
+  {
+    "id": 8577,
+    "lesson_id": "lecon-55",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "romaji": "yakyuu",
+    "french": "baseball"
+  },
+  {
+    "id": 8578,
+    "lesson_id": "lecon-55",
+    "kanji": "卓球",
+    "hiragana": "たっきゅう",
+    "romaji": "takkyuu",
+    "french": "ping-pong / tennis de table"
+  },
+  {
+    "id": 8579,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "きんトレ",
+    "romaji": "kintore",
+    "french": "musculation (entraînement musculaire)"
+  },
+  {
+    "id": 8580,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "テニス",
+    "romaji": "tenisu",
+    "french": "tennis"
+  },
+  {
+    "id": 8581,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "スキー",
+    "romaji": "sukii",
+    "french": "ski"
+  },
+  {
+    "id": 8582,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "アクション",
+    "romaji": "akushon",
+    "french": "action"
+  },
+  {
+    "id": 8583,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "french": "anime"
+  },
+  {
+    "id": 8584,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "コメディ",
+    "romaji": "komedii",
+    "french": "comédie"
+  },
+  {
+    "id": 8585,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ホラー",
+    "romaji": "horaa",
+    "french": "horreur"
+  },
+  {
+    "id": 8586,
+    "lesson_id": "lecon-55",
+    "kanji": "恋愛",
+    "hiragana": "れんあい",
+    "romaji": "ren'ai",
+    "french": "romance / amour"
+  },
+  {
+    "id": 8587,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "マンガ",
+    "romaji": "manga",
+    "french": "manga"
+  },
+  {
+    "id": 8588,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "エスエフ",
+    "romaji": "esu-efu",
+    "french": "science-fiction (SF)"
+  },
+  {
+    "id": 8589,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ファンタジー",
+    "romaji": "fantajii",
+    "french": "fantasy"
+  },
+  {
+    "id": 8590,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ミステリー",
+    "romaji": "misuterii",
+    "french": "policier / mystère"
+  },
+  {
+    "id": 8591,
+    "lesson_id": "lecon-55",
+    "kanji": "文学",
+    "hiragana": "ぶんがく",
+    "romaji": "bungaku",
+    "french": "littérature"
+  },
+  {
+    "id": 8592,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "カラオケ",
+    "romaji": "karaoke",
+    "french": "karaoké"
+  },
+  {
+    "id": 8593,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ダンス",
+    "romaji": "dansu",
+    "french": "danse"
+  },
+  {
+    "id": 8594,
+    "lesson_id": "lecon-55",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "french": "dessin / peinture"
+  },
+  {
+    "id": 8595,
+    "lesson_id": "lecon-55",
+    "kanji": "山登り",
+    "hiragana": "やまのぼり",
+    "romaji": "yamanobori",
+    "french": "randonnée / alpinisme"
+  },
+  {
+    "id": 8596,
+    "lesson_id": "lecon-55",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "french": "photographie"
+  },
+  {
+    "id": 8597,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "french": "jeux vidéo"
+  },
+  {
+    "id": 8598,
+    "lesson_id": "lecon-55",
+    "kanji": null,
+    "hiragana": "ボードゲーム",
+    "romaji": "bōdogeemu",
+    "french": "jeux de société"
+  },
+  {
+    "id": 8599,
+    "lesson_id": "lecon-55",
+    "kanji": "編み物",
+    "hiragana": "あみもの",
+    "romaji": "amimono",
+    "french": "tricot"
+  },
+  {
+    "id": 8600,
+    "lesson_id": "lecon-55",
+    "kanji": "外国語",
+    "hiragana": "がいこくご",
+    "romaji": "gaikokugo",
+    "french": "langue étrangère"
+  },
+  {
+    "id": 8601,
+    "lesson_id": "lecon-56",
+    "kanji": "家事",
+    "hiragana": "かじ",
+    "romaji": "kaji",
+    "french": "les tâches ménagères"
+  },
+  {
+    "id": 8602,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "french": "la télévision"
+  },
+  {
+    "id": 8603,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ゲーム",
+    "romaji": "geemu",
+    "french": "le jeu vidéo"
+  },
+  {
+    "id": 8604,
+    "lesson_id": "lecon-56",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "french": "le livre"
+  },
+  {
+    "id": 8605,
+    "lesson_id": "lecon-56",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "french": "la musique"
+  },
+  {
+    "id": 8606,
+    "lesson_id": "lecon-56",
+    "kanji": "花",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "french": "la fleur"
+  },
+  {
+    "id": 8607,
+    "lesson_id": "lecon-56",
+    "kanji": "散歩",
+    "hiragana": "さんぽ",
+    "romaji": "sanpo",
+    "french": "la promenade"
+  },
+  {
+    "id": 8608,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ジョギング",
+    "romaji": "jogingu",
+    "french": "le jogging"
+  },
+  {
+    "id": 8609,
+    "lesson_id": "lecon-56",
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "french": "le dessin / la peinture"
+  },
+  {
+    "id": 8610,
+    "lesson_id": "lecon-56",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "french": "la photo"
+  },
+  {
+    "id": 8611,
+    "lesson_id": "lecon-56",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kōen",
+    "french": "le parc"
+  },
+  {
+    "id": 8612,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "リビング",
+    "romaji": "ribingu",
+    "french": "le salon"
+  },
+  {
+    "id": 8613,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ジム",
+    "romaji": "jimu",
+    "french": "la salle de sport"
+  },
+  {
+    "id": 8614,
+    "lesson_id": "lecon-56",
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "french": "l'extérieur, dehors"
+  },
+  {
+    "id": 8615,
+    "lesson_id": "lecon-56",
+    "kanji": "家",
+    "hiragana": "うち",
+    "romaji": "uchi",
+    "french": "la maison, chez soi"
+  },
+  {
+    "id": 8616,
+    "lesson_id": "lecon-56",
+    "kanji": "風呂",
+    "hiragana": "おふろ",
+    "romaji": "ofuro",
+    "french": "le bain"
+  },
+  {
+    "id": 8617,
+    "lesson_id": "lecon-56",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "french": "le travail"
+  },
+  {
+    "id": 8618,
+    "lesson_id": "lecon-56",
+    "kanji": "言います",
+    "hiragana": "いいます",
+    "romaji": "iimasu",
+    "french": "dire"
+  },
+  {
+    "id": 8619,
+    "lesson_id": "lecon-56",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "romaji": "hanashimasu",
+    "french": "parler"
+  },
+  {
+    "id": 8620,
+    "lesson_id": "lecon-56",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "romaji": "yomimasu",
+    "french": "lire"
+  },
+  {
+    "id": 8621,
+    "lesson_id": "lecon-56",
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "romaji": "mimasu",
+    "french": "regarder, voir"
+  },
+  {
+    "id": 8622,
+    "lesson_id": "lecon-56",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "romaji": "kikimasu",
+    "french": "écouter, entendre"
+  },
+  {
+    "id": 8623,
+    "lesson_id": "lecon-56",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "romaji": "kakimasu",
+    "french": "écrire"
+  },
+  {
+    "id": 8624,
+    "lesson_id": "lecon-56",
+    "kanji": "撮ります",
+    "hiragana": "とります",
+    "romaji": "torimasu",
+    "french": "prendre (une photo)"
+  },
+  {
+    "id": 8625,
+    "lesson_id": "lecon-56",
+    "kanji": "します",
+    "hiragana": "します",
+    "romaji": "shimasu",
+    "french": "faire"
+  },
+  {
+    "id": 8626,
+    "lesson_id": "lecon-56",
+    "kanji": "何時も",
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "french": "toujours"
+  },
+  {
+    "id": 8627,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "french": "souvent"
+  },
+  {
+    "id": 8628,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "french": "parfois"
+  },
+  {
+    "id": 8629,
+    "lesson_id": "lecon-56",
+    "kanji": "余り",
+    "hiragana": "あまり",
+    "romaji": "amari",
+    "french": "pas tellement"
+  },
+  {
+    "id": 8630,
+    "lesson_id": "lecon-56",
+    "kanji": "全然",
+    "hiragana": "ぜんぜん",
+    "romaji": "zenzen",
+    "french": "jamais / pas du tout"
+  },
+  {
+    "id": 8631,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "アクションえいが",
+    "romaji": "akushon eiga",
+    "french": "film d'action"
+  },
+  {
+    "id": 8632,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "コメディ",
+    "romaji": "komedi",
+    "french": "comédie"
+  },
+  {
+    "id": 8633,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ホラー",
+    "romaji": "horā",
+    "french": "horreur"
+  },
+  {
+    "id": 8634,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "エスエフ",
+    "romaji": "esuefu",
+    "french": "science-fiction (SF)"
+  },
+  {
+    "id": 8635,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "french": "anime"
+  },
+  {
+    "id": 8636,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ポップス",
+    "romaji": "poppusu",
+    "french": "pop (musique)"
+  },
+  {
+    "id": 8637,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "ロック",
+    "romaji": "rokku",
+    "french": "rock (musique)"
+  },
+  {
+    "id": 8638,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "サッカー",
+    "romaji": "sakkā",
+    "french": "football"
+  },
+  {
+    "id": 8639,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "たっきゅう",
+    "romaji": "takkyū",
+    "french": "ping-pong"
+  },
+  {
+    "id": 8640,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "スキー",
+    "romaji": "sukī",
+    "french": "ski"
+  },
+  {
+    "id": 8641,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "きんトレ",
+    "romaji": "kintore",
+    "french": "musculation"
+  },
+  {
+    "id": 8642,
+    "lesson_id": "lecon-56",
+    "kanji": null,
+    "hiragana": "うんどう",
+    "romaji": "undō",
+    "french": "exercice / sport"
+  },
+  {
+    "id": 9656,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "アクション",
+    "romaji": "akushon",
+    "french": "action (film)"
+  },
+  {
+    "id": 9657,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "コメディ",
+    "romaji": "komedī",
+    "french": "comédie"
+  },
+  {
+    "id": 9658,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ホラー",
+    "romaji": "horā",
+    "french": "horreur"
+  },
+  {
+    "id": 9659,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "アニメ",
+    "romaji": "anime",
+    "french": "anime"
+  },
+  {
+    "id": 9660,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "エスエフ",
+    "romaji": "esuefu",
+    "french": "science-fiction (SF)"
+  },
+  {
+    "id": 9661,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ロック",
+    "romaji": "rokku",
+    "french": "rock"
+  },
+  {
+    "id": 9662,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ポップス",
+    "romaji": "poppusu",
+    "french": "pop"
+  },
+  {
+    "id": 9663,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "クラシック",
+    "romaji": "kurashikku",
+    "french": "classique"
+  },
+  {
+    "id": 9664,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ジャズ",
+    "romaji": "jazu",
+    "french": "jazz"
+  },
+  {
+    "id": 9665,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "テニス",
+    "romaji": "tenisu",
+    "french": "tennis"
+  },
+  {
+    "id": 9666,
+    "lesson_id": "lecon-57",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "romaji": "yakyū",
+    "french": "baseball"
+  },
+  {
+    "id": 9667,
+    "lesson_id": "lecon-57",
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "romaji": "jūdō",
+    "french": "judo"
+  },
+  {
+    "id": 9668,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ピアノ",
+    "romaji": "piano",
+    "french": "piano"
+  },
+  {
+    "id": 9669,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ギター",
+    "romaji": "gitā",
+    "french": "guitare"
+  },
+  {
+    "id": 9670,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "ダンス",
+    "romaji": "dansu",
+    "french": "danse"
+  },
+  {
+    "id": 9671,
+    "lesson_id": "lecon-57",
+    "kanji": null,
+    "hiragana": "スペインご",
+    "romaji": "Supein-go",
+    "french": "l'espagnol"
+  },
+  {
+    "id": 9672,
+    "lesson_id": "lecon-57",
+    "kanji": "一月",
+    "hiragana": "いちがつ",
+    "romaji": "ichigatsu",
+    "french": "janvier"
+  },
+  {
+    "id": 9673,
+    "lesson_id": "lecon-57",
+    "kanji": "二月",
+    "hiragana": "にがつ",
+    "romaji": "nigatsu",
+    "french": "février"
+  },
+  {
+    "id": 9674,
+    "lesson_id": "lecon-57",
+    "kanji": "三月",
+    "hiragana": "さんがつ",
+    "romaji": "sangatsu",
+    "french": "mars"
+  },
+  {
+    "id": 9675,
+    "lesson_id": "lecon-57",
+    "kanji": "四月",
+    "hiragana": "しがつ",
+    "romaji": "shigatsu",
+    "french": "avril"
+  },
+  {
+    "id": 9676,
+    "lesson_id": "lecon-57",
+    "kanji": "五月",
+    "hiragana": "ごがつ",
+    "romaji": "gogatsu",
+    "french": "mai"
+  },
+  {
+    "id": 9677,
+    "lesson_id": "lecon-57",
+    "kanji": "六月",
+    "hiragana": "ろくがつ",
+    "romaji": "rokugatsu",
+    "french": "juin"
+  },
+  {
+    "id": 9678,
+    "lesson_id": "lecon-57",
+    "kanji": "七月",
+    "hiragana": "しちがつ",
+    "romaji": "shichigatsu",
+    "french": "juillet"
+  },
+  {
+    "id": 9679,
+    "lesson_id": "lecon-57",
+    "kanji": "八月",
+    "hiragana": "はちがつ",
+    "romaji": "hachigatsu",
+    "french": "août"
+  },
+  {
+    "id": 9680,
+    "lesson_id": "lecon-57",
+    "kanji": "九月",
+    "hiragana": "くがつ",
+    "romaji": "kugatsu",
+    "french": "septembre"
+  },
+  {
+    "id": 9681,
+    "lesson_id": "lecon-57",
+    "kanji": "十月",
+    "hiragana": "じゅうがつ",
+    "romaji": "jūgatsu",
+    "french": "octobre"
+  },
+  {
+    "id": 9682,
+    "lesson_id": "lecon-57",
+    "kanji": "十一月",
+    "hiragana": "じゅういちがつ",
+    "romaji": "jūichigatsu",
+    "french": "novembre"
+  },
+  {
+    "id": 9683,
+    "lesson_id": "lecon-57",
+    "kanji": "十二月",
+    "hiragana": "じゅうにがつ",
+    "romaji": "jūnigatsu",
+    "french": "décembre"
+  }
+]

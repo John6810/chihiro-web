@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { getVocab } from '../lib/supabase';
 
-const vocab = await getVocab();
+const vocab = getVocab();
 const byLesson = new Map<string, typeof vocab>();
 for (const v of vocab) {
   if (!byLesson.has(v.lesson_id)) byLesson.set(v.lesson_id, []);

@@ -5,17 +5,17 @@ import { readFileSync, existsSync } from 'fs';
 import { resolve } from 'path';
 
 export async function getStaticPaths() {
-  const lessons = await getLessons();
+  const lessons = getLessons();
   return lessons.map(l => ({ params: { id: l.id } }));
 }
 
 const { id } = Astro.params;
-const lesson = await getLesson(id!);
-const vocab = await getVocab(id!);
-const grammar = await getGrammar(id!);
+const lesson = getLesson(id!);
+const vocab = getVocab(id!);
+const grammar = getGrammar(id!);
 
 // Navigation prev/next
-const allLessons = await getLessons();
+const allLessons = getLessons();
 const idx = allLessons.findIndex(l => l.id === id);
 const prev = idx > 0 ? allLessons[idx - 1] : null;
 const next = idx < allLessons.length - 1 ? allLessons[idx + 1] : null;

@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { getGrammar } from '../lib/supabase';
 
-const grammar = await getGrammar();
+const grammar = getGrammar();
 const byLesson = new Map<string, typeof grammar>();
 for (const g of grammar) {
   if (!byLesson.has(g.lesson_id)) byLesson.set(g.lesson_id, []);

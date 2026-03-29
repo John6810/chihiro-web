@@ -2,10 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import { getLessons, getVocab, getGrammar, getKanji } from '../lib/supabase';
 
-const lessons = await getLessons();
-const vocab = await getVocab();
-const grammar = await getGrammar();
-const kanji = await getKanji();
+const lessons = getLessons();
+const vocab = getVocab();
+const grammar = getGrammar();
+const kanji = getKanji();
 ---
 
 <Layout title="Accueil" active="home">

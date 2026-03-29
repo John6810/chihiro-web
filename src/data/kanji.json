@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 1,
+    "character": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning_fr": "un, premier",
+    "example_word": "一つ",
+    "example_reading": "ひとつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.594186+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 2,
+    "character": "二",
+    "onyomi": "ニ",
+    "kunyomi": "ふた(つ)",
+    "meaning_fr": "deux",
+    "example_word": "二つ",
+    "example_reading": "ふたつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.637765+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 3,
+    "character": "三",
+    "onyomi": "サン",
+    "kunyomi": "みっ(つ)",
+    "meaning_fr": "trois",
+    "example_word": "三つ",
+    "example_reading": "みっつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.653559+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 4,
+    "character": "四",
+    "onyomi": "シ",
+    "kunyomi": "よん・よっ(つ)",
+    "meaning_fr": "quatre",
+    "example_word": "四つ",
+    "example_reading": "よっつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.667945+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 5,
+    "character": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning_fr": "cinq",
+    "example_word": "五つ",
+    "example_reading": "いつつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.682822+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 6,
+    "character": "六",
+    "onyomi": "ロク",
+    "kunyomi": "むっ(つ)",
+    "meaning_fr": "six",
+    "example_word": "六つ",
+    "example_reading": "むっつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.697464+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 7,
+    "character": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ)",
+    "meaning_fr": "sept",
+    "example_word": "七つ",
+    "example_reading": "ななつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.712462+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 8,
+    "character": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "やっ(つ)",
+    "meaning_fr": "huit",
+    "example_word": "八つ",
+    "example_reading": "やっつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.725649+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 9,
+    "character": "九",
+    "onyomi": "キュウ・ク",
+    "kunyomi": "ここの(つ)",
+    "meaning_fr": "neuf",
+    "example_word": "九つ",
+    "example_reading": "ここのつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.740229+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 10,
+    "character": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお",
+    "meaning_fr": "dix",
+    "example_word": "十",
+    "example_reading": "じゅう",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.753775+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 11,
+    "character": "百",
+    "onyomi": "ヒャク",
+    "kunyomi": null,
+    "meaning_fr": "cent",
+    "example_word": "百円",
+    "example_reading": "ひゃくえん",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.767811+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 12,
+    "character": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning_fr": "mille",
+    "example_word": "千円",
+    "example_reading": "せんえん",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.781804+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 13,
+    "character": "万",
+    "onyomi": "マン",
+    "kunyomi": null,
+    "meaning_fr": "dix mille",
+    "example_word": "一万",
+    "example_reading": "いちまん",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres"
+    ],
+    "created_at": "2026-03-22T10:42:38.795525+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 14,
+    "character": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる",
+    "meaning_fr": "yen, cercle",
+    "example_word": "百円",
+    "example_reading": "ひゃくえん",
+    "jlpt_level": "N5",
+    "tags": [
+      "nombres",
+      "argent"
+    ],
+    "created_at": "2026-03-22T10:42:38.809952+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 15,
+    "character": "日",
+    "onyomi": "ニチ・ジツ",
+    "kunyomi": "ひ・か",
+    "meaning_fr": "jour, soleil",
+    "example_word": "日曜日",
+    "example_reading": "にちようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.823316+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 16,
+    "character": "月",
+    "onyomi": "ゲツ・ガツ",
+    "kunyomi": "つき",
+    "meaning_fr": "mois, lune",
+    "example_word": "月曜日",
+    "example_reading": "げつようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.837229+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 17,
+    "character": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ",
+    "meaning_fr": "feu",
+    "example_word": "火曜日",
+    "example_reading": "かようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.850503+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 18,
+    "character": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning_fr": "eau",
+    "example_word": "水曜日",
+    "example_reading": "すいようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.862516+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 19,
+    "character": "木",
+    "onyomi": "モク・ボク",
+    "kunyomi": "き",
+    "meaning_fr": "arbre, bois",
+    "example_word": "木曜日",
+    "example_reading": "もくようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.874017+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 20,
+    "character": "金",
+    "onyomi": "キン・コン",
+    "kunyomi": "かね",
+    "meaning_fr": "or, argent, métal",
+    "example_word": "金曜日",
+    "example_reading": "きんようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours",
+      "argent"
+    ],
+    "created_at": "2026-03-22T10:42:38.885513+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 21,
+    "character": "土",
+    "onyomi": "ド・ト",
+    "kunyomi": "つち",
+    "meaning_fr": "terre, sol",
+    "example_word": "土曜日",
+    "example_reading": "どようび",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "jours"
+    ],
+    "created_at": "2026-03-22T10:42:38.896448+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 22,
+    "character": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning_fr": "année",
+    "example_word": "今年",
+    "example_reading": "ことし",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.909859+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 23,
+    "character": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "meaning_fr": "heure, temps",
+    "example_word": "一時",
+    "example_reading": "いちじ",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.920363+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 24,
+    "character": "分",
+    "onyomi": "ブン・フン",
+    "kunyomi": "わ(ける)・わ(かれる)",
+    "meaning_fr": "minute, comprendre",
+    "example_word": "十分",
+    "example_reading": "じゅっぷん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.930937+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 25,
+    "character": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning_fr": "moitié, demi",
+    "example_word": "半分",
+    "example_reading": "はんぶん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.944353+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 26,
+    "character": "今",
+    "onyomi": "コン・キン",
+    "kunyomi": "いま",
+    "meaning_fr": "maintenant",
+    "example_word": "今日",
+    "example_reading": "きょう",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.957497+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 27,
+    "character": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "meaning_fr": "avant, précédent",
+    "example_word": "先生",
+    "example_reading": "せんせい",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.970058+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 28,
+    "character": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く(る)",
+    "meaning_fr": "venir, prochain",
+    "example_word": "来年",
+    "example_reading": "らいねん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:38.982747+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 29,
+    "character": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと",
+    "meaning_fr": "chaque",
+    "example_word": "毎日",
+    "example_reading": "まいにち",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:38.995216+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 30,
+    "character": "週",
+    "onyomi": "シュウ",
+    "kunyomi": null,
+    "meaning_fr": "semaine",
+    "example_word": "今週",
+    "example_reading": "こんしゅう",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:39.007244+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 31,
+    "character": "午",
+    "onyomi": "ゴ",
+    "kunyomi": null,
+    "meaning_fr": "midi",
+    "example_word": "午前",
+    "example_reading": "ごぜん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:39.019489+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 32,
+    "character": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning_fr": "avant, devant",
+    "example_word": "午前",
+    "example_reading": "ごぜん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.032348+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 33,
+    "character": "後",
+    "onyomi": "ゴ・コウ",
+    "kunyomi": "あと・うし(ろ)",
+    "meaning_fr": "après, derrière",
+    "example_word": "午後",
+    "example_reading": "ごご",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps",
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.046973+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 34,
+    "character": "人",
+    "onyomi": "ジン・ニン",
+    "kunyomi": "ひと",
+    "meaning_fr": "personne",
+    "example_word": "日本人",
+    "example_reading": "にほんじん",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes"
+    ],
+    "created_at": "2026-03-22T10:42:39.063618+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 35,
+    "character": "男",
+    "onyomi": "ダン",
+    "kunyomi": "おとこ",
+    "meaning_fr": "homme",
+    "example_word": "男の人",
+    "example_reading": "おとこのひと",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes"
+    ],
+    "created_at": "2026-03-22T10:42:39.077121+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 36,
+    "character": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな",
+    "meaning_fr": "femme",
+    "example_word": "女の人",
+    "example_reading": "おんなのひと",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes"
+    ],
+    "created_at": "2026-03-22T10:42:39.091197+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 37,
+    "character": "子",
+    "onyomi": "シ",
+    "kunyomi": "こ",
+    "meaning_fr": "enfant",
+    "example_word": "子供",
+    "example_reading": "こども",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes",
+      "famille"
+    ],
+    "created_at": "2026-03-22T10:42:39.104574+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 38,
+    "character": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "meaning_fr": "père",
+    "example_word": "お父さん",
+    "example_reading": "おとうさん",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes",
+      "famille"
+    ],
+    "created_at": "2026-03-22T10:42:39.1185+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 39,
+    "character": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは",
+    "meaning_fr": "mère",
+    "example_word": "お母さん",
+    "example_reading": "おかあさん",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes",
+      "famille"
+    ],
+    "created_at": "2026-03-22T10:42:39.132764+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 40,
+    "character": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning_fr": "ami",
+    "example_word": "友達",
+    "example_reading": "ともだち",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes"
+    ],
+    "created_at": "2026-03-22T10:42:39.146647+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 41,
+    "character": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning_fr": "étudier, apprendre",
+    "example_word": "学生",
+    "example_reading": "がくせい",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes",
+      "ecole"
+    ],
+    "created_at": "2026-03-22T10:42:39.161182+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 42,
+    "character": "生",
+    "onyomi": "セイ・ショウ",
+    "kunyomi": "い(きる)・う(まれる)",
+    "meaning_fr": "vie, naître",
+    "example_word": "先生",
+    "example_reading": "せんせい",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes",
+      "ecole"
+    ],
+    "created_at": "2026-03-22T10:42:39.1757+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 43,
+    "character": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning_fr": "pays",
+    "example_word": "外国",
+    "example_reading": "がいこく",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux"
+    ],
+    "created_at": "2026-03-22T10:42:39.189169+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 44,
+    "character": "外",
+    "onyomi": "ガイ・ゲ",
+    "kunyomi": "そと・はず(す)",
+    "meaning_fr": "extérieur",
+    "example_word": "外国人",
+    "example_reading": "がいこくじん",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux"
+    ],
+    "created_at": "2026-03-22T10:42:39.202832+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 45,
+    "character": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning_fr": "nord",
+    "example_word": "北口",
+    "example_reading": "きたぐち",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "directions"
+    ],
+    "created_at": "2026-03-22T10:42:39.216648+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 46,
+    "character": "南",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ",
+    "meaning_fr": "sud",
+    "example_word": "南口",
+    "example_reading": "みなみぐち",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "directions"
+    ],
+    "created_at": "2026-03-22T10:42:39.230887+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 47,
+    "character": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning_fr": "est",
+    "example_word": "東京",
+    "example_reading": "とうきょう",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "directions"
+    ],
+    "created_at": "2026-03-22T10:42:39.244881+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 48,
+    "character": "西",
+    "onyomi": "セイ・サイ",
+    "kunyomi": "にし",
+    "meaning_fr": "ouest",
+    "example_word": "西口",
+    "example_reading": "にしぐち",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "directions"
+    ],
+    "created_at": "2026-03-22T10:42:39.258298+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 49,
+    "character": "上",
+    "onyomi": "ジョウ",
+    "kunyomi": "うえ・あ(がる)",
+    "meaning_fr": "dessus, haut",
+    "example_word": "上",
+    "example_reading": "うえ",
+    "jlpt_level": "N5",
+    "tags": [
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.271187+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 50,
+    "character": "下",
+    "onyomi": "カ・ゲ",
+    "kunyomi": "した・さ(がる)",
+    "meaning_fr": "dessous, bas",
+    "example_word": "下",
+    "example_reading": "した",
+    "jlpt_level": "N5",
+    "tags": [
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.284265+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 51,
+    "character": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "meaning_fr": "milieu, intérieur",
+    "example_word": "中",
+    "example_reading": "なか",
+    "jlpt_level": "N5",
+    "tags": [
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.297361+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 52,
+    "character": "右",
+    "onyomi": "ウ・ユウ",
+    "kunyomi": "みぎ",
+    "meaning_fr": "droite",
+    "example_word": "右",
+    "example_reading": "みぎ",
+    "jlpt_level": "N5",
+    "tags": [
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.309908+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 53,
+    "character": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "meaning_fr": "gauche",
+    "example_word": "左",
+    "example_reading": "ひだり",
+    "jlpt_level": "N5",
+    "tags": [
+      "position"
+    ],
+    "created_at": "2026-03-22T10:42:39.321369+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 54,
+    "character": "食",
+    "onyomi": "ショク",
+    "kunyomi": "た(べる)",
+    "meaning_fr": "manger",
+    "example_word": "食べる",
+    "example_reading": "たべる",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes",
+      "nourriture"
+    ],
+    "created_at": "2026-03-22T10:42:39.332741+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 55,
+    "character": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "meaning_fr": "boire",
+    "example_word": "飲む",
+    "example_reading": "のむ",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes",
+      "nourriture"
+    ],
+    "created_at": "2026-03-22T10:42:39.344413+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 56,
+    "character": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)",
+    "meaning_fr": "voir, regarder",
+    "example_word": "見る",
+    "example_reading": "みる",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.356097+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 57,
+    "character": "聞",
+    "onyomi": "ブン・モン",
+    "kunyomi": "き(く)",
+    "meaning_fr": "écouter, entendre",
+    "example_word": "聞く",
+    "example_reading": "きく",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.368064+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 58,
+    "character": "読",
+    "onyomi": "ドク",
+    "kunyomi": "よ(む)",
+    "meaning_fr": "lire",
+    "example_word": "読む",
+    "example_reading": "よむ",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.379699+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 59,
+    "character": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning_fr": "écrire",
+    "example_word": "書く",
+    "example_reading": "かく",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.391226+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 60,
+    "character": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す)・はなし",
+    "meaning_fr": "parler, histoire",
+    "example_word": "話す",
+    "example_reading": "はなす",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.402631+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 61,
+    "character": "言",
+    "onyomi": "ゲン・ゴン",
+    "kunyomi": "い(う)",
+    "meaning_fr": "dire, parole",
+    "example_word": "言う",
+    "example_reading": "いう",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.414036+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 62,
+    "character": "行",
+    "onyomi": "コウ・ギョウ",
+    "kunyomi": "い(く)・おこな(う)",
+    "meaning_fr": "aller, faire, accomplir",
+    "example_word": "行く",
+    "example_reading": "いく",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.425703+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 63,
+    "character": "出",
+    "onyomi": "シュツ",
+    "kunyomi": "で(る)・だ(す)",
+    "meaning_fr": "sortir",
+    "example_word": "出る",
+    "example_reading": "でる",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.437362+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 64,
+    "character": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "はい(る)・い(れる)",
+    "meaning_fr": "entrer",
+    "example_word": "入る",
+    "example_reading": "はいる",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.449755+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 65,
+    "character": "立",
+    "onyomi": "リツ",
+    "kunyomi": "た(つ)",
+    "meaning_fr": "se lever, être debout",
+    "example_word": "立つ",
+    "example_reading": "たつ",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.46127+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 66,
+    "character": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning_fr": "se reposer",
+    "example_word": "休む",
+    "example_reading": "やすむ",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes"
+    ],
+    "created_at": "2026-03-22T10:42:39.474123+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 67,
+    "character": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "meaning_fr": "acheter",
+    "example_word": "買う",
+    "example_reading": "かう",
+    "jlpt_level": "N5",
+    "tags": [
+      "verbes",
+      "argent"
+    ],
+    "created_at": "2026-03-22T10:42:39.486314+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 68,
+    "character": "大",
+    "onyomi": "ダイ・タイ",
+    "kunyomi": "おお(きい)",
+    "meaning_fr": "grand",
+    "example_word": "大きい",
+    "example_reading": "おおきい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.499149+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 69,
+    "character": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい)・こ",
+    "meaning_fr": "petit",
+    "example_word": "小さい",
+    "example_reading": "ちいさい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.512807+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 70,
+    "character": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning_fr": "haut, cher",
+    "example_word": "高い",
+    "example_reading": "たかい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.525554+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 71,
+    "character": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)",
+    "meaning_fr": "bon marché, tranquille",
+    "example_word": "安い",
+    "example_reading": "やすい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs",
+      "argent"
+    ],
+    "created_at": "2026-03-22T10:42:39.539104+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 72,
+    "character": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい)",
+    "meaning_fr": "nouveau",
+    "example_word": "新しい",
+    "example_reading": "あたらしい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.551788+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 73,
+    "character": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "meaning_fr": "vieux, ancien",
+    "example_word": "古い",
+    "example_reading": "ふるい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.566937+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 74,
+    "character": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い)",
+    "meaning_fr": "long",
+    "example_word": "長い",
+    "example_reading": "ながい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.578951+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 75,
+    "character": "白",
+    "onyomi": "ハク・ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning_fr": "blanc",
+    "example_word": "白い",
+    "example_reading": "しろい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs",
+      "couleurs"
+    ],
+    "created_at": "2026-03-22T10:42:39.590559+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 76,
+    "character": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "meaning_fr": "nombreux, beaucoup",
+    "example_word": "多い",
+    "example_reading": "おおい",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.602102+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 77,
+    "character": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない)・すこ(し)",
+    "meaning_fr": "peu",
+    "example_word": "少ない",
+    "example_reading": "すくない",
+    "jlpt_level": "N5",
+    "tags": [
+      "adjectifs"
+    ],
+    "created_at": "2026-03-22T10:42:39.613588+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 78,
+    "character": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "meaning_fr": "montagne",
+    "example_word": "山",
+    "example_reading": "やま",
+    "jlpt_level": "N5",
+    "tags": [
+      "nature",
+      "lieux"
+    ],
+    "created_at": "2026-03-22T10:42:39.62612+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 79,
+    "character": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning_fr": "rivière",
+    "example_word": "川",
+    "example_reading": "かわ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nature",
+      "lieux"
+    ],
+    "created_at": "2026-03-22T10:42:39.638811+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 80,
+    "character": "天",
+    "onyomi": "テン",
+    "kunyomi": "あめ・あま",
+    "meaning_fr": "ciel, paradis",
+    "example_word": "天気",
+    "example_reading": "てんき",
+    "jlpt_level": "N5",
+    "tags": [
+      "nature",
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:39.652577+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 81,
+    "character": "気",
+    "onyomi": "キ・ケ",
+    "kunyomi": null,
+    "meaning_fr": "esprit, air, énergie",
+    "example_word": "天気",
+    "example_reading": "てんき",
+    "jlpt_level": "N5",
+    "tags": [
+      "nature"
+    ],
+    "created_at": "2026-03-22T10:42:39.665577+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 82,
+    "character": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ",
+    "meaning_fr": "pluie",
+    "example_word": "雨",
+    "example_reading": "あめ",
+    "jlpt_level": "N5",
+    "tags": [
+      "nature",
+      "temps"
+    ],
+    "created_at": "2026-03-22T10:42:39.678782+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 83,
+    "character": "電",
+    "onyomi": "デン",
+    "kunyomi": null,
+    "meaning_fr": "électricité",
+    "example_word": "電車",
+    "example_reading": "でんしゃ",
+    "jlpt_level": "N5",
+    "tags": [
+      "transport"
+    ],
+    "created_at": "2026-03-22T10:42:39.691738+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 84,
+    "character": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning_fr": "voiture",
+    "example_word": "電車",
+    "example_reading": "でんしゃ",
+    "jlpt_level": "N5",
+    "tags": [
+      "transport"
+    ],
+    "created_at": "2026-03-22T10:42:39.704854+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 85,
+    "character": "駅",
+    "onyomi": "エキ",
+    "kunyomi": null,
+    "meaning_fr": "gare",
+    "example_word": "駅",
+    "example_reading": "えき",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "transport"
+    ],
+    "created_at": "2026-03-22T10:42:39.718198+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 86,
+    "character": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "meaning_fr": "magasin",
+    "example_word": "お店",
+    "example_reading": "おみせ",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux"
+    ],
+    "created_at": "2026-03-22T10:42:39.730847+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 87,
+    "character": "校",
+    "onyomi": "コウ",
+    "kunyomi": null,
+    "meaning_fr": "école",
+    "example_word": "学校",
+    "example_reading": "がっこう",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "ecole"
+    ],
+    "created_at": "2026-03-22T10:42:39.742835+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 88,
+    "character": "会",
+    "onyomi": "カイ・エ",
+    "kunyomi": "あ(う)",
+    "meaning_fr": "rencontrer, réunion",
+    "example_word": "会社",
+    "example_reading": "かいしゃ",
+    "jlpt_level": "N5",
+    "tags": [
+      "travail"
+    ],
+    "created_at": "2026-03-22T10:42:39.755199+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 89,
+    "character": "社",
+    "onyomi": "シャ",
+    "kunyomi": null,
+    "meaning_fr": "société, entreprise",
+    "example_word": "会社",
+    "example_reading": "かいしゃ",
+    "jlpt_level": "N5",
+    "tags": [
+      "travail"
+    ],
+    "created_at": "2026-03-22T10:42:39.768759+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 90,
+    "character": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに・なん",
+    "meaning_fr": "quoi, quel",
+    "example_word": "何",
+    "example_reading": "なに",
+    "jlpt_level": "N5",
+    "tags": [
+      "gimonshi"
+    ],
+    "created_at": "2026-03-22T10:42:39.782285+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 91,
+    "character": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning_fr": "langue, mot",
+    "example_word": "日本語",
+    "example_reading": "にほんご",
+    "jlpt_level": "N5",
+    "tags": [
+      "langues"
+    ],
+    "created_at": "2026-03-22T10:42:39.796297+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 92,
+    "character": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning_fr": "livre, origine",
+    "example_word": "日本",
+    "example_reading": "にほん",
+    "jlpt_level": "N5",
+    "tags": [
+      "lieux",
+      "objets"
+    ],
+    "created_at": "2026-03-22T10:42:39.809297+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 93,
+    "character": "名",
+    "onyomi": "メイ・ミョウ",
+    "kunyomi": "な",
+    "meaning_fr": "nom",
+    "example_word": "名前",
+    "example_reading": "なまえ",
+    "jlpt_level": "N5",
+    "tags": [
+      "personnes"
+    ],
+    "created_at": "2026-03-22T10:42:39.82279+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  },
+  {
+    "id": 120,
+    "character": "間",
+    "onyomi": "カン",
+    "kunyomi": "あいだ",
+    "meaning_fr": "intervalle",
+    "example_word": "時間",
+    "example_reading": "じかん",
+    "jlpt_level": "N5",
+    "tags": [
+      "temps"
+    ],
+    "created_at": "2026-03-29T11:45:44.486457+00:00",
+    "audited_at": "2026-03-29T13:35:32.891661+00:00"
+  }
+]
