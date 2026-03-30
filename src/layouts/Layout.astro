@@ -17,7 +17,10 @@ const { title, active } = Astro.props;
   <header>
     <div class="container">
       <h1><a href="/">千尋</a></h1>
-      <nav>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="nav">
         <a href="/" class:list={[{ active: active === 'home' }]}>Accueil</a>
         <a href="/lecons" class:list={[{ active: active === 'lecons' }]}>Lecons</a>
         <a href="/vocabulaire" class:list={[{ active: active === 'vocab' }]}>Vocabulaire</a>
@@ -42,3 +45,19 @@ const { title, active } = Astro.props;
 <style is:global>
   @import '../styles/global.css';
 </style>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('nav');
+  toggle?.addEventListener('click', () => {
+    nav?.classList.toggle('open');
+    toggle.classList.toggle('open');
+  });
+  // Close menu on link click (mobile)
+  nav?.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      nav.classList.remove('open');
+      toggle?.classList.remove('open');
+    });
+  });
+</script>
