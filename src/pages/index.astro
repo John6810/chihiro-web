@@ -6,6 +6,7 @@ const lessons = getLessons();
 const vocab = getVocab();
 const grammar = getGrammar();
 const kanji = getKanji();
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="Accueil" active="home">
@@ -34,7 +35,7 @@ const kanji = getKanji();
     <h3>&#x1F4DA; Dernieres lecons</h3>
     <div class="card-grid">
       {lessons.slice(-6).reverse().map(l => (
-        <a href={`/lecons/${l.id}`} class="card">
+        <a href={`${base}lecons/${l.id}`} class="card">
           <h3 class="jp">{l.title}</h3>
           <div class="meta">{l.id} {l.lesson_date ? `| ${l.lesson_date}` : ''}</div>
           <div style="margin-top: 0.5rem">

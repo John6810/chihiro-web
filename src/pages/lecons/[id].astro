@@ -36,10 +36,11 @@ const sectionIcons: Record<string, string> = {
   culture: '🏯',
   recap: '📋',
 };
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title={lesson?.title || id!} active="lecons">
-  <a href="/lecons" class="back">&larr; Retour aux lecons</a>
+  <a href={`${base}lecons`} class="back">&larr; Retour aux lecons</a>
 
   {lesson && (
     <div class="cours">
@@ -328,13 +329,13 @@ const sectionIcons: Record<string, string> = {
       <!-- Navigation prev/next -->
       <div class="cours-nav">
         {prev ? (
-          <a href={`/lecons/${prev.id}`} class="cours-nav-link prev">
+          <a href={`${base}lecons/${prev.id}`} class="cours-nav-link prev">
             <span class="cours-nav-dir">&larr; Lecon precedente</span>
             <span class="cours-nav-title jp">{prev.title}</span>
           </a>
         ) : <div />}
         {next ? (
-          <a href={`/lecons/${next.id}`} class="cours-nav-link next">
+          <a href={`${base}lecons/${next.id}`} class="cours-nav-link next">
             <span class="cours-nav-dir">Lecon suivante &rarr;</span>
             <span class="cours-nav-title jp">{next.title}</span>
           </a>

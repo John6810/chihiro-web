@@ -9,6 +9,7 @@ for (const v of vocab) {
   byLesson.get(v.lesson_id)!.push(v);
 }
 const sortedLessons = [...byLesson.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="Vocabulaire" active="vocab">
@@ -27,7 +28,7 @@ const sortedLessons = [...byLesson.entries()].sort((a, b) => a[0].localeCompare(
     {sortedLessons.map(([lessonId, words]) => (
       <div class="fiche" data-lesson={lessonId}>
         <div class="fiche-header">
-          <h3><a href={`/lecons/${lessonId}`}>{lessonId.replace('lecon-', 'Lecon ')}</a></h3>
+          <h3><a href={`${base}lecons/${lessonId}`}>{lessonId.replace('lecon-', 'Lecon ')}</a></h3>
           <span class="badge">{words.length} mots</span>
         </div>
         <div class="fiche-body">

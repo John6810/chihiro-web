@@ -11,6 +11,7 @@ const vocabCount = new Map<string, number>();
 const grammarCount = new Map<string, number>();
 for (const v of vocab) vocabCount.set(v.lesson_id, (vocabCount.get(v.lesson_id) || 0) + 1);
 for (const g of grammar) grammarCount.set(g.lesson_id, (grammarCount.get(g.lesson_id) || 0) + 1);
+const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="Lecons" active="lecons">
@@ -18,7 +19,7 @@ for (const g of grammar) grammarCount.set(g.lesson_id, (grammarCount.get(g.lesso
 
   <div class="programme">
     {lessons.map((l, i) => (
-      <a href={`/lecons/${l.id}`} class="programme-row">
+      <a href={`${base}lecons/${l.id}`} class="programme-row">
         <div class="programme-num">{l.id.replace('lecon-', '')}</div>
         <div class="programme-content">
           <div class="programme-title jp">{l.title}</div>
