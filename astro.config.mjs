@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   output: 'static',
   site: 'https://john6810.github.io',
-  base: '/chihiro-web',
+  base: '/chihiro-web/',
   vite: {
     plugins: [tailwindcss()],
   },
